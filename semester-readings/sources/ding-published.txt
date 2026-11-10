@@ -1,0 +1,1297 @@
+=== PDF PAGE 1 ===
+Review of International Political Economy
+ISSN: 0969-2290 (Print) 1466-4526 (Online) Journal homepage: www.tandfonline.com/journals/rrip20
+The diﬀusion deﬁcit in scientiﬁc and technological
+power: re-assessing China’s rise
+Jeﬀrey Ding
+To cite this article: Jeﬀrey Ding (2024) The diﬀusion deﬁcit in scientiﬁc and technological
+power: re-assessing China’s rise, Review of International Political Economy, 31:1, 173-198, DOI:
+10.1080/09692290.2023.2173633
+To link to this article:  https://doi.org/10.1080/09692290.2023.2173633
+© 2023 The Author(s). Published by Informa
+UK Limited, trading as Taylor & Francis
+Group.
+View supplementary material
+Published online: 13 Mar 2023.
+Submit your article to this journal
+Article views: 28426
+View related articles
+View Crossmark data
+Citing articles: 22 View citing articles
+Full Terms & Conditions of access and use can be found at
+https://www.tandfonline.com/action/journalInformation?journalCode=rrip20
+
+=== PDF PAGE 2 ===
+The diffusion deficit in scientific and technological
+power: re-assessing China ’s rise
+Jeffrey Ding
+George Washington University, Washington, DC, USA
+ABSTRACT
+Virtually all scholars recognize that scientific and technological capabilities are
+becoming increasingly important factors in a nation ’s overall power. Unsurprisingly,
+debates over a possible U.S. –China power transition highlight China ’s rise as a sci-
+ence and technology superpower. These discussions overwhelmingly center on
+national innovation capabilities, reflective of the bias in assessments of scientific
+and technological capabilities toward the generation of novel advances. This paper
+argues that these assessments should, instead, place greater weight on a state ’s
+capacity to diffuse, or widely adopt, innovations. Specifically, when there is a signifi-
+cant gap between a rising power ’s innovation capacity and its diffusion capacity,
+relying solely on the former results in misleading appraisals of its potential to sus-
+tain economic growth in the long run. I demonstrate this with two historical cases:
+the U.S. in the Second Industrial Revolution and the Soviet Union in the early post-
+war period. Lastly, I show that, in contrast to assessments based on innovation cap-
+acity, a diffusion-centric approach reveals that China is far from being a science and
+technology superpower.
+KEYWORDS
+diffusion; innovation; China; United States; technology; economic governance
+Introduction
+The genius inventor experiences a Eureka moment. An awesome engineering mar-
+vel reaches completion. A new theorem changes everything. These are the images
+that come to mind when most people picture scientific and technological advance.
+Neglected in the collective imagination is the toil of diffusion: an invention
+becomes a standardized product, an engineering marvel is re-constructed in
+another context, a theory spreads from one institution to another.
+Likewise, most writing on the history of science and technology is primarily
+concerned with the emergence of new technologies (Edgerton, 1999). In contrast,
+as one economic historian points out, ‘Much less attention … if any at all, has been
+CONTACT Jeffrey Ding jding99@gmail.com George Washington University, Washington, DC, USA
+Supplemental data for this article can be accessed online at https://doi.org/10.1080/09692290.2023.
+2173633.
+/C2232023 The Author(s). Published by Informa UK Limited, trading as Taylor & Francis Group.
+This is an Open Access article distributed under the terms of the Creative Commons Attribution-NonCommercial-NoDerivatives
+License (http://creativecommons.org/licenses/by-nc-nd/4.0/), which permits non-commercial re-use, distribution, and reproduction
+in any medium, provided the original work is properly cited, and is not altered, transformed, or built upon in any way.
+REVIEW OF INTERNATIONAL POLITICAL ECONOMY
+2024, VOL. 31, NO. 1, 173 –198
+https://doi.org/10.1080/09692290.2023.2173633
+
+=== PDF PAGE 3 ===
+accorded to the rate at which new technologies have been adopted and embedded
+in the productive process. Indeed the diffusion process has often been assumed out
+of existence ’ (Rosenberg, 1982, p. 19).
+The same blind spot is evident in assessments of national scientific and techno-
+logical (S&T) capabilities. Scholars and policymakers gravitate toward measures of
+a nation ’s capacity to generate new innovations, largely neglecting what happens
+after their initial introduction (Breznitz & Murphree, 2011, p. 2). Emphasizing a
+country’s ability to monopolize innovation in leading sectors, influential theories of
+historical power transitions argue that dominating cycles of innovation in key tech-
+nologies propels a rising power to global leadership (Kennedy, 1987; Modelski &
+Thompson, 1996). Predictably, debates over China ’s S&T capabilities also center on
+whether China can produce novel technologies.
+Yet, without diffusion, even the most extraordinary innovations will not have an
+impact. Achieving great heights requires nightly toil, not just moments of sudden
+flight. Of course, in many cases, being the first to introduce new technologies
+makes it easier to adopt these technologies quickly and effectively. However, this
+advantage can be offset by other factors that affect the rate at which a country
+adopts new innovations at scale, such as the strength of communication channels
+that update small and medium-sized enterprises about new technological advances
+and the density of linkages that connect research institutes and firms. Therefore, a
+country’s innovation capacity can diverge significantly from its diffusion capacity.
+1
+When such a gap exists, innovation-centric assessments of national S&T capabil-
+ities will be misleading because they underweight a state ’s capacity to incorporate
+new advances into productive processes. In cases when the emerging power has a
+strong innovation capacity but weak diffusion capacity ( diffusion deficit ), it is less
+likely to sustain its rise than innovation-centric assessments depict. Conversely,
+when the emerging power possesses a strong diffusion capacity but weak innov-
+ation capacity ( diffusion surplus ), it is more likely to sustain its rise than innov-
+ation-centric assessments portray. Historical cases of both scenarios bear out these
+expectations. The U.S. in the late 19th century, a case of diffusion surplus, became
+the preeminent economic power, and the Soviet Union in the early decades of the
+postwar period, a case of diffusion deficit, suffered an economic collapse. In both
+cases, appreciation of diffusion capacity provided a more balanced assessment of
+S&T power.
+Applied to present-day debates about China as a rising power, a diffusion-cen-
+tric perspective provides new insights into China ’s S&T capabilities. China ’s per-
+ceived rise as a ‘science and technology superpower ’ has occupied a substantial
+share of the debate over a possible U.S. –China power transition (Lan & Forbes,
+2006; Suttmeier, 2008). These discussions overwhelmingly center on China ’s cap-
+acity to generate new S&T innovations, captured by indicators such as R&D expen-
+ditures and patent outputs (Kennedy, 2016; Rapkin & Thompson, 2003). However,
+an evaluation of China ’s ability to adopt new technologies across productive proc-
+esses reveals a diffusion deficit, which rebuts claims that China is poised to become
+a science and technology superpower.
+This article makes several contributions. First, by demonstrating that assess-
+ments of S&T capabilities should be rebalanced toward diffusion capacity, it sug-
+gests modifications to theories of global economic leadership that emphasize a
+country’s ability to monopolize innovation in key sectors (Gilpin, 1981; Kennedy,
+174 J. DING
+
+=== PDF PAGE 4 ===
+1987; Modelski & Thompson, 1996). This intervention directly bears on the
+broader questions related to the political economy of power, a core issue that con-
+nects international political economy and security studies.
+In this vein, the article ’s main contention has major implications for assessments
+of national power, especially as scholars deem S&T capabilities as core power
+resources on the same level as economic and military capacity (Brooks &
+Wohlforth, 2016, p. 16; Nye, 1990, p. 34; Paarlberg, 2004). A diffusion-centric
+orientation is especially salient for assessments of a rising power ’s ability to exploit
+technological changes and maintain higher economic growth rates than its rivals,
+which has been historically connected to the rise and fall of great powers
+(Kennedy, 1987, p. xx). The article ’s findings have less bearing on other channels
+by which states can leverage S&T capabilities for influence. Innovation-centric
+assessments may be rightly prioritized in such contexts, including the effect of
+states’ S&T capabilities on their prestige, structural power over global supply
+chains, and ability to field advanced military systems (Gilady, 2017, pp. 55 –89;
+Malkin, 2020; Paarlberg, 2004). Still, appropriate attention to diffusion capacity can
+better inform other S&T dimensions of state power. For instance, there can be a
+large disparity between a military ’s ability to first develop or obtain new technology
+systems and its ability to adopt such systems throughout its branches and subunits.
+Second, this study intervenes in debates over China ’s rise as a S&T power.
+While some scholars believe that China will inevitably overtake the U.S. as the pre-
+eminent technological power (Allison 2017; Layne, 2018), others argue that the
+U.S.’s lead in technology is durable (Beckley, 2012; Brooks & Wohlforth, 2016).
+These studies suffer from a common limitation: they only compare the U.S. and
+China’s ability to produce new innovations, neglecting their ability to effectively
+use and adopt emerging technologies.
+2 By revealing the gap between China ’s innov-
+ation capacity and diffusion capacity, this paper argues that innovation-centric
+assessments mistakenly inflate China ’s S&T power.
+This analysis also engages with scholarship on China ’s industrial policy. Recent
+literature has paid more attention to technological developments located down-
+stream of R&D and new-to-the-world innovation, such as China ’s ability to com-
+mercialize novel products and scale-up mass manufacturing capabilities in certain
+sectors (Breznitz & Murphree, 2011; Nahm and Steinfeld 2014). This paper further
+extends the scope of analysis to include not just China ’s production of emerging
+technologies but also the mechanism by which they are embedded in productive
+processes across a range of other industries.
+Finally, a spotlight on diffusion suggests modifications to how policymakers
+approach technology policy and strategy, which are often affected by innovation-
+centrism. Political scientists and economists have traditionally emphasized the need
+for governments to aggressively protect intellectual property rights and the monop-
+oly profits that come from innovation (McCarthy, 2015, p. 138). Recent work on
+the benefits of more open technological systems, which are characterized by more
+fluid distribution of new advances, has challenged the prevailing view that innova-
+tions must be protected at all costs (Weber 2004). This paper lends credence to the
+latter approach.
+The rest of the article proceeds as follows. Building on an extensive body of
+econometric and historical evidence, the next section compares the relative import-
+ance of diffusion capacity and innovation capacity in power assessment. When
+REVIEW OF INTERNATIONAL POLITICAL ECONOMY 175
+
+=== PDF PAGE 5 ===
+there is a significant gap between these two dimensions, this section defends the
+former as a preferred barometer for whether rising powers can sustain economic
+growth at the technology frontier. Based on the process outcomes model, I clarify
+how various indicators map onto diffusion capacity and innovation capacity, show-
+ing that national S&T indicators are biased toward the latter. Section three lever-
+ages historical cases of rising powers, revealing that the failure to account for
+diffusion capacity resulted in misleading assessments of their S&T power. Next, I
+apply a diffusion-centered framework to assess China ’s S&T power, decomposing
+two influential indexes of national S&T capabilities to separately measure China ’s
+diffusion capacity and innovation capacity. Section five concludes.
+The significance of diffusion capacity for assessments of national S&T
+capabilities
+Assessments of national S&T capabilities should give greater consideration to a
+nation’s diffusion capacity. Traditionally, these assessments center on a nation ’s
+potential to introduce new innovations, neglecting the often long and tortuous
+phase when new advances permeate across productive processes. Yet, leaders in
+innovation capacity can be laggards in diffusion capacity, and laggards in innov-
+ation capacity can be leaders in diffusion capacity. When there is a substantial dis-
+parity between these two facets of a nation ’s S&T capabilities, innovation-centric
+assessments of its power to leverage S&T advances for sustained economic growth
+will prove misleading.
+Disentangling diffusion
+Central to assessments of national S&T capabilities is a basic distinction between
+innovation and diffusion.
+3 The former is defined as the first introduction of a new
+product or process, whereas the latter is defined as the spread of an innovation
+through a system or population (Schumpeter 1934, pp. 223 –233). Thus, a state ’s
+ability to introduce novel S&T advances ( ‘innovation capacity ’) is different from its
+ability to spread new innovations throughout its domestic ecosystem ( ‘diffusion
+capacity’).
+Of course, it is difficult to completely disentangle innovation and diffusion. To
+derive power from scientific and technological advances, states must both introduce
+and spread these advances. The two processes can overlap and interact, as evi-
+denced by the fact that additional innovations often occur in the process of diffu-
+sion (Taylor, 2016, p. 231). Oftentimes, a state ’s innovation capacity strongly
+correlates with its diffusion capacity.
+4 The state that introduces a new method can
+benefit from first-mover advantages, thereby also leading in the widespread adop-
+tion of that method. When the source of the technological advance is international,
+absorbing such innovations require tacit knowledge that is difficult to extract from
+its original context (Fadly & Fontes, 2019; Keller, 2004). China ’s ‘indigenous innov-
+ation’ policies, for example, have boosted the capabilities of Chinese technology
+giants in key global production networks, which has aided the commercialization
+and adoption of emerging technologies by small and medium-sized firms (Malkin,
+2020).
+176 J. DING
+
+=== PDF PAGE 6 ===
+In theory and practice, however, a country ’s innovation capacity and diffusion
+capacity can widely diverge. A country ’s adoption rate of new technologies depends
+not just on its innovation capacity but also on many other factors, such as institu-
+tions for technology transfer, human capital, and openness to trade (Comin &
+Hobijn, 2010). Sometimes, the ‘advantages of backwardness ’ allow latecomers to
+diffuse new technologies faster than the states that pioneer such advances
+(Gerschenkron, 1962). Cross-national studies on diffusion rates over multiple tech-
+nologies have linked faster rates of intra-country diffusion with a later date of first
+adoption (Perkins & Neumayer, 2005; Pulkki-Br €annstr€om, 2009; Ray et al., 1969).
+To be clear, latecomer advantages do not determine a country ’s diffusion capacity.
+Without sufficient supporting infrastructure and human capital, latecomer coun-
+tries cannot absorb key technologies. Nevertheless, I highlight the ‘advantages of
+backwardness’ thesis because it captures the tension between innovation capacity
+and diffusion capacity.
+Substantial differences between a country ’s diffusion capacity and innovation
+capacity are not limited to developing countries. For example, while they both
+boast high living standards and highly developed economies, Sweden and Denmark
+have very different S&T systems, with the former investing heavily in frontier R&D
+and the latter concentrating on integrating new technologies into its production
+system (Edquist and Lundvall 1993). To compete in a world of globalized science
+and technology flows, the most advanced economies must also absorb and exploit
+innovations more effectively than the country in which it was first incubated. Per
+one estimate derived from data on the OECD countries over 135 years, 93 percent
+of total factor productivity increases in these high-income countries comes from
+knowledge that originated abroad (Madsen, 2007).
+Additionally, leaders in the innovation of new technologies can also be laggards
+in the overall extent to which such advances penetrate a population of users. While
+the ‘advantages of backwardness ’ argument primarily focuses on the speed of adop-
+tion, or the time from first use to saturation, innovation latecomers can also
+achieve a higher intensity of adoption (Comin & Mestieri, 2014, pp. 570 –571).
+Take, for example, continuous casting, which is widely regarded as one of the most
+important process innovations in the history of the steel industry (Perkins &
+Neumayer, 2005, p. 795). The Soviet Union was one of the first countries to intro-
+duce continuous casting in the mid-1950s, but the diffusion of continuous casting
+throughout the country was very slow. In 1980 continuous casting produced only
+10.7 percent of steel in the Soviet Union. This diffusion rate compared unfavorably
+with those of many countries that lagged in the initial innovation of continuous
+casting, such as Japan, which produced 59 percent of its steel with continuous cast-
+ing in 1980, despite introducing the technology five years later than the Soviet
+Union (Poznanski, 1983, pp. 310 –311).
+Differential effects of diffusion and innovation capacity on growth outcomes
+Careful work on the relationship between differential adoption of technology and
+growth trajectories further supports the need for independent analysis of diffusion
+capacity in assessments of national S&T capabilities. Using data on the diffusion of
+15 technologies over 166 countries to study how technology adoption patterns
+affect cross-country income gaps, Comin and Mestieri distinguish between two
+REVIEW OF INTERNATIONAL POLITICAL ECONOMY 177
+
+=== PDF PAGE 7 ===
+different ‘margins of adoption ’ (Comin & Mestieri, 2018). The initial adoption lag ,
+closely linked to differences in innovation capacity, refers to the time between a
+pioneer’s introduction of a new technology and the first implementation of this
+advance in other countries. The intensive margin of adoption , more tied to diffusion
+capacity, captures cross-national differences in the technology ’s intensity of use.
+Measuring both margins of adoption is essential to comprehending how new
+technologies differentially advantage certain nations. In their analysis of the impact
+of these two margins on cross-country growth dynamics, Comin and Mestieri find
+that they contributed equally to the income differentials between Western and
+non-Western countries during the 19th century (Comin & Mestieri, 2018, pp. 168 –
+169). Again, these two margins do not always converge. In some cases, leaders in
+the initial adoption of a technology can fall behind on the intensive margin of
+adoption. As demonstrated by the earlier example of continuous casting, compared
+to the Soviet Union, Japan faced an initial adoption lag but eventually led in the
+intensive margin of adoption because of its superior diffusion capacity ( Figure 1 ).
+Related work has shown that indicators of diffusion capacity can be more pre-
+dictive of long-term growth outcomes than indicators of innovation capacity, which
+can be unreliable due to the long and uncertain lag between the initial introduction
+of a new technological advance and its impact on productivity growth. One analysis
+of technological shocks in the U.S. economy in the postwar period finds that two
+standard proxies of innovative activity, R&D intensity and patenting rates, have
+limited ability to predict fluctuations in total factor productivity. By contrast, activ-
+ities related to broadly disseminating information about new products and proc-
+esses track better with subsequent changes in productivity (Alexopoulos, 2011).
+Moreover, a study on the effect of human capital investments on long-term growth
+trajectories also favors measures of diffusion capacity. Leveraging U.S. county-level
+data, Maloney and Caicedo ( 2017) trace enduring income differences back to two
+Figure 1. Diffusion curves for continuous casting.
+178 J. DING
+
+=== PDF PAGE 8 ===
+different types of human capital in 1880: one that captures more inventive activ-
+ities, proxied by patenting density, and one capturing more adoptive activities,
+proxied by the density of engineers in a county. While both types had a positive
+effect on long-term growth trajectories, the effect of engineering density was stron-
+ger than the effect of patenting density.
+The salience of diffusion capacity is only enhanced for rising powers close to
+the technological frontier, which boast leading firms that can quickly copy or
+license innovations. For advanced economies with a certain degree of absorptive
+capacity and access to these global networks, divergences in long-term economic
+growth are shaped more by imitation than innovation (Alnuaimi et al., 2012; Gries
+et al., 2017, pp. 320 –321).
+Indicators of innovation capacity and diffusion capacity
+Incorporating both diffusion and innovation capacity into assessments of national
+S&T capabilities is only meaningful if reliable metrics for both dimensions exist.
+To further unpack differences between measures of innovation capacity and meas-
+ures of diffusion capacity, I draw on the process-outcomes model (Geisler, 2000).
+By separating the flow of S&T from initial inputs to ultimate absorption in the
+economy into identifiable stages, each with distinct measurable activities, the model
+clarifies which metrics attest to innovation capacity and which attest to diffusion
+capacity ( Figure 2 ). Under indicators of innovation capacity, I include measures of
+R&D inputs (e.g. funding, personnel), direct outputs of R&D (e.g. patents, publica-
+tions), and the effectiveness by which R&D inputs translate into direct outputs (e.g.
+R&D efficiency). Under indicators of diffusion capacity, I include measures of
+intermediate outputs, such as the usage rates of new methods, and measures of the
+strength of the linkages between direct outputs and intermediate outputs, such as
+the robustness of industry-research institution collaborations (Geisler, 2000, pp.
+243–266).
+Although innovation inputs and outputs represent only a portion of the S&T
+development process, they dominate assessments of national S&T capabilities in
+international relations scholarship. In fact, in one of the few articles dedicated to
+benchmarking S&T power resources, Robert Paarlberg states that S&T capabilities
+‘can be measured in terms of either final scientific output or R&D input ’
+(Paarlberg, 2004, p. 126). Accordingly, Paarlberg ’s measures of scientific and
+Figure 2. Innovation and diffusion capacity metrics, ordered by process outcomes model.
+REVIEW OF INTERNATIONAL POLITICAL ECONOMY 179
+
+=== PDF PAGE 9 ===
+technological leadership include scientific papers published, patents registered,
+prizes won, innovation hubs, and R&D spending (Paarlberg, 2004, p. 126 –133).
+Similarly, other work that benchmarks international S&T performance privileges
+innovation capacity indicators, such as patenting rates (Taylor, 2012, p. 119;
+Taylor, 2016, pp. 37 –38) and Nobel Prizes (Gilpin, 1968, p. 29).
+Among indicators of innovation capacity, R&D spending has become a magic
+number of sorts. Paarlberg writes that ‘perhaps the best way to measure the U.S.
+lead in science and technology ’ is with R&D inputs (Paarlberg, 2004, p. 129). The
+U.S. National Science Board (NSB), one of the pioneers of national S&T indicators,
+also prioritizes data collection and analysis of R&D inputs and direct outputs. The
+NSB’s 1993 Science & Engineering Indicators claims, ‘The long term importance of
+R&D expenditures to technological preeminence, military security, and knowledge
+growth is axiomatic ’ (National Science Board, 1993, p. 89).
+This bias toward indicators of innovation capacity is reflected in power formulas
+used to calculate the power of states. Combing through an encyclopedia of all
+power formulas published from 1714 –2010 (H €ohn, 2011), I found 25 power formu-
+las that incorporate scientific or technological capabilities as a separate element of
+national power.
+5 I could identify indicators of diffusion or innovation capacity for
+14 of these formulas. This remaining sample strongly favored indicators of innov-
+ation capacity. Nine of the power formulas employ a mix of both innovation cap-
+acity indicators and diffusion capacity indicators, with six favoring the former and
+none favoring the latter.
+The other five formulas exclusively relied on innovation capacity indicators. For
+instance, the Indian National Security Index, developed by India ’s National
+Security Council Secretariat in 2002 to assess comprehensive national power, calcu-
+lates S&T power using three innovation capacity indicators: patents granted to resi-
+dents per mission, R&D expenditures as a percentage of GNP, and scientists and
+engineers as a proportion of R&D spending (Hwang, 2010). By contrast, none of
+the power formulas solely relied on diffusion capacity indicators.
+S&T development is a complicated, messy process, so neatly sorting S&T metrics
+by associations with innovation capacity and diffusion capacity is a tough endeavor.
+Fortunately, the process-outcomes model functions as a helpful guide for identify-
+ing innovation capacity metrics and diffusion capacity metrics. These metrics reveal
+that the existing literature on power assessment is biased toward innovation cap-
+acity. A clear basis for differentiating between these two types of metrics will serve
+useful for the historical case studies of S&T assessments of rising powers, as well as
+the application to present-day assessments of China ’s S&T capabilities.
+Historical cases of diffusion deficits and surpluses
+I have presented a range of evidence to argue that assessments of national S&T
+capabilities should pay more heed to diffusion capacity. In this section, I employ
+two historical case studies to illustrate that the general reasoning from the previous
+section extends to assessments about rising powers ’ S&T capabilities.
+To tease out the independent significance of diffusion capacity, I focus on cases
+of rising powers with substantial disparities between their diffusion capacity and
+innovation capacity. Accordingly, I study the U.S. in the late 19th century as a case
+when a rising power has a weak innovation capacity but strong diffusion capacity
+180 J. DING
+
+=== PDF PAGE 10 ===
+(diffusion surplus ). I also study the Soviet Union in the early postwar period as a
+case when a rising power has a strong innovation capacity but weak diffusion cap-
+acity ( diffusion deficit ). In both cases, there is general agreement that adaptability
+to S&T advances played an outsized role in determining the rising power ’s long-
+term growth trajectory. This alleviates concerns that innovation-centric assessments
+were only misleading in these cases because the effects of other factors, such as
+imperial overstretch or demographic changes, overwhelmed the impact of innov-
+ation capacity.
+6
+The two cases bear out the expected outcomes tied to diffusion deficits and sur-
+pluses. Innovation-centric assessments of the U.S., a case of diffusion surplus,
+underestimated its potential for S&T leadership; conversely, innovation-centric
+assessments of the Soviet Union, a case of diffusion deficit, overestimated its poten-
+tial for S&T leadership. The U.S. sustained higher levels of productivity growth
+than its rivals and cemented its claim to economic preeminence in the early 20th
+century. In contrast, the Soviet Union ’s productivity growth stagnated in the 1980s
+and its economy collapsed shortly after.
+The U.S. in the second industrial revolution (1860 –1890)
+The rise of the U.S. as an economic power took place amidst an era of remarkable
+technical breakthroughs, sometimes dubbed the ‘Second Industrial Revolution ’
+(Mokyr, 1998). If judging technological leadership in this period based on a coun-
+try’s ability to generate novel S&T advances, few would have picked the U.S. as the
+leading candidate. The U.S. trailed Germany and other advanced economies on this
+front, leading many prominent American scientists to underrate the U.S. ’s pros-
+pects for S&T leadership. Assessments based on diffusion capacity, however, tell a
+different story, as Americans excelled at the widespread adoption of innovations
+first introduced by other countries.
+In the decades before World War I, the staying power of the U.S. S&T base con-
+firmed the diffusion-centric view. Across various measures of industrial output and
+efficiency, the U.S. emerged as the preeminent economic power. Most notably, the
+U.S. surpassed Britain in per capita GDP and labor productivity around 1900 (Bolt
+& Luiten van Zanden, 2020; Broadberry, 2006, pp. 108 –109). Did a failure to
+account for diffusion capacity contribute to flawed assessments of U.S. S&T capa-
+bilities? If theoretical expectations of a diffusion surplus hold, the case study evi-
+dence should reveal that innovation capacity indicators depicted the U.S. as a
+relatively weak S&T power. By contrast, the historical data on U.S. diffusion cap-
+acity should point toward the strength of U.S. S&T power in this period.
+Indeed, the U.S. was far from an innovation leader during the second half of
+the 19th century. Scholarly and media reports criticized the U.S. ’s failing in basic
+research during this period (Shryock, 1966, p. 73; The New York Times, 1860;
+Taylor, 2016, p. 9). American researchers lacked the financial support to compete
+with their European counterparts. By one estimate, in 1891 the entire U.S. research
+ecosystem supported only twenty-six ‘adequately endowed post-graduate fellow-
+ships in science ’ (Cohen, 1976, p. 383).
+European centers of excellence were advancing the technological frontier.
+7 Carl
+Snyder, in an influential article for the North American Review published in 1902,
+attributed European leadership in the great discoveries of the 19th century to their
+REVIEW OF INTERNATIONAL POLITICAL ECONOMY 181
+
+=== PDF PAGE 11 ===
+elite research institutions. The U.S. lacked institutions comparable to the German
+university system, the Royal Institution of London, or the College de France
+(Snyder, 1902, pp. 67 –72; Dupree, 1964, p. 300). Nor were American cities com-
+petitive with London, Paris, and Berlin as innovative research clusters (Shryock,
+1966, pp. 72 –73). It is no surprise, then, that the best and brightest American
+researchers furthered their training at European institutions. This brain drain was
+an ‘almost wholly one-way direction of movement of graduate and postdoctoral
+students’ (Cohen, 1976, p. 359).
+International comparisons of developments in chemicals, a key emerging tech-
+nology in this period, provide more detailed indicators of the U.S. ’s comparatively
+weak innovation capacity. From the inception of the Nobel Prize in 1901 to 1930,
+German and Britain researchers won almost three-fourths of the Nobel Prizes
+awards in chemistry, whereas just one American attained the top honor in that
+span (Thackray et al., 1985, p. 161). In 1899, German publications accounted for
+half of all citations in American chemical journals, essentially double the share
+attributed to American publications (Thackray et al., 1985, pp. 405 –407). At the
+same time, American articles barely registered in the chemical journals of Europe,
+where the best research was published. According to one analysis of references in
+Annual Reports on the Progress of Chemistry , an authoritative British review jour-
+nal, American publications accounted for only 7 percent of the citations in 1904
+(Thackray et al., 1985, p. 157, 402; see also Macleod, 1971, p. 207).
+In some cases, prominent critics of American science exaggerated U.S. deficien-
+cies to press their case for additional R&D support (Kevles et al., 1980). The U.S.
+performed well on some indicators of innovation capacity, including patent counts
+and government R&D expenditures (The New York Times, 1860; Kevles et al.,
+1980, p. 32). Overall, though, the majority opinion was that the U.S. lacked the
+means to produce original breakthroughs. Across rankings of nations in terms of
+‘productive scholarship ’ during this period, America ’s ‘most favorable classification ’
+was fourth place, after Germany, Great Britain, and France (Slichter, 1902, p. 12).
+Judgements based on diffusion capacity, by contrast, paint the U.S. ’s S&T capa-
+bilities in better light. Even though the U.S. lagged behind industrial rivals in scien-
+tists and researchers, the U.S. cultivated a broad-based system that trained more
+engineers and cultivated strong linkages that transferred knowledge between aca-
+demic and industrial research institutions. Compared to arrangements at European
+peers, research and teaching in American universities were more closely tied to
+commercial opportunities, which ‘aided the diffusion and utilization of advanced
+scientific and engineering knowledge ’ (Mowery & Rosenberg, 1993, p. 36). As a
+result, in many emerging technologies, the U.S. lagged in generating new break-
+throughs but led in adapting them across many useful domains.
+8
+Revisiting international comparisons in chemicals, despite lagging behind
+Germany in terms of chemical innovations and top chemists, the U.S. was the first
+to institutionalize the discipline of chemical engineering. This was necessary for the
+widespread diffusion of chemical processing, which came to transform a wide range
+of industries such as ceramics, food-processing, glass, metallurgy, petroleum refin-
+ing, etc. A crucial step in this process was the emergence of unit operations, which
+broke down chemical processes into a sequence of basic operations (e.g. condens-
+ing, crystallizing, electrolyzing, etc.) that were common in chemical processing
+across a number of industries. Enabled by unit operations, the development of
+182 J. DING
+
+=== PDF PAGE 12 ===
+chemical engineering broke down the siloed divisions of industrial chemistry,
+which had been primarily oriented around the production of a very large variety of
+chemical products with little concern for the unifying principles between the
+manufacture of different products (Little, 1933, p. 7; Rosenberg, 1998, p. 176).
+Though Germany dominated industrial chemistry, the U.S. led in cultivating a
+chemical engineering discipline that facilitated the gradual chemicalization of many
+industries. By 1913, the U.S. led the world in the production of chemicals
+(Murmann 2003), an indicator of the U.S. advantage in the intensive margin of
+adoption. American institutions of higher education, most notably MIT, were early
+adopters of the unit operations model and helped cultivate a common language
+and professional community of chemical engineering (Gu /C19edon, 1980, pp. 45 –76;
+Rosenberg, 1998, p. 171). Rosenberg and Steinmueller conclude, ‘American leader-
+ship in introducing a new engineering discipline into the university curriculum,
+even at a time when the country was far from the frontier of scientific research,
+was nowhere more conspicuous than in the discipline of chemical engineering early
+in the 20th century ’ (Rosenberg & Steinmueller, 2013, p. 1145).
+Fittingly, one of the most colorful denunciations of America ’s innovation cap-
+acity simultaneously underscored its strong diffusion capacity. In an 1883 address
+to the American Association for the Advancement of Science (AAAS), Henry A.
+Rowland, the vice president of the AAAS, denigrated the state of American science
+for its skew toward the commercialization of new S&T advances. Rowland
+expressed his disgust for media representations that upheld the ‘obscure American
+who steals the ideas of some great mind of the past, and enriches himself by the
+application of the same to domestic uses ’, over ‘the great originator of the idea,
+who might have worked out hundreds of such applications, had his mind possessed
+the necessary element of vulgarity ’ (Rowland, 1883, p. 242; Taylor, 2016, p. 9). Yet,
+it was America ’s diffusion capacity – in all its obscurity and vulgarity – that sus-
+tained its growth to economic preeminence.
+The Soviet Union in the early postwar period (1950 –1970)
+In the early postwar period, the Soviet Union shocked the world by launching the
+first satellite. Sputnik was just one of the many prominent Soviet scientific and
+technological achievements in the early decades of the Cold War. During this time,
+‘the USSR appeared to all as a rising technological juggernaut (Taylor, 2016,p .
+75)’.
+9 Ultimately, the Soviet Union ’s total factor productivity growth slowed signifi-
+cantly in the 1970s; some studies, in fact, estimated a decline in factor productivity
+over the decade (Trachtenberg, 2018, pp. 86 –87). The Soviet Union ’s collapse in
+1991 laid bare the inefficiencies of its productive engine.
+Did neglect of the diffusion process contribute to misleading views of the Soviet
+Union’s S&T power? In cases of diffusion deficit, when a rising power ’s innovation
+capacity substantially outpaces its diffusion capacity, innovation-centric assessments
+will overestimate its ability to sustain its rise. If theoretical expectations hold, evi-
+dence from this case should show that innovation-centric measures corresponded
+to a view of the Soviet Union as a S&T superpower. Additionally, diffusion-centric
+measures should expose the fundamental weaknesses of the Soviet Union ’s S&T
+capabilities in this period.
+REVIEW OF INTERNATIONAL POLITICAL ECONOMY 183
+
+=== PDF PAGE 13 ===
+An innovation-centered lens shaped views of the Soviet Union as a S&T super-
+power. The Soviet Union became a world leader in two key indicators of innov-
+ation capacity, R&D spending and the employment of scientists and engineers
+(Beckley, 2018, p. 35). A 1962 OECD report, one of the first efforts to systematic-
+ally compare national S&T capabilities, found that the Soviet Union was near parity
+to the U.S. in these two indicators (Freeman & Young, 1965). By 1970 the Soviet
+Union led the world in R&D spending as a percent of gross national product (3.28
+percent), exceeding the comparable U.S. figure of 2.57 percent (National Science
+Board, 1987, p. 236).
+The notion of a ‘scientific manpower gap ’– specifically, that the Soviet Union
+was graduating two to three times as many scientists and engineers than the U.S. –
+took hold in U.S. discourse (Teitelbaum, 2014, pp. 32 –36). Throughout the 1950s,
+this figure was ‘repeated ad infinitum ’ by analysts and politicians, including the
+Central Intelligence Agency (CIA) director, the Atomic Energy Commission chair,
+the Assistant Secretary of Defense, and key members of Congress (Kaiser, 2006, pp.
+1231–1234). In a 1955 speech, M.H. Trytten, a key director at the National
+Research Council highlighted the ‘startling fact ’ that the Soviet Union was produc-
+ing around twice as many science PhD graduates as the U.S. (Krige, 2000, p. 87).
+10
+Detailed studies and compilations of national S&T indicators, though careful to
+note the differences between the two countries in counting science and engineering
+graduates, confirmed the Soviet ’s strength in innovation capacity throughout the
+period.
+11 Per 1985 figures, reported in the NSF ’s Science and Engineering
+Indicators, the Soviet Union graduated the most ‘first university degrees ’ in natural
+sciences and engineering, which was more than double the U.S. figure. 12
+Assessments of Soviet diffusion capacity presented a different picture. One par-
+ticularly prescient CIA report, published in 1969, concluded that ‘the technological
+gap between the Soviet Union and the developed West is large and is probably
+widening’ (Central Intelligence Agency, 1969, p. 1). The crucial difference, to which
+the report devoted a full section, was the U.S. ’s superior mechanisms to spread
+technologies, described as a ‘fast-acting, seemingly almost biological process ’, com-
+pared to the Soviet Union ’s mechanisms, which were ‘much more balky ’ (Central
+Intelligence Agency, 1969, p. 24, 2). Limitations to the Soviet economy ’s diffusion
+capacity included lack of competitive pressures, disincentives for firm-level technol-
+ogy planners to adopt new technologies out of fear that they would be forced to
+meet higher production targets as a result, and separation between the R&D system
+and the broader economy (Central Intelligence Agency, 1969; Cocka, 1980, pp.
+220–240; Kontorovich, 1990, p. 255).
+While the Soviet Union was at the forefront of introducing new technologies in
+many areas, it lagged in adopting technical improvements across a broad range of
+production processes. A 1977 assessment of Soviet progress in nine technology
+areas concluded that the Soviets were most successful in the initial research and
+pioneering of innovations and least successful in the diffusion of innovations across
+the economy (Amann et al., 1977).
+13 The Soviet Union was the innovation leader
+in extra-high-voltage transmission of electricity, for instance, but the U.S. and
+Great Britain were the diffusion leaders by 1970 (Amann et al., 1977). A similar
+story played out in machine tools and the oxygen converter process for steel, which
+only diffused to 12 percent of Soviet steel production (Berliner, 1973; Central
+Intelligence Agency, 1969, p. 47). As the CIA ’s 1969 assessment concluded, ‘In no
+184 J. DING
+
+=== PDF PAGE 14 ===
+major branch of industry is the average level of Soviet technology in use on a par
+with that in the United States or Western Europe ’ (Central Intelligence Agency,
+1969, p. 5).
+Similarly, the Soviet Union ’s impressive success in a narrow set of mission-ori-
+ented technological feats – most dramatically captured by the launch of Sputnik –
+did not translate into broader technological trajectories. In domains relatively insu-
+lated from the economic system, such as rocket engines and advanced weapons sys-
+tems, the Soviet Union performed exceptionally by investing high amounts of
+resources and talented personnel. Soviet scientists and engineers also made impres-
+sive contributions to the development of computers and semiconductors, and the
+Soviet Union successfully exploited military applications in these two domains.
+However, as these technologies spread to affect the entire economy, like with the
+advance of computerization in the 1960s and 1970s, the Soviet Union could not
+keep pace (Graham, 2013, p. 78).
+Over time, the Soviet leadership recognized that diffusion capacity was the weak
+link. General Secretary Breznhnev commented in 1971, ‘If one examines all the
+links of the complex chain uniting science with production, it is not too difficult to
+see that the links connected with the practical realization of scientific achievements
+and their adoption in mass production are the weakest ’ (Quoted in Cocka, 1980,p .
+197)
+. In the 1970s Soviet policymakers tried to set up institutions tasked with ‘the
+implementation and diffusion of new technology ’ (Cocka, 1980, p. 219). Indeed,
+these reactions perhaps best capture the Soviet Union ’s diffusion deficit.
+The China case
+Will China become a science and technology superpower? This question has
+loomed large since at least 2006, when China outlined its ambition to become a
+‘science and technology power ’ (keji qiangguo ) by the middle of the century
+(Suttmeier, 2008). For some, China ’s rapid progress in emerging technologies make
+its ascent to S&T leadership is inevitable (Allison 2017; Layne, 2018). Others
+express more skepticism about China ’s S&T capabilities, arguing that U.S. S&T
+leadership is durable (Beckley, 2018; Brooks & Wohlforth, 2016, pp. 35 –40).
+This article intervenes in assessments of China ’s S&T capabilities by disentan-
+gling diffusion and innovation capacity. Existing assessments typically focus on
+China’s aptitude in generating novel breakthroughs, with many depicting China as
+a leading S&T power based on its impressive performance on indicators of innov-
+ation capacity. Such judgments would overestimate China ’s S&T capabilities, how-
+ever, if there is a significant gap between China ’s innovation and diffusion
+capacity. Indeed, I find that China ’s diffusion capacity lags far behind its innov-
+ation capacity, which undermines claims that China is poised to become a S&T
+superpower.
+Innovation-centrism in analysis of China ’s S&T power
+In debates over China ’s S&T power, complex dynamics get reduced down to a
+magic word: innovation.
+14 Drawing on theories that identify innovation in leading
+sectors as the key mechanism behind historical power transitions, scholars frame
+REVIEW OF INTERNATIONAL POLITICAL ECONOMY 185
+
+=== PDF PAGE 15 ===
+the U.S. –China technological competition around which state dominates the cre-
+ation of new technologies (Kennedy & Lim, 2018; Rapkin & Thompson, 2003).15
+For instance, in their analysis of how and when a U.S. –China power transition
+could occur, Rapkin and Thompson ( 2003, p. 333) concentrate on ‘China’s capacity
+to innovate ’.
+An evaluation of the international relations scholarship on China ’s S&T capabil-
+ities provides some systematic evidence of a bias toward innovation capacity. I
+reviewed sixty articles across the following three journals: International Affairs ,
+International Security , and Review of International Political Economy . From each
+journal, I selected the twenty articles that ranked highest in a Google Scholar
+search for ‘China’ and ‘technology’. Of the twelve articles that assessed China ’s
+S&T capabilities in relation to a rising power ’s ability to sustain its economic rise,
+over 80 percent of the articles ’ assessments favored innovation capacity indicators.
+16
+As was the case with overestimates of the Soviet Union ’s S&T power in the
+1970s, present-day assessments of China ’s S&T power also heavily rely on indica-
+tors of innovation capacity, often citing China ’s impressive performance in R&D
+expenditures, scientific publications, and patents. 17 No indicator garners more
+attention than R&D expenditures. Accordingly, the expectation that China will
+soon surpass the U.S. in R&D spending has renewed fears of China ’s growing S&T
+power. Citing China ’s heavy investments in R&D, reports by influential commis-
+sions have warned that the U.S. faces a ‘tipping point in R&D ’ (American
+Academy of Arts & Sciences, 2020, p. 11) and an ‘innovation deficit ’ (MIT
+Committee to Evaluate the Innovation Deficit, 2015). Under the Global Power
+Index (GPI), a model developed by the Pardee Center at the University of Denver,
+a country ’s share of global R&D expenditures accounts for half of its technological
+power.
+18 Frequently used by the National Intelligence Council, which leads the U.S.
+intelligence community ’s strategic forecasting efforts, the GPI predicts that China ’s
+national power will equal that of the U.S. in 2030 (National Intelligence Council,
+2012, p. 16).
+To be clear, some assessments of China ’s innovation capacity do conclude that
+U.S. technological preeminence is durable. Beckley ’s comparison of U.S. and
+Chinese innovative capabilities, published in 2011, finds that over the past twenty
+years the U.S. had increased its lead over China in many indicators, including a
+variety of patent and R&D metrics (Beckley, 2012, pp. 63 –73). Likewise, Brooks
+and Wohlforth ’s argument for sustained U.S. technological leadership primarily
+employs innovation capacity indicators, including triadic patent families and top-
+cited articles in science and engineering (Brooks & Wohlforth, 2016, p. 24).
+Still, when the innovation capacity indicators from these previous studies are
+updated, nearly all the figures portray a narrowing U.S. –China gap in S&T capabil-
+ities, with China emerging as a near-peer competitor. I found the most recent fig-
+ures for 20 S&T indicators employed in Beckley ’s article.
+19 Apart from the number
+of universities ranked in the top 20 of the Academic Ranking of World
+Universities, China has substantially closed the gap with the U.S. across 14 of the
+15 indicators of innovation capacity. Per one indicator, in 2009, foreign firms
+accounted for the majority of invention patents granted by China ’s patent office.
+Now, according to updated 2019 figures, domestic Chinese firms account for 80
+percent of invention patents granted. These preliminary results suggest that more
+detailed analysis of China ’s diffusion capacity is necessary.
+186 J. DING
+
+=== PDF PAGE 16 ===
+Decomposing diffusion and innovation capacity reveals china ’s diffusion
+deficit
+Does China ’s diffusion capacity diverge significantly from its innovation capacity?
+In order to separately assess these two dimensions, I consult two influential and
+reliable indexes of national S&T capabilities: the Global Innovation Index (GII) and
+the Global Competitiveness Index (GCI). Among the dozen or so cross-national
+indexes that evaluate countries ’ ability to develop and use new technologies, these
+two stand out for their objectivity and influence (Kennedy, 2017, p. 11). Experts on
+China’s science and technology ecosystems regularly cite the GII to judge China ’s
+standing relative to the U.S. in global technology leadership (Chen et al., 2021,p .
+4). Chinese scholars pay particular attention to the GCI. Since the index was estab-
+lished in 2004, they have published 253 articles that include the exact terms
+‘comprehensive national power ’ [zonghe guoli ] and ‘Global Competitiveness Index ’
+[quanqiu jingzhengli zhishu ] (author ’s search of China National Knowledge
+Infrastructure database, conducted on May, 2, 2021; Pillsbury, 2000, p. 226, 373).
+20
+For each of the indexes, I sorted S&T indicators by their association with diffu-
+sion capacity and innovation capacity, according to the process-outcomes model
+introduced earlier. I focus on indicators for which it was relatively straightforward
+to determine whether they measured innovation capacity or diffusion capacity. For
+instance, the GII tracks the R&D expenditures of a country ’s top three firms and
+the quality of a country ’s top three universities – two obvious indicators of innov-
+ation capacity. The index also includes many indicators that clearly evaluate a
+country’s ability to disseminate new advances, such as the extent of research collab-
+oration between universities and businesses. I excluded S&T indicators that could
+credibly measure both diffusion capacity and innovation capacity, such as school
+life expectancy and enrollment in tertiary education.
+21
+This decomposition of the GII and GCI demonstrates that China ’s diffusion
+capacity significantly lags behind its innovation capacity ( Table 1 ). If judged solely
+by the 2020 GII ’s indicators for the latter, China rates as a top-tier S&T power,
+boasting an average global ranking of 13.8. For reference, the 13th ranked country
+in the overall GII is Israel, widely recognized as a global leader in S&T. The gap
+between China and the U.S. on this innovation capacity subindex is very small: the
+U.S’s average ranking is 11.9 ( Figure 3 ).
+However, if evaluated on GII indicators of diffusion capacity, China ’s average
+ranking drops by 34 spots. The closest comparator based on the overall 2020 GII is
+the 47th ranked country, the Russian Federation, which few judge to be a prospect-
+ive S&T superpower. When measured based on this diffusion capacity subindex,
+the gap between China and the U.S. is very wide: the U.S. ’s average ranking is
+26.9.
+22 The decomposition of the GCI produces similar results. China ’s average glo-
+bal ranking in GCI indicators of innovation capacity is around 15; it falls to about
+44 in terms of GCI indicators of diffusion capacity ( Supplementary Appendix C ).
+This gap between China ’s innovation capacity and diffusion capacity holds when
+raw scores are used instead of ranks. For some indicators, the shape of distribu-
+tions could greatly deviate from the linear one imposed by ranks.
+23 As an add-
+itional check, I compared China ’s raw scores across diffusion and innovation
+capacity indicators with those of the U.S., France, and Israel – the latter two coun-
+tries ranked just ahead of China in the overall 2020 GII. Relative to all three
+REVIEW OF INTERNATIONAL POLITICAL ECONOMY 187
+
+=== PDF PAGE 17 ===
+countries, China ’s average score in the innovation capacity subindex was higher
+while its average score in the diffusion capacity subindex was lower.
+China’s diffusion deficit extends beyond a single-year snapshot. Using the same
+procedures as the decomposition of the 2020 GII, I calculated the average rankings
+of the U.S. and China on the innovation and diffusion capacity subindexes for the
+GII in 2014 and 2017. In all three years, China ’s average rank in diffusion-oriented
+indicators trailed its rank in innovation-oriented indicators by over 30 spots
+(Figure 3 ). While China has improved its average rank in the diffusion capacity
+Table 1. China’s S&T power: an innovation-diffusion decomposition of the GII.
+Innovation Capacity Subindex Diffusion Capacity Subindex
+Indicator
+China’s global
+ranking Indicator
+China’s global
+ranking
+Researchers, full-time
+equiv./mn pop.
+48 ICT access 71
+Gross expenditures on R&D 13 ICT use 53
+Global R&D companies 3 University/industry research
+collaboration
+29
+QS university rankings 3 State of cluster development 25
+R&D performed by business 12 GERD financed by abroad 81
+R&D financed by business 4 JV strategic alliance deals/bn 76
+Patents by origin /C3 1 Patent families 2 þ offices/bn
+PPP%GDP
+27
+Patent Cooperation Treaty
+patents by origin /C3
+15 Intellectual property receipts,
+% total trade
+44
+Utility models by
+origin/bn PPP$ GDP ’
+1 High-tech net exports, % total trade 5
+Scientific & technical articles /C3 39 ICT services exports, % total trade 61
+Citable documents H-index 13
+Average ranking 13.8 Average ranking 47.2
+Source: Global Innovation Index 2020, World Intellectual Property Organization ( 2020). per billion PPP$ GDP.
+Figure 3. China’s diffusion deficit over time.
+188 J. DING
+
+=== PDF PAGE 18 ===
+subindex by about 5 places since 2014, the gap between China and the U.S. on this
+measure has only widened, as the U.S. improved its own diffusion capacity ranking
+by almost 10 places over the same period.
+Notably, these results run counter to claims that China ’s rising S&T prowess
+comes from its strategic advantage in deploying innovations at scale.
+24 For instance,
+influential reports play up China ’s capacity to adopt AI advances because it gradu-
+ates more computer science students than competitors. 25 These analyses draw from
+a few examples of Chinese success at large-scale deployment in domains such as
+high-speed rail and mobile payments. Alongside the analysis that follows, the
+decomposition of these indicators cautions against overestimating China ’s diffusion
+capacity.
+China’s lethargic diffusion capacity is further confirmed by a detailed evaluation
+of its adoption of information and communications technologies (ICTs), generally
+considered the key drivers of future productivity growth.
+26 While China has
+achieved a few noteworthy successes in ICT diffusion in consumer-facing applica-
+tions – such as the spread of mobile payments and e-commerce – Chinese busi-
+nesses have been slow to embrace digital transformation. China lags behind the
+U.S. in penetration rates of many digital technologies across industrial applications,
+including digital factories, industrial robots, smart sensors, key industrial software,
+and cloud computing (Alibaba Research Institute, 2019; Synced, 2020; Techxcope,
+2020).
+Furthermore, composite measures reveal a large gap between the U.S. and China
+in terms of the countries ’ readiness to effectively spread and utilize ICT advances.
+China ranks 83rd in the world, 67 places behind the U.S., on the International
+Telecommunication Union ’s ICT Development Index, which combines the level of
+networked infrastructure and access to ICTs and the level of use of ICTs in the
+society (International Telecommunications Union, 2017, p. 31).
+27 China also sig-
+nificantly trails the U.S. in an influential index for adoption of cloud computing,
+which is essential to implementing AI applications and many other emerging tech-
+nologies ( Supplementary Appendix D ). In 2018, U.S. firms averaged a cloud adop-
+tion rate of over 85 percent, more than double the comparable rate for Chinese
+firms (Wang and Chen 2020).
+In sum, China faces a diffusion deficit. Therefore, most assessments of China ’s
+S&T capabilities overestimate China ’s capacity to convert technological break-
+throughs into national productivity improvements because they privilege indicators
+of innovation capacity. A rebalanced evaluation of China ’s potential for S&T lead-
+ership requires looking beyond multinational corporations like Huawei, first-tier
+cities like Beijing, and flashy R&D numbers to the humble undertaking of diffu-
+sion. This perspective brings a different cast of characters into the spotlight: smaller
+firms, fourth-tier cities that rarely feature in English-language coverage, and tech-
+nology transfer mechanisms.
+Conclusion
+In President Joe Biden ’s first speech to Congress, he emphasized the need for the
+U.S. to develop breakthroughs in and dominate the technologies of the future.
+According to Biden, the U.S. was ‘falling behind in that competition … China and
+other countries are closing in fast ’ (Biden, 2021). Biden ’s remarks reflected two
+REVIEW OF INTERNATIONAL POLITICAL ECONOMY 189
+
+=== PDF PAGE 19 ===
+common themes in discussion about national S&T capabilities: the overwhelming
+preoccupation with which state first generates novel advances (innovation capacity),
+as well as the belief that China is close to overtaking the U.S. in S&T preeminence.
+In this article, I have shown how the first point influences the second, and in the
+process have challenged both assumptions.
+This article has argued that appraisals of S&T capabilities should give greater
+weight to a state ’s diffusion capacity, or its ability to spread and adopt innovations,
+after their initial inception, across productive processes. Diffusion capacity is cen-
+tral to a rising power ’s ability to translate technological advances into higher prod-
+uctivity growth than its rivals – a process that has been historically connected to
+the rise and fall of great powers. Crucially, a state ’s diffusion capacity can signifi-
+cantly deviate from its innovation capacity: innovation laggards can be diffusion
+leaders (diffusion surplus), and innovation leaders can be diffusion laggards (diffu-
+sion deficit). When a substantial gap between these two dimensions exists, trad-
+itional assessments of S&T capabilities that focus on innovation capacity will be
+misleading.
+A variety of evidence supports these arguments. To reveal the innovation-cen-
+trism in conventional assessments of national S&T capabilities, I reviewed all pub-
+lished power formulas and the international relations scholarship on China ’s S&T
+power resources. I tested these claims with two historical cases of rising powers
+that faced substantial gaps between their diffusion capacity and innovation capacity.
+In line with theoretical expectations, the U.S. in the late 19th century, a case of dif-
+fusion surplus, rose to economic preeminence, and the Soviet Union in the early
+decades of the postwar period, a case of diffusion deficit, eventually experienced an
+economic collapse.
+Applying a diffusion-centric perspective to gauging China ’s S&T capabilities,
+this article improves assessments of an increasingly significant aspect of the U.S. –
+China power balance. Preoccupied with China ’s growing prowess in developing
+new-to-the-world breakthroughs, many existing assessments warn that China is
+primed to overtake the U.S. in S&T leadership. However, these studies neglect
+China’s deficiencies in adopting and spreading novel advances throughout its econ-
+omy. My assessment of China ’s S&T capabilities reveals a diffusion deficit, which
+suggests that China is far from becoming a S&T superpower and is less likely to
+sustain its rise than innovation-centric assessments predict.
+This article ’s arguments engage with other studies that scrutinize the nature of
+power in the global political economy. Enduring debates over the decline of
+American economic power have emphasized innovation capacity in key industries
+(Kennedy, 1987) and profit-shares of multinational corporations that produce the
+most advanced technologies (Starrs, 2013). Recent scholarship on China ’s product-
+ive power also focuses on the growing capacity of Chinese multinational corpora-
+tions like Huawei to set global standards and extract monopoly rents (Malkin,
+2020). By highlighting the importance of diffusion capacity, this article suggests
+that power in the global economy resides in a broader set of actors. Analyzing this
+alternative conceptualization of power requires looking beyond top firms and stra-
+tegic industries to how new advances spread from these frontier domains across
+the entire economy.
+Judgements of S&T power also have high and immediate stakes for U.S. –China
+technological rivalry. Overestimates of China ’s S&T capabilities could intensify U.S.
+190 J. DING
+
+=== PDF PAGE 20 ===
+efforts to contain China ’s rise or spur escalatory arms races, much like the illusory
+‘missile gap ’ of the late 1950s (Beckley, 2012, pp. 77 –78; Crawford, 1993, p. 228).
+In recent years, fear of China ’s rise has solidified a rare bipartisan consensus
+among U.S. policymakers on the need to compete with China in emerging technol-
+ogies. However, recent legislative actions, which represent the boldest efforts to bol-
+ster U.S. investments in science and technology since the Cold War, primarily aim
+to secure U.S. leadership in the innovation of new technologies. If these policies
+also undervalue diffusion capacity, a more optimal strategy would rebalance invest-
+ments toward institutions and mechanisms that facilitate the widespread adoption
+of emerging technologies (Shapira & Youtie, 2017).
+Future research should develop better cross-national measures of diffusion cap-
+acity based on the intensive adoption of new technologies, which could help clarify
+other cases of diffusion surpluses and deficits. Cross-country studies indicate that
+while new technologies are spreading between countries faster than ever, they are
+spreading to all firms within a country at increasingly slower rates (Andrews et al.
+2015). This further enhances the significance of measuring the time between a
+country’s initial adoption of new technologies to intensive penetration throughout
+the entire country. Additionally, more research on why China struggles with diffu-
+sion capacity is needed. Talent shortages and other bottlenecks might be resolved
+by market adaptations or policy adjustments, but other conditions may be difficult
+to change absent a fundamental reorientation of China ’s political economy
+(Synced, 2020). For instance, China ’s favoritism toward state-owned enterprises
+and centralized approach to picking and supporting winners sometimes props up
+technology solutions that diffuse slower than technologies chosen by market-based
+mechanisms (Kennedy, 2017).28 Addressing these gaps in our knowledge will be
+crucial for determining whether China will improve its diffusion capacity in the
+future.
+Notes
+1. International relations scholars are primed to associate diffusion with international
+diffusion. In this paper, diffusion refers to the internal spread of new S&T advances
+throughout a country. Thus, diffusion capacity captures a state ’s effectiveness in
+adopting new advances across domestic systems. The source of these new advances
+can be domestic or international.
+2. Beckley ( 2012) recognizes that ‘the ability to produce and use commercially viable and
+military relevant innovations ’ (p. 67, emphasis mine) is key to technological
+superiority, and Brooks and Wohlforth ( 2016) make a distinction between
+‘technological inputs ’ and ‘technological outputs ’ (pp. 22 –26). However, nearly all of
+Beckley’s S&T indicators relate to the ability to produce innovations. While Brooks
+and Wohlforth note the need to track how R&D inputs translate into outputs, which
+they measure by article publications and patent filings, I am interested in how these
+outputs diffuse.
+3. Related work on the S&T power of nations makes the same distinction but focuses on
+the innovation phase. Kennedy ( 2018, p. 16) and Taylor ( 2016, p. 28) literature on
+military innovation tends to employ a broad definition of ‘innovation’ that subsumes
+the diffusion process. Evangelista ( 1988, p. 52).
+4. Other factors that could boost both innovation and diffusion capacity include
+relatively open economies, democratic governance, and political decentralization. Even
+for these variables, it is important to make careful distinctions between effects on
+innovation and diffusion. For instance, recent scholarship has questioned the
+REVIEW OF INTERNATIONAL POLITICAL ECONOMY 191
+
+=== PDF PAGE 21 ===
+connection between decentralization and national innovation rates, arguing that
+previous work had misidentified decentralization ’s boost to diffusion as innovation
+(Taylor, 2016, p. 137).
+5. See accompanying dataset.
+6. For the U.S. case, alternative factors include trade barriers that protected domestic
+industries, rapid population growth, and a favorable security environment. Possibly,
+the U.S. achieved sustained growth because these factors outweighed the influence of
+the U.S. ’s weak innovation capacity. This scenario is unlikely because, as historians
+have argued, S&T advance was central to U.S. productivity improvements in this
+period (Mowery & Rosenberg, 1993, pp. 31 –32). For a summary of alternative factors
+in the Soviet Union case, including excessive military spending, see Trachtenberg
+(2018, pp. 84 –92).
+7. For an analysis of how Britain ’s innovation capacity outdistanced its diffusion
+capacity in this period, see Supplementary Appendix A .
+8. See Supplementary Appendix A for more evidence of the U.S. ’s relative advantage in
+diffusion capacity in other technological domains.
+9. While some assessments of overall Soviet Union power, especially from the U.S.
+intelligence community, emphasized Soviet military power, my focus is on Soviet S&T
+capabilities in the civilian economy.
+10. Throughout this paper, especially in the U.S. case study, I employ engineering human
+capital as an indicator of diffusion capacity. To resolve some of the tension with
+citing statistics that encompass engineering graduates as indicators of innovation
+capacity in the Soviet case, I show that this “scientific manpower gap ” was mostly
+framed as a Soviet advantage in scientists and elite researchers. I thank an
+anonymous reviewer for raising this point.
+11. For other indicators of innovation capacity, such as patents, it was difficult to
+compare the two countries. The Soviet Union developed a distinct system of
+intellectual property, which awarded inventors with dachas and prizes instead of
+patents. Gordin, 2014.
+12. National Science Board ( 1987, p. 233).
+13. The nine areas were automobiles, chemicals, computers, high-voltage electric-power
+transmission, industrial-process control, iron- and steelmaking, machine tools,
+military technologies, and rocketry and manned space capsules. Evangelista ( 1988, pp.
+38–62) describes this study as ‘the most careful comparison of the relative levels of
+Soviet and Western technology. ’
+14. This section focuses on China ’s ability to generate and adopt commercially viable
+innovations. For analyses of China ’s military innovation system, see Cheung ( 2013)
+and Walsh ( 2014).
+15. One notable exception is Breznitz and Murphree ( 2011). They note that ‘policy
+makers and academics put too much faith in the notion that states and societies must
+create novel technologies in order to secure long-term growth and enhance national
+welfare’ (p. 2).
+16. An accompanying dataset includes all the articles reviewed. For coding details, see
+Supplementary Appendix B .
+17. Kennedy ( 2015, p. 284).
+18. Moyer and Markle ( 2017, p. 8). In fact, for periods before 2005, share of global R&D
+expenditures was the sole indicator of the GPI ’s technological dimension of power.
+Now, a country ’s share of global ICT capital stock makes up the other half of its
+technological power.
+19. An accompanying dataset lists the initial and updated versions of the 20 indicators.
+20. Because global rankings convey reputational effects, states sometimes try to game
+these indexes (Kelley & Simmons,
+2019). This issue is not as relevant for the
+decomposition exercise because states would not predict the choice of subindexes,
+and any attempt to game the indicators would apply equally across the subindexes.
+21. Supplementary Appendix C contains a detailed explanation of how I sorted the
+indicators for both the GII and GCI. Possibly, China ’s diffusion capacity could benefit
+from its large population of students in tertiary education. As an additional check, I
+192 J. DING
+
+=== PDF PAGE 22 ===
+re-ran the analysis with the tertiary enrollment indicator included in the diffusion
+capacity subindex. This did not meaningfully affect the main results. Supplementary
+Appendix C provides further details.
+22. This decomposition exercise was undertaken for twelve other countries: Denmark,
+France, Germany, India, Israel, Japan, Russia, Singapore, South Korea, Sweden,
+Switzerland, and the United Kingdom. China had the largest difference between its
+diffusion capacity subindex and innovation capacity subindex. This result holds for
+the GII in 2014, 2017, and 2020. See Supplementary Figure S1 in Appendix C .
+23. I am grateful to an anonymous reviewer for pointing this out. Supplementary
+Appendix C reports the detailed figures cited in this section.
+24. See, for example, Breznitz and Murphree ( 2011) and de La Bruy /C18ere and Picarsic ( 2020).
+25. Allison and Schmidt ( 2020, p. 10).
+26. While this article ’s theoretical framework does not focus on variation among
+technological developments, these ICT-specific measures address one concern about
+whether the GII decomposition captures a country ’s capacity to diffuse the disruptive
+innovations that are likely to transform the entire economy.
+27. In some areas, including measures of ICT access, China ’s ranking has declined over
+the past decade. This is based on figures reported in the 2011 and 2021 GII.
+28. Some of these tendencies echo the Soviet Union ’s struggles, although China ’s
+diffusion capacity benefits from extensive international linkages, entrepreneurial
+environment and venture capital sector, and a higher degree of decentralization in the
+actual implementation of industrial policies.
+Acknowledgements
+I am very grateful to Felipe Forero for invaluable research assistance. For helpful comments and
+input, I thank: Markus Anderljung, Alexis Carlier, Allan Dafoe, Max Daniel, Hiski Haukkala,
+Yutao Huang, Stephen Kaplan, Alex Lintz, Morgan MacInnes, Karolina Milewicz, Adam Salisbury,
+Toby Shevlane, Duncan Snidal, participants at the DPhil Workshop at Oxford University, and
+especially Ben Garfinkel and Remco Zwetsloot.
+Disclosure statement
+No potential conflict of interest was reported by the author(s).
+Notes on contributor
+Jeffrey Ding is an Assistant Professor of Political Science at George Washington University.
+References
+Alexopoulos, M. ( 2011). Read all about it!! What happens following a technology shock?
+American Economic Review , 101(4), 1144 –1179. https://doi.org/10.1257/aer.101.4.1144
+Alibaba Research Institute. ( 2019). From connected to empowered: Smart þ assisting the high-
+quality development of China ’s economy [ 从连接到赋能：‘智能þ’助力中国经济高质量发展].
+http://www.cbdio.com/BigData/2019-03/18/content_6049452.htm.
+Allison, G. ( 2017). Destined for War: Can America and China Escape Thucydides ’s Trap?.
+Houghton Mifflin Harcourt.
+Allison, G., & Schmidt, E. ( 2020). Is China beating the U.S. to AI supremacy? . Belfer Center for
+Science and International Affairs.
+Alnuaimi, T., Singh, J., & George, G. ( 2012). Not with my own: Long-term effects of cross-coun-
+try collaboration on subsidiary innovation in emerging economies versus advanced economies.
+Journal of Economic Geography , 12(5), 943 –968. https://doi.org/10.1093/jeg/lbs025
+REVIEW OF INTERNATIONAL POLITICAL ECONOMY 193
+
+=== PDF PAGE 23 ===
+Amann, R., Cooper, J., & Davies, R. W. ( 1977). Ronald Amann, Julian Cooper, & R. W. Davies,
+with the Assistance of Hugh Jenkins (Eds.), The technological level of Soviet Industry . Yale
+University Press.
+American Academy of Arts and Sciences. ( 2020). The perils of complacency: America at a tipping
+point in science & engineering . American Academy of Arts and Sciences.
+Andrews, D., Criscuolo, C., & Gal, P. N. ( 2015). Frontier firms, technology diffusion, and public
+policy: Micro evidence from OECD countries . OECD.
+Beckley, M. ( 2012). China ’s century? Why America ’s edge will endure. International Security ,
+36(3), 41 –78. https://doi.org/10.1162/ISEC_a_00066
+Beckley, M. ( 2018). The power of nations: Measuring what Matters. International Security , 43(2),
+7–44. https://doi.org/10.1162/isec_a_00328
+Berliner, J. S. ( 1973). Some international aspects of Soviet technological progress. South Atlantic
+Quarterly, 72(3), 340 –350.
+Biden, J. ( 2021). Remarks as prepared for delivery by President Biden – Address to a joint session of
+congress. The U.S. Capitol Building.
+Bolt, J., & Luiten van Zanden, J. ( 2020). Maddison style estimates of the evolution of the world
+economy. A new 2020 update. Maddison Project Working Paper.
+Breznitz, D., & Murphree, M. ( 2011). Run of the Red Queen: Government, innovation, globaliza-
+tion, and economic growth in China (1st ed.). Yale University Press.
+Broadberry, S. ( 2006). Market services and the productivity race. 1850–2000: British performance
+in international perspective. Cambridge studies in economic history - Second series . Cambridge
+University Press. https://doi.org/10.1017/CBO9780511495748
+Brooks, S. G., & Wohlforth, W. C. ( 2016). The rise and fall of the great powers in the twenty-first
+century: China ’s rise and the fate of America ’s global position. International Security , 40(3), 7 –
+53. https://doi.org/10.1162/ISEC_a_00225
+Central Intelligence Agency. ( 1969). The technological gap: The USSR vs the US and Western
+Europe.
+Chen, J., Yin, X., Fu, X., & McKern, B. ( 2021). Beyond catch-up: Could China become the global
+innovation powerhouse? China ’s innovation progress and challenges from a holistic innovation
+perspective. Industrial and Corporate Change , 30(4), 1037 –1064. https://doi.org/10.1093/icc/
+dtab032
+Cheung, T. M. ( 2013). Fortifying China: The struggle to build a modern defense economy . Cornell
+University Press.
+Cocka, Paul M. ( 1980). Science policy: USA/USSR. Volume II: Science policy in the Soviet Union.
+National Science Foundation.
+Cohen, I. B. ( 1976). Science and the growth of the American Republic. The Review of Politics ,
+38(3), 359 –398. https://doi.org/10.1017/S0034670500014455
+Comin, D., & Hobijn, B. ( 2010). An exploration of technology diffusion. American Economic
+Review, 100(5), 2031 –2059. https://doi.org/10.1257/aer.100.5.2031
+Comin, D., & Mestieri, M. ( 2014). Chapter 2 - Technology Diffusion: Measurement, Causes, and
+Consequences. In Handbook of Economic Growth ., edited by Philippe Aghion and Steven N.
+Durlauf, 2:565 –622. Handbook of Economic Growth. Elsevier. https://doi.org/10.1016/B978-0-
+444-53540-5.00002-1
+Comin, D., & Mestieri, M. ( 2018). If technology has arrived everywhere, why has income
+diverged? American Economic Journal: Macroeconomics , 10(3), 137 –178. https://doi.org/10.1257/
+mac.20150175
+Crawford, B. ( 1993). Economic vulnerability in international relations: The case of East-West
+Trade, investment, and finance . Columbia University Press.
+de La Bruy /C18ere, E. & Picarsic, N. ( 2020). Beijing ’s innovation strategy: Threat-informed acquisition
+for an era of great power competition. Proceedings of the Seventeenth Annual Acquisition
+Research Symposium, April 28.
+Dupree, A. H. ( 1964). Science in the federal government: A history of policies and activities to 1940 .
+Harper & Row.
+Edgerton, D. ( 1999). From innovation to use: Ten eclectic theses on the historiography of technol-
+ogy. History and Technology , 16(2), 111 –136.
+https://doi.org/10.1080/07341519908581961
+194 J. DING
+
+=== PDF PAGE 24 ===
+Edquist, C., & Lundvall, B.-A. ( 1993). Comparing the Danish and Swedish Systems of Innovation.
+In R. R Nelson (Ed.), National innovation systems: a comparative analysis (pp. 265 –298).
+Oxford University Press.
+Evangelista, M. ( 1988). Innovation and the arms race: How the United States and the Soviet
+Union develop new military technologies. Ithaca. http://hdl.handle.net/2027/mdp.
+39015009973317.
+Fadly, D., & Fontes, F. ( 2019). Geographical proximity and renewable energy diffusion: An empir-
+ical approach. Energy Policy , 129, 422 –435. https://doi.org/10.1016/j.enpol.2019.02.034
+Freeman, C., & Young, A. ( 1965). The research and development effort in Western Europe, North
+America and the Soviet Union: An experimental international comparison of research expendi-
+tures and manpower in 1962 . OECD.
+Geisler, E. ( 2000). The metrics of science and technology . Quorum Books.
+Gerschenkron, A. ( 1962). Economic backwardness in historical perspective . Belknap Press of
+Harvard University Press.
+Gilady, L. ( 2017). The price of prestige . University of Chicago Press. https://press.uchicago.edu/
+ucp/books/book/chicago/P/bo25338548.html.
+Gilpin, R. ( 1968). France in the age of the scientific state . Princeton University Press.
+Gilpin, R. ( 1981). War and Change in World Politics . Cambridge University Press.
+Gordin, M. D. ( 2014). The Soviet science system. The Point . https://thepointmag.com/politics/
+soviet-science-system/.
+Graham, L. ( 2013). Lonely ideas: Can Russia compete? Illustrated edition . The MIT Press.
+Gries, T., Grundmann, R., Palnau, I., & Redlin, M. ( 2017). Innovations, growth and participation
+in advanced economies – A review of major concepts and findings. International Economics
+and Economic Policy , 14(2), 293 –351. https://doi.org/10.1007/s10368-016-0371-1
+Gu/C19edon, J-c. ( 1980). Conceptual and institutional obstacles to the emergence of unit operations in
+Europe. In William F. Furter (Ed.), History of chemical engineering (pp. 45 –75). American
+Chemical Society.
+H€ohn, K. H. ( 2011). Geopolitics and the measurement of national power . Hamburg University.
+Hwang, K. ( 2010). Measuring geopolitical power in India: A review of the National Security Index
+(NSI)
+International Telecommunications Union. ( 2017) Measuring the Information Society Report 2017.
+https://www.itu.int/en/ITU-D/Statistics/Pages/publications/mis2017.aspx.
+Kaiser, D. ( 2006). The physics of spin: Sputnik politics and American Physicists in the 1950s.
+Social Research: An International Quarterly, 73(4), 1225–1252. https://doi.org/10.1353/sor.2006.0030
+Keller, W. ( 2004). International technology diffusion. Journal of Economic Literature , 42(3), 752 –
+782. https://doi.org/10.1257/0022051042177685
+Kelley, J. G., & Simmons, B. A. ( 2019). Introduction: The power of global performance indicators.
+International Organization , 73(3), 491 –510. https://doi.org/10.1017/S0020818319000146
+Kennedy, A. ( 2018). The conflicted superpower America ’s collaboration with China and India in
+global innovation . Columbia University Press.
+Kennedy, A. B. ( 2015). Powerhouses or pretenders? Debating China ’s and India ’s emergence as
+technological powers. The Pacific Review , 28(2), 281 –302. https://doi.org/10.1080/09512748.
+2014.995126
+Kennedy, A. B. ( 2016). Slouching Tiger, Roaring Dragon: Comparing India and China as late
+innovators. Review of International Political Economy , 23(1), 65 –92. https://doi.org/10.1080/
+09692290.2015.1105845
+Kennedy, A. B., & Lim, D. J. ( 2018). The innovation imperative: Technology and US –China
+rivalry in the twenty-first century. International Affairs , 94(3), 553 –572. https://doi.org/10.1093/
+ia/iiy044
+Kennedy, P. M. ( 1987). The rise and fall of the great powers: Economic change and military conflict
+from 1500 to 2000 . Random House.
+Kennedy, S. ( 2017). The fat tech dragon: Benchmarking China ’s innovation drive . Center for
+Strategic and International Studies.
+Kevles, D. J., Sturchio, J. L., & Carroll, P. T. ( 1980). The sciences in America, Circa 1880. Science
+(New York, N.Y.) , 209(4452), 27 –32. https://doi.org/10.1126/science.209.4452.27
+REVIEW OF INTERNATIONAL POLITICAL ECONOMY 195
+
+=== PDF PAGE 25 ===
+Kontorovich, V. ( 1990). The long-run decline in Soviet R&D productivity. The impoverished
+superpower: Perestroika and the burden of Soviet military spending (pp. 255 –270). Institute for
+Contemporary Studies Press.
+Krige, J. ( 2000). NATO and the strengthening of western science in the Post-Sputnik Era.
+Minerva, 38(1), 81 –108. https://doi.org/10.1023/A:1026549723657
+Lan, X., & Forbes, N. ( 2006). Will China become a science and technology superpower by 2020?
+An assessment based on a national innovation system framework. Innovations: Technology,
+Governance, Globalization , 1(4), 111 –126. https://doi.org/10.1162/itgg.2006.1.4.111
+Layne, C. ( 2018). The US –Chinese power shift and the end of the Pax Americana. International
+Affairs, 94(1), 89 –111. https://doi.org/10.1093/ia/iix249
+Little, A. D. ( 1933). Twenty-five years of chemical engineering progress (Silver anniversary volume) .
+American Institute of Chemical Engineers.
+Macleod, R. M. ( 1971). The support of Victorian Science: The endowment of research movement
+in Great Britain, 1868-1900. Minerva, 9(2), 197 –230. https://doi.org/10.1007/BF01553156
+Madsen, J. B. ( 2007). Technology spillover through trade and TFP convergence: 135 years of evi-
+dence for the OECD Countries. Journal of International Economics , 72(2), 464 –480. https://doi.
+org/10.1016/j.jinteco.2006.12.001
+Malkin, A. ( 2020). The made in China challenge to US structural power: Industrial policy, intel-
+lectual property and multinational corporations. Review of International Political Economy ,
+29(2), 538 –570. https://doi.org/10.1080/09692290.2020.1824930
+Maloney, W. F., & Caicedo, F. V. ( 2017). Engineering growth: Innovative capacity and develop-
+ment in the Americas. CESifo Working Paper Series. CESifo Working Paper Series. CESifo,
+2017. https://ideas.repec.org/p/ces/ceswps/_6339.html.
+McCarthy, D. P. ( 2015). Information Technology, and International Relations Theory: The Power
+and Politics of US Foreign Policy and the Internet . Springer.
+MIT Committee to Evaluate the Innovation Deficit. ( 2015). The future postponed: Why declining
+investment in basic research threatens a U.S. innovation deficit . MIT.
+Modelski, G., & Thompson, W. R. ( 1996). Leading sectors and world powers: The coevolution of
+global politics and economics . University of South Carolina Press.
+Mokyr, J. ( 1998). The second industrial revolution, 1870-1914. In V. Castronono (Ed.), Storia del-
+l’economia Mondiale (pp. 219 –245). Laterza.
+Mowery, D. C., & Rosenberg, N. ( 1993). The U.S. National Innovation System. In Richard R.
+Nelson (Ed.) National innovation systems: A comparative analysis . Oxford University Press.
+Moyer, J. D., & Markle, A. ( 2017). Relative national power codebook. Diplometrics. Frederick S.
+Pardee Center for International Futures.
+Murmann, P. ( 2003). Chemical Industries after 1850. In Oxford Encyclopedia of Economic History
+(pp. 398 –406). Oxford University Press.
+Nahm, J., & Steinfeld, E. S. ( 2014, February 1). Scale-up Nation: China ’s specialization in innova-
+tive manufacturing. World Development , 54, 288 –300. https://doi.org/10.1016/j.worlddev.2013.
+09.003
+National Intelligence Council. ( 2012). Global trends 2030: Alternative worlds . Office of the
+Director of National Intelligence.
+National Science Board. ( 1987). Science & engineering indicators – 1987. National Science
+Foundation.
+National Science Board. ( 1993). Science & engineering indicators – 1993. U.S. Government
+Printing Office.
+Nye, J. S. ( 1990). The changing nature of world power. Political Science Quarterly , 105(2), 177 –
+192. https://doi.org/10.2307/2151022
+Paarlberg, R. L. ( 2004). Knowledge as power: Science, military dominance, and U.S. security.
+International Security , 29(1), 122 –151. https://doi.org/10.1162/0162288041762959
+P e r k i n s ,R . ,&N e u m a y e r ,E .(2005). The international diffusion of new technologies: A multitechnol-
+ogy analysis of latecomer advantage and global economic integration. Annals of the Association of
+American Geographers, 95(4), 789–808. https://doi.org/10.1111/j.1467-8306.2005.00487.x
+Pillsbury, M. ( 2000). China debates the future security environment . National Defense University
+Press.
+196 J. DING
+
+=== PDF PAGE 26 ===
+Poznanski, K. Z. ( 1983). International diffusion of steel technologies: Time-lag and the speed of
+diffusion. Technological Forecasting and Social Change , 23(4), 305 –323. https://doi.org/10.1016/
+0040-1625(83)90034-3
+Pulkki-Br€annstr€om, A.-M K. ( 2009). International diffusion of new technology (Phd). University
+of Warwick. http://webcat.warwick.ac.uk/record=b2334510/C24 S15.
+Rapkin, D., & Thompson, W. ( 2003). Power transition, challenge and the (re)emergence of china.
+International Interactions , 29(4), 315 –342. https://doi.org/10.1080/714950652
+Ray, G. F., Håkanson, S., Ehrlich, R., Oppenl €ander, K. H., Lacci, L., & Aujac, H. ( 1969). The diffu-
+sion of new technology: A study of ten processes in nine industries. National Institute
+Economic Review , 48(1), 40 –83.
+Rosenberg, N. ( 1982). Inside the black box: Technology and economics . Cambridge University
+Press.
+Rosenberg, N. ( 1998). Chemical engineering as a general purpose technology. In Elhanan
+Helpman (Ed.) Chemical engineering as a general purpose technology (pp. 167 –192). MIT Press.
+Rosenberg, N., & Steinmueller, W. E. ( 2013). Engineering knowledge. Industrial and Corporate
+Change, 22(5), 1129 –1158. https://doi.org/10.1093/icc/dts053
+Rowland, H. A. ( 1883). A plea for pure science. Science, 2(29), 242 –250.
+Schumpeter, J. A. ( 1934). The theory of economic development: An inquiry into profits, capital,
+credit, interest, and the business cycle . Harvard Economic Studies, Harvard University Press.
+Shapira, P., & Youtie, J. ( 2017). The next production revolution and institutions for technology
+diffusion. The next production revolution: Implications for governments and business . OECD.
+Shryock, R. H. ( 1966). Medicine in America: Historical essays . Johns Hopkins Press.
+Slichter, Charles S. ( 1902). Recent criticism of American scholarship. Transactions of the
+Wisconsin Academy of Sciences, Arts and Letters , 14, 1 –15. https://digicoll.library.wisc.edu/cgi-
+bin/WI/WI-idx?type=turn&id=WI.WT1902&entity=WI.WT1902.p0017&isize=text.
+Snyder, C. ( 1902). America ’s inferior position in the scientific world. The North American Review ,
+174(542), 59 –72.
+Starrs, S. ( 2013). American economic power hasn ’t declined —It globalized! summoning the data
+and taking globalization seriously. International Studies Quarterly , 57(4), 817 –830. https://doi.
+org/10.1111/isqu.12053
+Suttmeier, R. P. ( 2008). The discourse on China as science and technology superpower: Assessing
+the arguments. International Symposium on China as a Science and Technology Superpower
+(pp. 9 –10).
+Synced. (2020). Market research report on supply and demand for digital intelligentization solutions for
+China’s small and medium enterprises [中国中小企业数智化解决方案供应市场研究报告2020].
+Taylor, M. Z. ( 2012). Toward an international relations theory of national innovation rates.
+Security Studies , 21(1), 113 –152. https://doi.org/10.1080/09636412.2012.650596
+Taylor, M. Z. ( 2016). The politics of innovation: Why some countries are better than others at sci-
+ence and technology (1st ed.). Oxford University Press.
+Techxcope. ( 2020). Innovation is more than invention: Detailed explanation of the German indus-
+try-university-research systems ’ Big Four [ 创新不止于发明：德国产学研体系四大金刚详解].
+Teitelbaum, M. S. ( 2014). Falling behind?: Boom, bust, and the global race for scientific talent .
+Princeton University Press. https://press.princeton.edu/books/hardcover/9780691154664/falling-
+behind.
+Thackray, A., Sturchio, J. L., Carroll, P. T., & Bud, R. F. ( 1985). Chemistry in America 1876 –1976:
+Historical indicators (1985th ed.). Springer.
+The New York Times. ( 1860). Scientific Progress and Prospects of Science in America. The
+Recent Congress at Newport Resume of Results. Archives. https://www.nytimes.com/1860/08/
+25/archives/scientific-progress-and-prospects-of-science-in-america-the-recent.html.
+Trachtenberg, M. ( 2018). Assessing Soviet economic performance during the Cold War: A failure
+of intelligence? Texas National Security Review , 1(2), 76 –101.
+Wang, J., & Chen, X. Information security: A comparative study on cloud security in China and the
+United States, what gaps exist in Chinese Cloud security? [ 信息安全：中美云安全产业对比研究,
+国内云安全公司空间几何？]. DongXing Securities (blog), June 29, 2020. http://www.xcf.cn/article/
+2a6265f3bc2f11eabf3cd4c9efcfdeca.html.
+REVIEW OF INTERNATIONAL POLITICAL ECONOMY 197
+
+=== PDF PAGE 27 ===
+Walsh, K. A. ( 2014). China ’s emerging defense innovation system: making the wheels turn. In
+Tai Ming Cheung (Ed.) Forging China ’s Military Might : A New Framework for Assessing
+Innovation. Johns Hopkins University Press.
+Weber, S. ( 2004). The success of open source . Harvard University Press.
+World Intellectual Property Organization. ( 2020). Global innovation index 2020 https://www.
+wipo.int/global_innovation_index/en/2020/.
+198 J. DING

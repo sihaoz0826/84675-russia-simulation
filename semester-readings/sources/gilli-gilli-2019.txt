@@ -1,0 +1,2497 @@
+=== PDF PAGE 1 ===
+Can adversaries of the
+United States easily imitate its most advanced weapon systems and thus erode
+its military-technological superiority? Do reverse engineering, industrial espi -
+onage, and, in particular, cyber espionage facilitate and accelerate this process?
+China’s decades-long economic boom, military modernization program, mas -
+sive reliance on cyber espionage, and assertive foreign policy have made these
+questions increasingly salient. Yet, almost everything known about this topic
+draws from the past. As we explain in this article, the conclusions that the ex -
+isting literature has reached by studying prior eras have no applicability to the
+current day .
+Scholarship in international relations theory generally assumes that ris -
+ing states beneªt from the “advantage of backwardness,” as described by
+Andrea Gilli is a senior researcher at the NATO (North Atlantic T reaty Organization) Defense College in
+Rome, Italy. Mauro Gilli is a senior researcher at the Center for Security Studies at the Swiss Federal Insti-
+tute of T echnology in Zurich, Switzerland. The authors are listed in alphabetical order to reºect their equal
+contributions to this article. The views expressed in the article are those of the authors and do not represent
+the views of NATO, the NATO Defense College, or any other institution with which the authors are or have
+been afªliated .
+For extensive feedback, the authors thank Luigi Balletta, Stephen Biddle, Stephen Brooks, Myriam
+Dunn Cavelty , Jonathan Caverley , Valerie Freeland, Matthew Fuhrmann, Eugene Gholz, Charles
+Glaser, James Hasik, Olivier Henripin, Liviu Horovitz, Ulrich Krotz, Alexander Lanoszka, Jennifer
+Lind, Jon Lindsay , Michael Martoccio, Antonio Missiroli, Stephen Nelson, Stephanie Neuman,
+Costantino Pischedda, Carl Plicner, Scott Sagan, Anne Sartori, Jason Seawright, Nina Silove,
+Hendrik Spruyt, Pascal V ennesson, Andreas Wenger, William Wohlforth, Amy Zegart, and the
+anonymous reviewers. For helpful discussions, they thank Richard Aboulaªa, Ron Adner, Andrea
+Asoni, Christopher Bassler, Stefano Brusoni, Austin Long, Joel Mokyr, Christian Nünlist, Pietro
+Monsurrò, and Tino Sanandaji. Andrea Gilli would like to acknowledge the organizations where
+part of this research was conducted: the Royal United Service Institute, the Center for Transatlantic
+Relations of the School of Advanced International Studies of Johns Hopkins University , the Euro -
+pean Union Institute for Security Studies, the Saltzman Institute of War and Peace Studies at Co -
+lumbia University , the Centre for Security Studies at Metropolitan University Prague, the Center
+for International Security and Cooperation at Stanford University , and the Belfer Center for Sci -
+ence and International Affairs of Harvard University . Mauro Gilli would like to acknowledge the
+John Sloan Dickey Center for International Understanding at Dartmouth College, as well as the
+ªnancial support of the Smith Richardson Foundation, the Dispute Resolution Research Center at
+the Kellogg School of Management at Northwestern University , and the Buffett Institute for Com -
+parative and International Studies of Northwestern University . A complete list of individuals who
+provided assistance is available at http:/ /www.css.ethz.ch/content/dam/ethz/special-interest/
+gess/cis/center-for-securities-studies/pdfs/Gilli-and-Gilli.pdf, together with additional explana -
+tory and bibliographic material.
+International Security, V ol. 43, No. 3 (Winter 2018/19), pp. 141–189, https:/ /doi.org/10.1162/ISEC_a_00337
+© 2019 by the President and Fellows of Harvard College and the Massachusetts Institute of Technology .
+Published under a Creative Commons Attribution 4.0 International (CC BY 4.0) license.
+Why China Has Not Caught Up Y et
+Why China Has Not
+Caught Up Y et
+Andrea Gilli and
+Mauro Gilli
+Military-Technological Superiority and
+the Limits of Imitation, Reverse
+Engineering, and Cyber Espionage
+141
+Downloaded from direct.​mit.​edu/​isec/​article-pdf/​43/​3/​141/​1844201/​isec_a_00337.​pdf by guest on 22 October 2026
+
+
+=== PDF PAGE 2 ===
+Alexander Gerschenkron. 1 By free riding on the research and technology of
+the most advanced countries, less developed states can allegedly close the
+military-technological gap with their rivals relatively easily and quickly .
+2 More
+recent works maintain that globalization, the emergence of dual-use compo -
+nents, and advances in communications (including the opportunity for cyber
+espionage) have facilitated this process. 3 This literature is built on shaky theo -
+retical foundations, and its claims lack empirical support.
+The international relations literature largely ignores one of the most impor -
+tant changes to have occurred in the realm of weapons development since the
+second industrial revolution (1870–1914): the exponential increase in the com -
+plexity of military technology . We argue that this increase in complexity
+has promoted a change in the system of production that has made the imita -
+tion and replication of the performance of state-of-the-art weapon systems
+harder—so much so as to offset the diffusing effects of globalization and ad-
+vances in communications. On the one hand, the increase in complexity has
+signiªcantly raised the entry barriers for the production of advanced wea-
+pon systems: countries must now possess an extremely advanced industrial,
+scientiªc, and technological base in weapons production before they can copy
+foreign military technology . On the other hand, the knowledge to design, de-
+velop, and produce advanced weapon systems is less likely to diffuse, given
+its increasingly tacit and organizational nature. As a result, the advantage of
+backwardness has shrunk signiªcantly , and know-how and experience in the
+production of advanced weapon systems have become an important source of
+power for those who master them. We employ two case studies to test this ar -
+gument: Imperial Germany’s rapid success in closing the technological gap
+with the British Dreadnought battleship, despite signiªcant inhibiting factors;
+and China’s struggle to imitate the U.S. F-22/A Raptor jet ªghter, despite sev -
+eral facilitating conditions.
+Our research contributes to key theoretical and policy debates. First, the
+International Security 43:3 142
+1. Alexander Gerschenkron, Economic Backwardness in Historical Perspective: A Book of Essays (Cam-
+bridge, Mass.: Belknap, 1962), pp. 5–30.
+2. Kenneth N. Waltz, Theory of International Politics (New York: McGraw-Hill, 1979), pp. 74, 127;
+Robert Gilpin, War and Change in World Politics (Cambridge: Cambridge University Press, 1981),
+pp. 176–177; and Michael C. Horowitz, The Diffusion of Military Power: Causes and Consequences for
+International Politics (Princeton, N.J.: Princeton University Press, 2010), p. 34.
+3. Wayne Sandholtz et al., eds., The Highest Stakes: The Economic Foundations of the Next Security
+System (New York: Oxford University Press, 1991); Richard A. Bitzinger, “The Globalization of the
+Arms Industry: The Next Proliferation Challenge,” International Security, V ol. 19, No. 2 (Fall 1994),
+pp. 170–198, doi.org/10.2307/2539199; and Emily O. Goldman and Richard B. Andres, “Systemic
+Effects of Military Innovation and Diffusion,” Security Studies, V ol. 8, No. 4 (Summer 1999), pp. 79–
+125, doi.org/10.1080/09636419908429387.
+Downloaded from direct.​mit.​edu/​isec/​article-pdf/​43/​3/​141/​1844201/​isec_a_00337.​pdf by guest on 22 October 2026
+
+
+=== PDF PAGE 3 ===
+ability to imitate state-of-the-art military hardware plays a central role in theo -
+ries that seek to explain patterns of internal balancing and the rise and fall of
+great powers. Yet, the mainstream international relations literature has not in -
+vestigated this process. 4 Because imitating military technology was relatively
+easy in the past, scholars and policymakers assume that it also is today , as fre -
+quent analogies between Wilhelmine Germany and contemporary China epit -
+omize.5 In this article, we investigate the conditions under which the imitation
+of state-of-the-art weapon systems such as attack submarines and combat air -
+craft is more or less likely to succeed.
+Second, we develop the ªrst systematic theoretical explanation of why U.S.
+superiority in military technology remains largely unrivaled almost thirty
+years after the end of the Cold War, despite globalization and the information
+and communication technology revolution. Some scholars have argued that
+developing modern weapon systems has become dramatically more demand-
+ing, which in turn has made internal balancing against the United States more
+difªcult.
+6 This literature, however, cannot explain why in the age of globaliza-
+tion and instant communications—with cyber espionage permitting the theft
+of massive amount of digital data—U.S. know-how in advanced weapon sys-
+tems has not already diffused to other states. Other contributors to the debate
+on unipolarity have either pointed to the relative inferiority of Chinese mili-
+tary technology without providing a theoretical explanation, or they have ar-
+gued that developing the military capabilities to challenge the status quo is, in
+the long run, a function of political will—an argument that cannot account
+for the failure of the Soviet Union to cope with U.S. military technology from
+the late 1970s onward.
+7 We argue that in the transition from the second in -
+Why China Has Not Caught Up Y et 143
+4. For a summary of the literature, see Goldman and Andres, “Systemic Effects of Military Innova -
+tion and Diffusion.”
+5. See, for example, Jean-Christophe Defraigne, “Is China on the V erge of a Weltpolitik? A Com -
+parison of the Current Shift in the Balance of Power between China and the West and the Shift be -
+tween Great Britain and Wilhelmine Germany ,” in Bart Dessein, ed., Interpreting China as a Regional
+and Global Power: Nationalism and Historical Consciousness in World Politics (New York: Palgrave
+Macmillan, 2014), pp. 293–323.
+6. Stephen G. Brooks, Producing Security: Multinational Corporations, Globalization, and the Changing
+Calculus of Conºict (Princeton, N.J.: Princeton University Press, 2006); Jonathan D. Caverley ,
+“United States Hegemony and the New Economics of Defense,” Security Studies , V ol. 16, No. 4
+(October–December 2007), pp. 598–614, doi.org/10.1080/09636410701740825; Eugene Gholz,
+“Globalization, Systems Integration, and the Future of Great Power War,” Security Studies, V ol. 16,
+No. 4 (October–December 2007), pp. 615–636, doi.org/10.1080/09636410701740908; and Stephen
+G. Brooks and William C. Wohlforth, “The Rise and Fall of the Great Powers in the Twenty-ªrst
+Century: China’s Rise and the Fate of America’s Global Position,” International Security , V ol. 40,
+No. 3 (Winter 2015/16), pp. 7–53, doi.org/10.1162/ISEC_a_00225.
+7. See Michael Beckley , Unrivaled: Why America Will Remain the World’s Sole Superpower (Ithaca,
+Downloaded from direct.​mit.​edu/​isec/​article-pdf/​43/​3/​141/​1844201/​isec_a_00337.​pdf by guest on 22 October 2026
+
+
+=== PDF PAGE 4 ===
+dustrial revolution to the information age, the imitation of state-of-the-art mili -
+tary technology has become more difªcult, so much so that today rising
+powers or even peer competitors cannot easily copy foreign weapon systems. 8
+Our ªndings address existing concerns that China’s use of cyber espionage
+and the increasing globalization of arms production will allow Beijing to rap -
+idly close the military-technological gap with the United States.
+9
+Third, the international relations literature accepts the claim that globali -
+zation and advances in communications have made the imitation of military
+technology easier; yet no one has empirically tested this proposition. 10 This
+failing is particularly concerning in light of the opportunities opened by cyber
+espionage—a practice that, according to many observers, could erode the U.S.
+advantage in military technology . Richard Clark, a former U.S. senior govern -
+ment ofªcial, believes that Chinese cyber espionage could result in the United
+States “hav[ing] all of [its] research and development stolen”; Gen. Keith
+Alexander, a former director of the National Security Agency , worries that
+cyber espionage could lead to “the greatest transfer of wealth in history .”
+11
+With a few notable exceptions, however, international relations scholars have
+paid little attention to the advantages and limits of cyber espionage for copy-
+ing foreign military technology .
+12 Our research ªlls this gap and tests the con-
+ventional wisdom using the case of China, one of the states that has beneªted
+the most from globalization and that has employed cyber espionage more ex-
+tensively than any other country .
+International Security 43:3 144
+N.Y .: Cornell University Press, 2018), pp. 69–71; and Nuno P . Monteiro, Theory of Unipolar Politics
+(Cambridge: Cambridge University Press, 2014), p. 38.
+8. For a discussion of late nineteenth- and early twentieth-century innovations with features no
+longer seen, see, for example, Vaclav Smil, Creating the Twentieth Century: T echnical Innovations of
+1867–1914 and Their Lasting Impact (New York: Oxford University Press, 2005); and Vaclav Smil,
+T ransforming the Twentieth Century: T echnical Innovations and Their Consequences (New York: Oxford
+University Press, 2006).
+9. Tai Ming Cheung, ed., The Chinese Defense Economy T akes Off: Sector by Sector Assessments and the
+Role of Military End Users (San Diego: Institute on Global Conºict and Cooperation, University of
+California, 2013).
+10. A previous work of ours in part addresses this topic. See Andrea Gilli and Mauro Gilli, “The
+Diffusion of Drone Warfare? Industrial, Infrastructural, and Organizational Constraints,” Security
+Studies, V ol. 25, No. 1 (Winter 2016), pp. 50–84, doi.org/10.1080/09636412.2016.1134189. More gen -
+erally , however, few works have studied qualitative competition in military technology . An excep-
+tion is Owen R. Coté Jr., The Third Battle: Innovation in the U.S. Navy’s Silent Cold War Struggle with
+Soviet Submarines (Newport, R.I.: Naval War College, 2009).
+11. Ron Rosenbaum, “Richard Clarke on Who Was behind the Stuxnet Attack,” Smithsonian maga-
+zine, April 2012, p. 12; and Gen. Keith Alexander, “Cybersecurity and American Power,” keynote
+address, American Enterprise Institute, Washington, D.C., July 9, 2012.
+12. Jon R. Lindsay , Tai Ming Cheung, and Derek S. Reveron, eds., China and Cybersecurity: Espio -
+nage, Strategy, and Politics in the Digital Domain (Oxford: Oxford University Press, 2015); and Robert
+Downloaded from direct.​mit.​edu/​isec/​article-pdf/​43/​3/​141/​1844201/​isec_a_00337.​pdf by guest on 22 October 2026
+
+
+=== PDF PAGE 5 ===
+The remainder of the article proceeds as follows. First, we discuss the sub -
+stantive and theoretical relevance of the outcome we aim to explain: the degree
+to which rising states are able to close the military-technological gap with their
+most advanced adversaries. Second, we examine why the increasing com -
+plexity of military technology accounts for the variation in outcome we ob -
+serve over the past 150 years. In the third and fourth sections, we detail the
+causal mechanisms underpinning our theory . In the ªfth section, we present
+the results of our empirical investigation: a comparison between Imperial
+Germany’s imitation of big-gun battleships (1890–1916) and China’s imitation
+of ªfth-generation jet ªghters (1991–2018). In the conclusion, we lay out impli -
+cations of our ªndings for international relations theory and the future of
+U.S. primacy .
+Military-T echnological Superiority
+Military-technological superiority is a central theme in both international poli-
+tics and international relations theory . Yet, the discipline has not studied the
+conditions under which states can close the military-technological gap with
+their rivals.
+military-technological competition
+States compete to develop, ªeld, and maintain the most advanced military
+platforms possible.
+13 When a country develops a new military technology , its
+competitors will devise countermeasures and counter-innovations to limit,
+and possibly eliminate, the advantage their enemy derives from its innovation.
+Counter-innovations such as anti-air defense systems force innovators to fur -
+ther improve the performance of their technology .
+14 The history of military
+innovation is, in the end, the history of innovation, counter-innovation, and
+further innovation.
+15
+Why China Has Not Caught Up Y et 145
+Farley , “Intellectual Property , Cyber Espionage, and Military Diffusion,” Global Security and Intelli -
+gence Studies , V ol. 1, No. 2 (Spring 2016), pp. 2–20, doi.org/10.18278/gsis.1.2.2.
+13. Bernard Brodie and Fawn M. Brodie, From the Crossbow to H-Bomb: The Evolution of the Weapons
+and T actics of Warfare (Bloomington: Indiana University Press, 1973), pp. 6, 137, 178; and Trevor N.
+Dupuy ,The Evolution of Weapons and Warfare (New York: Da Capo, 1984), p. 199.
+14. Andrea Gilli and Mauro Gilli, “The Dynamics of Military Innovations and Counter-
+Innovations,” paper presented at the “Bridging the Straits” conference, Naval War College, New -
+port, Rhode Island, December 11–13, 2018.
+15. Geoffrey Parker, The Military Revolution: Military Innovation and the Rise of the West, 1500–1800
+(New York: Cambridge University Press, 1996); and Kenneth Macksey , T echnology in War: The Im-
+pact of Science on Weapon Development and Modern Battle (London: Guild, 1986), pp. 34–35.
+Downloaded from direct.​mit.​edu/​isec/​article-pdf/​43/​3/​141/​1844201/​isec_a_00337.​pdf by guest on 22 October 2026
+
+
+=== PDF PAGE 6 ===
+Although countermeasures and counter-innovations can be very effective,
+they permit countries only to negate the beneªts an enemy gains from its inno -
+vations.16 When countries seek to remain or become regional or global powers,
+or when they aim to deploy certain capabilities, however, they have to acquire
+speciªc military platforms, such as aircraft carriers for long-range power pro -
+jection, jet ªghters for air superiority , or submarines for sea denial. Some coun -
+tries lagging behind in these capabilities will try to copy others’ military
+innovations and, ideally , to outperform them.
+17 Under the right conditions, im -
+itation will facilitate and accelerate the ability of some states to catch up tech -
+nologically .18 First, by free riding on the research and technology of innovators,
+imitators can save the resources they would otherwise need to invest to de -
+velop indigenously state-of-the-art technology . 19 Second, imitators can avoid
+making the mistakes of the innovators or, worse, embarking on technically un-
+feasible projects—a strong possibility when dealing with cutting-edge technol-
+ogies.
+20 Third, imitators can use their unused resources to improve existing
+technology and possibly outperform innovators. 21 In sum, imitators will de-
+rive an advantage when imitation is cheaper and faster than innovation. 22
+These conditions were present in the late nineteenth and early twentieth
+centuries, when rising powers such as Wilhelmine Germany , Imperial Japan,
+International Security 43:3 146
+16. See Andrea Gilli and Mauro Gilli, “The Spread of Military Innovations: Adoption Capacity
+Theory , Tactical Incentives, and the Case of Suicide Terrorism,” Security Studies , V ol. 23, No. 3
+(July–September 2014), pp. 513–547, doi.org/10.1080/09636412.2014.935233.
+17. Martin van Creveld, T echnology and War: From 2000 B.C. to the Present (New York: Touchstone,
+1989), p. 229. Not coincidentally , the Soviet big-ºeet program in the 1930s was driven by the slogan
+“Catch up and overtake.” See Milan L. Hauner, “Stalin’s Big-Fleet Program,” Naval War College Re -
+view, V ol. 57, No. 2 (Spring 2004), p. 114, https:/ /digital-commons.usnwc.edu/nwc-review/vol57/
+iss2/6.
+18. See Yu-Ming Liou, Paul Musgrave, and J. Furman Daniel III, “The Imitation Game: Why Don’t
+Rising Powers Innovate Their Militaries More?” Washington Quarterly, V ol. 38, No. 3 (Fall 2015),
+pp. 157–174, doi.org/10.1080/0163660X.2015.1099030.
+19. Marvin B. Lieberman and Sigheru Asaba, “Why Do Firms Imitate Each Other?” Academy of
+Management Review, V ol. 31, No. 2 (April 2006), pp. 366–385, doi.org/10.2307/20159207; and Walter
+G. Vincenti, What Engineers Know and How They Know It: Analytical Studies from Aeronautical History
+(Baltimore, Md.: Johns Hopkins University Press, 1990), pp. 7–8.
+20. David J. Teece, “Capturing Value from Knowledge Assets: The New Economy , Markets for
+Know-How, and Intangible Assets,” California Management Review , V ol. 40, No. 3 (Spring 1998),
+pp. 55–79, doi.org/10.2307/41165943.
+21. Michael L. Tushman and Philip Anderson, “Technological Discontinuities and Organizational
+Environments,” Administrative Science Quarterly , V ol. 31, No. 3 (September 1996), pp. 439–465,
+doi.org/10.2307/2392832.
+22. Marvin B. Lieberman and David B. Montgomery , “First-Mover Advantages,” Strategic Manage-
+ment Journal , V ol. 9, No. 5 (Summer 1988), pp. 41–58, https:/ /www.jstor.org/stable/2486211; and
+Marvin B. Lieberman and David B. Montgomery , “First-Mover (Dis)Advantages: Retrospective
+and Link with the Resource-Based View,” Strategic Management Journal , V ol. 19, No. 12 (December
+1998), pp. 1111–1125, https:/ /www.jstor.org/stable/3094199.
+Downloaded from direct.​mit.​edu/​isec/​article-pdf/​43/​3/​141/​1844201/​isec_a_00337.​pdf by guest on 22 October 2026
+
+
+=== PDF PAGE 7 ===
+and the Soviet Union under Joseph Stalin could easily imitate foreign military
+technology and catch up with their rivals in a relatively short period of time. 23
+Implicitly or explicitly , these and similar cases have informed the literature on
+the balance of power and on the rise and fall of great powers—a literature that
+largely has accepted the assumption that copying foreign military technology
+is relatively easy .
+24
+literature review
+The imitation of military technology plays a central but unappreciated role
+in the literature on international relations theory .
+25 Internal balancing, for in -
+stance, often entails imitating foreign technology . Yet, international relations
+scholars have not investigated when and why efforts to imitate foreign
+weapon systems are successful.
+26 Instead, they have assumed that states’ in-
+tentions or incentives to imitate will ipso facto lead to success. 27
+According to Kenneth Waltz, for example, because of competition and
+socialization dynamics in international politics, the “weapons of the major
+contenders... come to... look much the same all over the world.”
+28 Similarly ,
+Robert Gilpin argues that “there is a historical tendency for the militar y...
+techniques of the dominant state or empire to be diffused to other states in the
+system.”
+29 For P .W. Singer, “The problem for ‘ªrst movers ’...i s that they have
+to pay heavily” when developing military technology . In comparison, imitat-
+ing countries “can ‘free ride’ on the early cost, copy what works and focus all
+their energy and resources solely on improving upon what the ªrst mover
+does.”
+30 Interestingly , even some of the scholars who have questioned the liter-
+Why China Has Not Caught Up Y et 147
+23. Brooks and Wohlforth, “The Rise and Fall of the Great Powers in the Twenty-ªrst Century ,”
+p. 9.
+24. This is also true for the literature on offense-defense balance, which treats technology as a sys -
+temic variable. See Sean M. Lynn-Jones, “Offense-Defense Theory and Its Critics,” Security
+Studies, V ol. 4, No. 4 (Summer 1995), pp. 660–691, in particular pp. 666–667, doi.org/10.1080/
+09636419509347600.
+25. John A. Alic, “Managing U.S. Defense Acquisition,” Enterprise & Society , V ol. 14, No. 2 (March
+2013), p. 4, doi.org/10.1093/es/khs051; and Peter Dombrowski and Eugene Gholz, Buying Military
+T ransformation: T echnological Innovation and the Defense Industry (New York: Columbia University
+Press, 2006), pp. 12–14.
+26. See Daniel H. Nexon, “The Balance of Power in the Balance,” World Politics , V ol. 61, No. 2
+(April 2009), pp. 330–359, in particular p. 351, doi.org/10.1017/S0043887109000124.
+27. For an exception, see Alexander H. Montgomery , “Ringing in Proliferation: How to Dismantle
+an Atomic Bomb Network,” International Security, V ol. 30, No. 2 (Fall 2005), pp. 153–187, doi.org/
+10.1162/016228805775124543.
+28. Waltz, Theory of International Politics , pp. 74, 127.
+29. Gilpin, War and Change in World Politics , pp. 176–177; see also pp. 1–3, 175–185, 227.
+30. P .W. Singer, Wired for War: The Robotics Revolution and Conºict in the 21st Century (New York:
+Penguin, 2009), p. 239.
+Downloaded from direct.​mit.​edu/​isec/​article-pdf/​43/​3/​141/​1844201/​isec_a_00337.​pdf by guest on 22 October 2026
+
+
+=== PDF PAGE 8 ===
+ature’s conventional wisdom agree with the proposition that the imitation of
+military hardware is relatively easy . In the words of Emily Goldman, “Hard -
+ware is often easy to acquire.” 31 Similarly , Michael Horowitz writes that “it is
+[not] difªcult to cop y... speciªc technologies.” 32
+Many scholars further argue that globalization and information technologies
+have facilitated and accelerated the diffusion of technology in the military
+realm.
+33 Joseph Nye observes that, in the age of globalization, “technolog y...
+eventually spreads and becomes available to adversaries.” 34 Some scholars
+claim that countries with advanced commercial industrial and technological
+capabilities can exploit their industrial and scientiªc base to develop state-of-
+the-art military technology .
+35 Other scholars have stressed that, since the early
+1990s, commercial research and development (R&D) has supplanted military
+R&D as the main driver of innovation.
+36 As a result, many advanced tech-
+nologies are now accessible on the global market at moderate cost, including
+those required for producing ªrst-class military capabilities.
+37 For instance,
+Goldman and Richard Andres maintain that, in comparison to the industrial
+era, “revolutionary dual-use technologies, like computer and software capabil-
+ities,” can be imitated more quickly and more easily , because they “are not
+capital intensive and do not require a huge industrial capacity to exploit.”
+38
+Horowitz warns that because of increasing synergies with the commercial sec-
+tor, “military technolog y... could become increasingly ‘lootable,’” allowing
+“militaries [to] quickly reverse engineer systems built by other countries.”
+39
+International Security 43:3 148
+31. Emily O. Goldman, “Introduction,” in Goldman and Thomas G. Mahnken, eds., The Informa -
+tion Revolution in Military Affairs in Asia (New York: Palgrave Macmillan, 2004), p. 7.
+32. Horowitz, The Diffusion of Military Power , pp. 27–28; see also p. 34.
+33. Bitzinger, “The Globalization of the Arms Industry”; Dennis M. Gormley , “Dealing with the
+Threat of Cruise Missiles,” Adelphi Paper, No. 339 (London: International Institute for Strategic
+Studies, 2001); and Christopher Layne, “This Time It’s Real: The End of Unipolarity and the Pax
+Americana,” International Studies Quarterly , V ol. 56, No. 1 (March 2012), pp. 203–213, doi.org/
+10.1111/j.1468-2478.2011.00704.x.
+34. Joseph S. Nye Jr., The Future of Power (New York: PublicAffairs, 2011), p. 36.
+35. Sandholtz et al., The Highest Stakes .
+36. See John A. Alic et al., Beyond Spinoff: Military and Commercial T echnologies in a Changing World
+(Boston: Harvard Business School Press, 1992).
+37. Aaron L. Friedberg, “The United States and the Cold War Arms Race,” in Odd Arne Westad,
+ed., Reviewing the Cold War: Approaches, Interpretations, Theory (Portland, Ore.: Frank Cass, 2000),
+p. 215.
+38. Goldman and Andres, “Systemic Effects of Military Innovation and Diffusion,” p. 123;
+Bitzinger, “The Globalization of the Arms Industry”; and Robert O. Work and Shawn Brimley ,
+20YY: Preparing for War in the Robotic Age (Washington, D.C.: Center for a New American Security ,
+2014).
+39. Michael C. Horowitz, “Information-Age Economics and the Future of the East Asian Security
+Environment,” in Avery Goldstein and Edward D. Mansªeld, eds., The Nexus of Economics, Secu -
+rity, and International Relations in East Asia (Stanford, Calif.: Stanford University Press, 2012), p. 223.
+Downloaded from direct.​mit.​edu/​isec/​article-pdf/​43/​3/​141/​1844201/​isec_a_00337.​pdf by guest on 22 October 2026
+
+
+=== PDF PAGE 9 ===
+problems with international relations theory
+There are three problems with the conventional wisdom in international rela -
+tions theory regarding the ability of states to copy foreign military technology .
+First, if imitation is easy , why do states invest in military innovation at all?
+Why not simply wait for others to develop innovations and then copy them?
+40
+Second, the assumption that imitation is easy is at odds with the literatures in
+economic history , economics, history of technology , management, science and
+technology studies, and sociology , which have sought to explain why some in -
+novators retain a ªrst-mover advantage, what the sources of industrial leader -
+ship are, and why very advanced companies sometimes fail to replicate an
+innovation, even with full access to original blueprints and designs.
+41 Third,
+imitating foreign technology also seems to be difªcult in the commercial
+realm, where, according to international relations theory , it should be particu-
+larly easy . For instance, Google and Microsoft, two of the most advanced com-
+panies in the world, have struggled to cope with Apple’s smartphone and
+tablet technology .
+42 In the following section, we explain why these trends are
+even more pronounced in weapons production. 43
+Complexity and Military-T echnological Superiority
+Since the second industrial revolution, the complexity of military technol-
+ogy has increased exponentially . This dramatic increase has changed the na-
+ture of innovation and of imitation, making the latter much more difªcult
+to implement.
+complexity and the integration challenge
+Complexity generates incompatibilities and vulnerabilities.
+44 As complexity
+increases, the number and signiªcance of incompatibilities and vulnerabili -
+Why China Has Not Caught Up Y et 149
+40. The same problem exists in economics. See Jess Benhabib and Mark M. Spiegel, “Human Capi -
+tal and Technology Diffusion,” in Philippe Anghion and Stephen N. Durlauf, eds., Handbook of Eco-
+nomic Growth, V ol. 1A (Amsterdam: Elsevier, 2005), p. 937, doi.org/10.1016/S1574-0684(05)01013-0.
+41. Lieberman and Montgomery , “First-Mover Advantages”; Lieberman and Montgomery , “First-
+Mover (Dis)Advantages”; Alfred. D. Chandler Jr., Inventing the Electronic Century: The Epic Story of
+Consumer Electronics and Computer Industries (New York: Free Press, 2001); David C. Mowery and
+Richard R. Nelson, eds., Sources of Industrial Leadership: Studies of Seven Industries (New York: Cam-
+bridge University Press, 1999); and Harry M. Collins, “The TEA Set: Tacit Knowledge and
+Scientiªc Networks,” Science Studies , V ol. 4, No. 2 (April 1974), pp. 165–185, doi.org/10.1177/
+030631277400400203.
+42. Andrew McAfee and Erik Brynjolfsson, Machine, Platform, Crowd: Harnessing Our Digital Future
+(New York: W.W. Norton, 2017), p. 204.
+43. Gilli and Gilli, “The Diffusion of Drone Warfare?” pp. 67–80.
+44. Alic, “Managing U.S. Defense Acquisition”; Rebecca M. Henderson and Kim B. Clark, “Archi -
+Downloaded from direct.​mit.​edu/​isec/​article-pdf/​43/​3/​141/​1844201/​isec_a_00337.​pdf by guest on 22 October 2026
+
+
+=== PDF PAGE 10 ===
+ties also increase—exponentially . 45 Anticipating, detecting, identifying, under -
+standing, and addressing all possible technical problems when designing,
+developing, and manufacturing an advanced weapon system pose major chal -
+lenges.46 Addressing them without creating new problems is an even greater
+challenge.47 More challenging still is the need for weapons producers to design
+platforms that can incorporate cutting-edge and yet-to-be-developed technolo -
+gies, and to limit their vulnerability to subtle and effective enemy counter -
+measures and counter-systems. 48
+Three developments help account for the increase in the complexity of
+military technology since the second industrial revolution. First, the number
+of components in military platforms has risen dramatically: in the 1930s, a
+combat aircraft consisted of hundreds of components, a ªgure that surged into
+the tens of thousands in the 1950s and to 300,000 in the 2010s.
+49 As the number
+of components expands, the number of potential incompatibilities and vulner-
+abilities increases geometrically . Ensuring the proper functioning and mutual
+compatibility of all the components and of the whole system thus becomes in-
+creasingly difªcult.
+50
+Second, advancements in electronics, engineering, and material sciences
+International Security 43:3 150
+tectural Innovation: The Reconªguration of Existing Product Technologies and the Failure of Es-
+tablished Firms,” Administrative Science Quarterly , V ol. 35, No. 1 (March 1990), pp. 9–30, doi.org/
+10.2307/2393549; Eugene Gholz, “Systems Integration in the U.S. Defense Industry ,” in Andrea
+Prencipe, Andrew Davies, and Michael Hobday , eds., The Business of Systems Integration (New
+York: Oxford University Press, 2003), pp. 279–306; Eugene Gholz, “Systems Integration for Com -
+plex Defense Projects,” in Guy Ben-Ari and Pierre A. Chao, eds., Organizing a Complex World: De -
+veloping T omorrow’s Defense and Net-Centric Systems (Washington, D.C.: Center for Security and
+International Studies, 2009), pp. 50–65; and Mike Hobday , “Product Complexity , Innovation, and
+Industrial Organization,” Research Policy , V ol. 26, No. 6 (February 1998), pp. 689–710, doi.org/
+10.1016/S0048-7333(97)00044-9.
+45. The curse of dimensionality in statistics provides a useful analogy of the exponential increase
+resulting from the arithmetic growth of the number of parameters and constraints.
+46. Harvey M. Sapolsky , “Inventing Systems Integration,” in Prencipe, Davies, and Hobday , The
+Business of Systems Integration, pp. 15–34; and Stephen B. Johnson, “Systems Integration and the So -
+cial Solutions of Technical Problems in Complex Systems,” in Prencipe, Davies, and Hobday , The
+Business of Systems Integration , pp. 35–55.
+47. See Marco Iansiti, T echnology Integration: Making Critical Choices in a Dynamic World (Boston:
+Harvard Business Review Press, 1997), pp. 104–106, 133.
+48. Alic, “Managing U.S. Defense Acquisition,” pp. 16–19; and David J. Berteau, “Foreword,” in
+Ben-Ari and Chao, Organizing a Complex World , pp. vii–viii.
+49. Alan S. Milward, War, Economy, and Society, 1939–1945 (Berkeley: University of California
+Press, 1977), p. 185; Johnson, “Systems Integration and the Social Solutions of Technical Problems
+in Complex Systems,” p. 40; and Jeremiah Gertler, “F-35 Joint Strike Fighter (JSF) Program” (Wash -
+ington, D.C.: Congressional Research Service, April 29 2014).
+50. Qing Wang and Nick von Tunzelmann, “Complexity and the Functions of the Firm: Breadth
+and Depth,” Policy Research, V ol. 29, Nos. 7–8 (August 2000), pp. 805–818, doi.org/10.1016/S0048-
+7333(00)00106-2; and Carliss Y . Baldwin and Kim B. Clark, Design Rules: The Power of Modularity ,
+V ol. 1 (Cambridge, Mass.: MIT Press, 2000), pp. 63–70.
+Downloaded from direct.​mit.​edu/​isec/​article-pdf/​43/​3/​141/​1844201/​isec_a_00337.​pdf by guest on 22 October 2026
+
+
+=== PDF PAGE 11 ===
+have resulted in the components of major weapon systems becoming dramati -
+cally more sophisticated, leading military platforms to become “systems of
+systems.” 51 Integrating large numbers of extremely advanced components,
+subsystems, and systems poses a daunting challenge. More sophisticated com -
+ponents have extremely low tolerances, which in turn require a degree of accu -
+racy and precision in design, development, and manufacturing that was
+unthinkable a century ago. 52 For instance, aircraft engines in the 1900s and
+1910s were “crude” mechanical devices that self-taught individuals could de -
+sign, assemble, and install in their own repair shops. 53 In contrast, the pro -
+duction of today’s aircraft engines is so technologically demanding that only
+a handful of producers around the world possess the necessary technical
+expertise.
+54 Consider that in turbofan engines, a “close clearance between
+[a rotary] part and its surroundings can be critical. One-tenth of 1 millimeter
+[i.e., 0.00393 inch] variation in dimension can have a signiªcant impact on sys-
+tem compatibility .”
+55 The same is true of materials, electronics, and software,
+where minor imprecisions can have dramatic consequences. 56 For example, in
+modern jet ªghters, software controls everything, from the operation of radars
+to the supply of oxygen. The expansion of onboard software functions is
+reºected in the increase in the number of software code lines from 1,000 in the
+F-4 Phantom II (1958), to 1.7 million in the F-22 (2006), and to 5.6 million in
+the F-35 Joint Strike Fighter/Lightning II (2015).
+57 Even a minor problem
+in those millions of lines of code could ground the aircraft or prove fatal. 58 This
+level of sophistication explains why software engineering is responsible for
+most of the delays and of the problems seen in advanced weapon systems.
+59
+Third, modern weapon systems can now perform in extraordinarily de -
+Why China Has Not Caught Up Y et 151
+51. Eugene Gholz, “Systems Integration in the U.S. Defense Industry ,” p. 281.
+52. Guy Ben-Ari and Matthew Zlatnik, “Introduction: Framing the Complexity Challenge,” in
+Ben-Ari and Chao, Organizing a Complex World ,p .2 .
+53. Bill Gunston, The Development of Piston Aero Engines: From the Wrights to Microlights: A Century
+of Evolution and Still a Power T o Be Reckoned With (Somerset, U.K.: Haynes, 1993), p. 105.
+54. Vaclav Smil, Prime Movers of Globalization: The History and Impact of Diesel Engines and Gas T ur -
+bines (Cambridge, Mass: MIT Press, 2013), pp. 79–108.
+55. Wedo Wang, Reverse Engineering: T echnology of Reinvention(Boca Raton, Fla.: CRC, 2010), p. 266.
+56. See Gholz, “Systems Integration for Complex Defense Projects,” p. 50. See also Clarence L.
+“Kelly” Johnson with Maggie Smith, Kelly: More than My Share of It All (Washington, D.C.: Smith -
+sonian Institute, 1985), p. 142.
+57. Between the F-4 and the F-22, software has moved from controlling 8 percent to 80 percent of
+operations. Ali Mili and Fairouz T chier, Software T esting: Concepts and Operations (Hoboken, N.J.:
+John Wiley and Sons, 2015), p. 6.
+58. See Jeffrey J. Harris and G. Thomas Black, “F-22 Control Law Development and Flying Qual -
+ities,” Conference Paper 96-3379 (Reston, Va.: American Institute of Aeronautics and Astronautics,
+July 1996), pp. 155–158.
+59. Joe W. Heil, “Addressing the Challenges of Software Growth and Rapidly Evolving Software
+Downloaded from direct.​mit.​edu/​isec/​article-pdf/​43/​3/​141/​1844201/​isec_a_00337.​pdf by guest on 22 October 2026
+
+
+=== PDF PAGE 12 ===
+manding environmental and operational conditions, thanks to improvements
+in all metrics (e.g., speed, altitude ceiling for aircraft, and collapse depth for
+submarines).
+60 These improvements, however, have increased the likelihood of
+technical problems. 61 The more sophisticated a component is, the more likely
+minor environmental changes will affect its performance. 62 In addition, as
+technological advances permit weapon systems to operate in once unfamiliar
+environmental conditions, designers and engineers are forced to deal with pre -
+viously unknown physical phenomena.
+63
+change in the nature of innovation and imitation
+The increase in complexity and the resulting integration challenges have
+brought about a change in the very nature of innovation. In the late nineteenth
+and early twentieth centuries, innovation was primarily the product of conjec-
+ture, creativity , ingenuity , and intuition, as was the case with two of the
+most revolutionary military technologies of the twentieth century: submarines
+(1900) and aircraft (1903).
+64 To move from intuition to military platforms, coun-
+tries needed industrial facilities and managerial capabilities to supervise large
+production runs—what Alfred Chandler called “the Visible Hand” of indus-
+trial capitalism.
+65 Because of the increase in complexity , however, innovation
+has progressively been the result of scientiªc and engineering research, as well
+as of accumulated experience in design, development, and manufacturing.
+66
+Consequently , arms producers working on the technological frontier have had
+to develop in-house technological knowledge bases, or systems integration ca -
+pabilities—“the Visible Brain” as Keith Pavitt called it.
+67 Consider the evolu -
+International Security 43:3 152
+Technologies,” Naval Engineers Journal , V ol. 122, No. 4 (December 2010), pp. 45–58, doi.org/
+10.1111/j.1559-3584.2010.00279.x.
+60. Johnson, “Systems Integration and the Social Solutions of Technical Problems in Complex
+Systems.”
+61. Iansiti, T echnology Integration, pp. 10–12, 110–116.
+62. W. Brian Arthur, The Nature of T echnology: What It Is and How It Evolves (New York: Free Press,
+2009), pp. 45–67. See also Ben R. Rich and Leo Janos, Skunk Works: A Personal Memoir of My Y ears at
+Lockheed (New York: Little, Brown and Company , 1994), p. 82.
+63. See David Miller and John Jordan, Modern Submarine Warfare (London: Salamander, 1987),
+pp. 44–45.
+64. Alic, “Managing U.S. Defense Acquisition,” pp. 1–36; and Barton C. Hacker, “The Machines of
+War: Western Military Technology , 1850–2000,” History and T echnology, V ol. 21, No. 3 (September
+2005), pp. 255–300.
+65. See Alfred D. Chandler Jr., The Visible Hand: The Managerial Revolution in American Business
+(Cambridge, Mass.: Belknap, 1977).
+66. David C. Mowery and Nathan Rosenberg, T echnology and the Pursuit of Economic Growth (New
+York: Cambridge University Press, 1989), p. 172.
+67. Keith Pavitt, “Specialization and Systems Integration: Where Manufacture and Services Still
+Meet,” in Prencipe, Davies, and Hobday , The Business of Systems Integration ,p .8 8 .
+Downloaded from direct.​mit.​edu/​isec/​article-pdf/​43/​3/​141/​1844201/​isec_a_00337.​pdf by guest on 22 October 2026
+
+
+=== PDF PAGE 13 ===
+tion of submarines: from “crude, slow and probably as dangerous to their
+crews as they were to any potential enemy” in the early twentieth century ,
+they are now so complex that “the only comparison you could draw would be
+a space shuttle.”
+68
+The increase in complexity has also made imitation more challenging. For
+imitators to have an advantage vis-à-vis innovators, two conditions are neces -
+sary . First, the capabilities required to exploit foreign know-how and experi -
+ence in the production of weapon systems must be relatively easy to develop
+or to acquire, so that the imitator can swiftly translate foreign designs and
+blueprints into a working military platform; that is, there must be relatively
+low entry barriers. Second, the know-how and experience of the innovating
+country must diffuse with relative ease and with relative rapidity to would-be
+imitators. The growth in complexity observed over the past century has made
+these two conditions increasingly difªcult to meet.
+During the second industrial revolution, imitating countries could exploit
+the know-how and experience of their most advanced peers to develop state-
+of-the-art military technology .
+69 In fact, intuition and conjecture could be trans-
+ferred from country to country with relative ease. 70 The main challenge these
+countries faced was to mobilize the necessary capital to launch production and
+to achieve the necessary economies of scale.
+71 For industrialized countries, this
+challenge was not insurmountable. 72 Consider the naval rise of Imperial Japan.
+Because of its qualitatively modest domestic shipbuilding industry , in 1905 the
+Japanese navy mostly deployed British-made warships.
+73 Yet, through a policy
+based on “copy , improve and innovate,” 74 involving the “purchase of speciªc
+foreign examples, the exhaustive analysis and testing of those models [and]
+Why China Has Not Caught Up Y et 153
+68. See, respectively , W.J.R. Gardner, Anti-Submarine Warfare (London: Brassey’s, 1996), p. 4; and
+Hamish McDonald and Deborah Snow, “Submarines No Longer All At Sea,” Sydney Morning Her -
+ald, July 9, 2012.
+69. Holger H. Herwig, “The Battleºeet Revolution, 1885–1914,” in MacGregor Knox and William -
+son Murray , eds.,The Dynamics of Military Revolution, 1300–2050 (New York: Cambridge University
+Press, 2001), p. 126.
+70. Paul Kennedy , The Rise and Fall of the Great Powers: Economic Change and Military Conºict from
+1500 to 2000 (New York: Random House, 1987), p. 198.
+71. William H. McNeill, The Pursuit of Power: T echnology, Armed Force, and Society since A.D. 1000
+(Chicago, Ill.: University of Chicago Press, 1982), pp. 262–264.
+72. Gerschenkron, Economic Backwardness in Historical Perspective , pp. 31–51.
+73. See, respectively , John Roberts, “The Pre-Dreadnought Age, 1890–1905,” in Robert Gardiner,
+ed., Steam, Steel, and Shellªre: The Steam Warship, 1805–1905 (London: Conway Maritime, 1992),
+p. 123; and Mark R. Peattie, “Japanese Naval Construction, 1919–41,” in Phillips Payson O’Brien,
+ed., T echnology and Naval Combat in the Twentieth Century and Beyond (London: Frank Cass, 2001),
+p. 97.
+74. Peattie, “Japanese Naval Construction, 1919–41,” p. 97.
+Downloaded from direct.​mit.​edu/​isec/​article-pdf/​43/​3/​141/​1844201/​isec_a_00337.​pdf by guest on 22 October 2026
+
+
+=== PDF PAGE 14 ===
+their subsequent improvement,” 75 by 1912–13, Japan was able to commission
+two super Dreadnoughts that surpassed their British counterparts in both
+speed and tonnage.
+76 And by the 1920s, “the skills available at both naval and
+commercial dockyards made Japan capable of turning out a range of warships
+that in design and construction were equal or superior to those of any navy
+in the world.”
+77
+Over time, however, the increase in complexity of military technology has
+made the process of imitation much more difªcult. Economies of scale and ex -
+orbitant capital investments still represent major barriers for most countries
+seeking to enter the defense sector. Yet, simply extracting and investing re -
+sources is no longer sufªcient to close the technological gap with the most ad -
+vanced countries. Lacking the necessary know-how for weapon systems
+production has, in fact, become a major obstacle for actors trying to imitate
+foreign technology—wealthy countries included.
+78 Japan’s experience in the
+1980s and 1990s offers a useful comparison to the Imperial era discussed
+above. As Stephen Brooks notes, despite Japan’s then primacy in high-
+technology and despite several decades of collaboration on weapons produc-
+tion with the United States, its F-2 ªghter proved to be “a white elephant:
+no better than the F-16C [Japan built upon and] at least twice as expensive
+to produce.”
+79
+In the next two sections, we explain why the increase in complexity has
+steadily eroded the advantages of imitation that some countries once enjoyed.
+Absorptive Capacity
+The increase in technological complexity over the past 150 years has exponen -
+tially raised the requirements to assimilate and imitate foreign military tech -
+nology , thus canceling the ªrst necessary condition for states to enjoy the
+advantage of imitation—relatively low entry barriers for the imitation of state-
+of-the-art weapon systems.
+International Security 43:3 154
+75. Ibid., p. 94.
+76. Spencer C. Tucker, Handbook of 19th Century Naval Warfare (Phoenix Mill, U.K.: Sutton, 2000),
+p. 225.
+77. Peattie, “Japanese Naval Construction, 1919–41,” p. 95.
+78. Michael H. Best, “The Geography of Systems Integration,” in Prencipe, Davies, and Hobday ,
+The Business of Systems Integration , pp. 201–228.
+79. Brooks, Producing Security, pp. 235–236. F-16s produced in Europe by license were consistently
+about 20 percent more expensive than those assembled in the United States. See Michael Rich et
+al., Multinational Coproduction of Military Aerospace Systems (Santa Monica, Calif.: RAND Corpora -
+tion, 1981), pp. 79–120.
+Downloaded from direct.​mit.​edu/​isec/​article-pdf/​43/​3/​141/​1844201/​isec_a_00337.​pdf by guest on 22 October 2026
+
+
+=== PDF PAGE 15 ===
+To free ride on the R&D of a foreign country , a country must be able “to
+identify , assimilate, and exploit knowledge from the environment.” 80 But as
+scholarship from other disciplines shows, knowledge and experience are not
+public goods that can be easily and cheaply appropriated.
+81 An imitator must
+possess an adequate absorptive capacity: material and nonmaterial capabilities
+such as laboratories, research centers, testing and production facilities, a
+skilled workforce, and a cumulative technological knowledge base (the stock
+of knowledge acquired through previous projects).
+82 Without such absorptive
+capacity , the imitator will have to develop an advanced industrial, technologi -
+cal, and scientiªc base before it can copy foreign technologies. In the next
+two sections, we explain how the increase in complexity has created massive
+and highly speciªc requirements for those seeking to imitate advanced
+weapon systems.
+from limited to massive absorptive capacity requirements
+Whereas in the past, the requirements to imitate foreign military technology
+were limited, today , states need to master, to an unprecedented level, a much
+broader range of disciplines and activities.
+limited capacity . In the aftermath of the second industrial revolution, the
+absorptive capacity required to imitate cutting-edge technologies was com-
+paratively low for great powers. For industrialized countries, capital invest-
+ments and sufªcient economies of scale were essentially the only constraints,
+as entering weapons production required relatively little accumulated knowl -
+edge or experience.
+83 During this period, “within many economic sectors, the
+knowledge required for moving out of the technological frontier was rather el -
+ementary scientiªc knowledge of a kind that had been available for a long
+time.” 84 Even sectors such as metallurgy , which “placed a premium on basic
+chemical knowledg e...d r e w primarily on elementary science when they
+drew on science at all.” 85 This was also true for emerging ªelds such as avia -
+Why China Has Not Caught Up Y et 155
+80. Wesley M. Cohen and Daniel A. Levinthal, “Innovation and Learning: The Two Faces of
+R&D,” Economic Journal , September 1989, pp. 569–570, doi.org/10.2307/2233763.
+81. That knowledge is a public good was a popular conception among economists, stemming
+from Kenneth J. Arrow, “Economic Welfare and the Allocation of Resources for Invention,” in The
+Rate and Direction of Inventive Activity: Economic and Social Factors (Princeton, N.J.: Princeton Uni -
+versity Press, 1962).
+82. Wesley M. Cohen and Daniel A. Levinthal, “Absorptive Capacity: A New Perspective on
+Learning and Innovation,” Administrative Science Quarterly , V ol. 35, No. 1 (March 1990), pp. 128–
+152, doi.org/10.2307/2393553.
+83. Gerschenkron, Economic Backwardness in Historical Perspective , pp. 31–51.
+84. See Mowery and Rosenberg, T echnology and the Pursuit of Economic Growth ,p .2 8
+85. See ibid., p. 31.
+Downloaded from direct.​mit.​edu/​isec/​article-pdf/​43/​3/​141/​1844201/​isec_a_00337.​pdf by guest on 22 October 2026
+
+
+=== PDF PAGE 16 ===
+tion, which owed “practically nothing to the relatively mature state of the sci -
+ence of ºuid dynamics.” 86 In addition, the number of disciplines required in a
+given ªeld was limited. For example, aviation design well into the late 1930s
+essentially required knowledge about “efªcient aerodynamic structure and hy -
+draulic controls.”
+87 Similarly , until World War II, submarine development re -
+quired only reliable and powerful diesel engines, welding of metals, and
+efªcient designs. 88
+In these circumstances, it is clear why “the period before 191 4...w a su n -
+likely to produce asymmetrical [revolutions in military affairs] that conferred
+enduring advantages.” Technology moved swiftly across borders, and great
+powers were able to exploit it with relative ease—to the point that it “was in -
+deed often most convenient and cheapest to make use of another country’s re -
+search and development.”
+89 For this reason, Germany in the 1930s could move
+from “possess[ing] no signiªcant aircraft industry” to being “in the forefront of
+aviation technology” in just three years.
+90
+massive capacity . The increase in the complexity of weapon systems has
+exponentially raised the absorptive capacity requirements to assimilate foreign
+know-how and experience and to imitate foreign military platforms.
+91 The
+stock of accumulated knowledge has, in fact, expanded to the point of becom-
+ing a “burden” for those seeking to assimilate it.
+92 The number of disciplines
+involved has increased dramatically , going well beyond those necessary for
+weapon systems development, and reaching into new, unexplored ªelds re-
+lated both to the environmental conditions where the platform is expected to
+operate and to interactions between human beings and technology (e.g., ergo -
+nomics, human physiology , and cognitive sciences).
+93 Moreover, imitators
+International Security 43:3 156
+86. See John D. Anderson Jr., The Airplane: A History of Its T echnology (Reston, Va.: American Insti -
+tute of Aeronautics and Astronautics, 2002), p. 45.
+87. Johnson, “Systems Integration and the Social Solutions of Technical Problems in Complex Sys -
+tems,” p. 40.
+88. See Eberhard Rössler, The U-Boat: The Evolution and T echnical History of German Submarines ,
+trans. Harold Erenberg (Annapolis: Naval Institute Press, 1981), p. 50.
+89. Herwig, “The Battleºeet Revolution, 1885–1914,” p. 126.
+90. Richard J. Overy , War and Economy in the Third Reich (Oxford: Clarendon, 1994), p. 181.
+91. Richard C. Levin et al., “Appropriating the Returns from Industrial Research and Develop -
+ment,” Brookings Papers on Economic Activity , V ol. 1987, No. 3 (1987), pp. 783–831, doi.org/
+10.2307/2534454.
+92. Benjamin F. Jones, “The Burden of Knowledge and the ‘Death of the Renaissance Man’: Is In -
+novation Getting Harder?” Review of Economic Studies , V ol. 76, No. 1 (January 2009), pp. 283–317,
+doi.org/10.1111/j.1467-937X.2008.00531.x.
+93. See Patricia Hamburger, David Miskimens, and Scott Truver, “It Is Not Just Hardware and
+Software, Anymore! Human Systems Integration in U.S. Submarines,” Naval Engineers Journal ,
+V ol. 123, No. 4 (December 2011), pp. 41–50, doi.org/10. 1111/j.1559-3584.2009.00198.x.
+Downloaded from direct.​mit.​edu/​isec/​article-pdf/​43/​3/​141/​1844201/​isec_a_00337.​pdf by guest on 22 October 2026
+
+
+=== PDF PAGE 17 ===
+must master all of these disciplines, because the margins for error and impreci -
+sion have shrunk enormously . Inªnitesimally small mistakes can have poten -
+tially catastrophic effects, given the low tolerances and vulnerability of many
+key components, as well as the demanding environmental and operational
+conditions in which military platforms are employed.
+94
+The evolution of aircraft production illustrates this trend. Originally an em -
+pirical ªeld, aircraft design in the 1920s and 1930s started to incorporate
+scientiªc discoveries from aerodynamics theory and engineering science as
+wooden strut-and-wire biplanes began giving way to streamlined all-metal
+monoplanes.
+95 After World War II, the advent of rocket engines, radio commu -
+nications, automatic guidance and control, and high-speed aerodynamics cre -
+ated new challenges. In response, aircraft manufacturers had to broaden and
+deepen their knowledge base to include ªelds such as weapons design, avion-
+ics, and material structures, as well as the training of aircrews, combat tactics,
+and, most importantly , human physiology and atmospheric sciences.
+96 With
+supersonic speed and subsequent advances, the number and sophistication of
+disciplines required for aircraft development expanded to the point of being
+well ahead of scientiªc knowledge and understanding.
+97 Work on the SR-71
+Blackbird exempliªes these trends. Because of the friction resulting from ºying
+at three times the speed of sound, the body of the Blackbird was exposed to
+temperatures above 600°F. To address the resulting problems, Lockheed had
+to develop “special fuels, structural materials, manufacturing tools and tech-
+niques, hydraulic ºuid, fuel-tank sealants, paints, plastic, wiring and connect -
+ing plugs, as well as basic aircraft and engine design.”
+98 With the transition to
+ºy-by-wire, the absorptive capacity requirements grew by an order of magni -
+tude, as aircraft production expanded to a broad set of highly demanding
+ªelds such as electronics, computer science, and communications, with “soft -
+ware construction [being] the most difªcult problem in engineering.” 99 More-
+over, given the nature of these disciplines, the margin for error has continued
+Why China Has Not Caught Up Y et 157
+94. Even minor problems can pose serious threats to military platforms given the presence of
+onboard ordnance and explosives, as well as the need to hide from enemy sensors. See, for exam -
+ple, Sherry Sontag and Christopher Drew with Annette Lawrence Drew, Blind Man’s Bluff: The Un -
+told Story of American Submarine Espionage (New York: PublicAffairs, 1998), pp. 109–120, 133–134.
+95. V ernon Ruttan, Is War Necessary for Economic Growth? Military Procurement and T echnology De -
+velopment (Oxford: Oxford University Press, 2006), p. 44.
+96. See Stephen B. Johnson, The Secret of Apollo: Systems Management in American and European
+Space Programs (Baltimore, Md.: Johns Hopkins University Press, 2006), pp. 1–80.
+97. Mowery and Rosenberg, T echnology and the Pursuit of Economic Growth , pp. 81–82; Alic et al.,
+Beyond Spinoff , pp. 20–22; and Alic, “Managing U.S. Defense Acquisition,” p. 17.
+98. Johnson and Smith, Kelly, p. 137.
+99. Winston Royce, “Current Problems,” in Christine Anderson and Merlin Dorfman, eds., Aero-
+Downloaded from direct.​mit.​edu/​isec/​article-pdf/​43/​3/​141/​1844201/​isec_a_00337.​pdf by guest on 22 October 2026
+
+
+=== PDF PAGE 18 ===
+to shrink: a minor glitch in the software or the exposure of the hardware to un -
+forgiving conditions (e.g., extreme heat, cold, or humidity) can be fatal. 100 With
+the increase in autonomy in military aviation, the number of disciplines re -
+quired for weapons production has expanded to “unmanned systems, human
+factors, psychology , cognitive science, communication, human-computer inter-
+action, computer-supporter work groups and sociology .” 101
+from generic to speciªc requirements
+Since the second industrial revolution, the absorptive capacity required to imi -
+tate foreign technology has become so speciªc that countries can no longer ex -
+ploit their civilian industries to catch up technologically in the military realm.
+This change has further raised the entry barriers for imitating advanced
+weapon systems.
+generic requirements. In the second half of the nineteenth and early
+twentieth centuries, manufacturing beneªted from unprecedented and possi-
+bly unique synergies and economies of scope.
+102 The relatively low level of
+technological complexity imposed fairly loose requirements, permitting the
+adoption across different industries of the same machine tools, the same in-
+dustrial processes, and the same know-how.
+103 For instance, problems related
+to automobile production were “not fundamentally different from those which
+had already been developed for products such as bicycles and sewing ma-
+chines.”
+104 As a result, “the skills acquired in producing sewing machines and
+bicycles greatly facilitated the production of the automobile.” 105 With mass
+production, the opportunities for synergies and economies of scope among dif -
+ferent industries expanded even further. 106 Automobile manufacturers during
+International Security 43:3 158
+space Software Engineering: A Collection of Concepts (Washington, D.C.: American Institute of
+Aeronautics and Astronautics, 1991), p. 6.
+100. Johnson and Smith, Kelly, p. 143.
+101. U.S. Department of Defense, “Task Force Report: The Role of Autonomy in DoD Systems”
+(Washington, D.C.: U.S. Department of Defense, July 2012), pp. 46–49.
+102. Will Mitchell, “Whether and When? Probability and Timing of Incumbents’ Entry into
+Emerging Industrial Subªelds,” Administrative Science Quarterly , V ol. 34, No. 2 (June 1989),
+pp. 208–230, doi.org/10.2307/2989896.
+103. David A. Hounshell, From the American System to Mass Production, 1800–1932: The Development
+of Manufacturing T echnology in the United States (Baltimore, Md.: Johns Hopkins University Press,
+1985).
+104. Nathan Rosenberg, Perspectives on T echnology (New York: Cambridge University Press, 1976),
+pp. 18–19, 26; and Hounshell, From the American System to Mass Production, 1800–1932 , pp. 218–223,
+227.
+105. Rosenberg, Perspectives on T echnology, p. 30. See also Glenn R. Carroll et al., “The Fates of
+De Novo and De Alio Producers in the American Automobile Industry , 1885–1981,” Strategic Man -
+agement Journal , V ol. 17, No. S1 (Summer 1996), pp. 117–137, doi.org/10.1002/smj.4250171009.
+106. Rosenberg, Perspective on T echnology, pp. 9–31.
+Downloaded from direct.​mit.​edu/​isec/​article-pdf/​43/​3/​141/​1844201/​isec_a_00337.​pdf by guest on 22 October 2026
+
+
+=== PDF PAGE 19 ===
+World War I could easily enter the business of aircraft and tank production by
+exploiting their existing industrial facilities and know-how. 107 Within a year of
+starting to produce aircraft engines, Rolls-Royce was delivering a very reliable
+and high-performing engine (the “Eagle”). Similarly , during the war, the com -
+pany adapted its “Silver Ghost” chassis, the same used by King George, into
+an armored car that proved effective during the British campaign in the
+Middle Eastern desert.
+108 Even during World War II, when the level of com -
+plexity of military technology was substantially higher than during World
+War I, the United States and the Soviet Union were able to convert their civil -
+ian manufacturing activities to military production at a pace and to a degree
+that would be unimaginable today .109 As Richard Overy summarizes, “Manu -
+facturing technically complex weapons . . . [such as] heavy bombers . . . with
+the methods used for Cadillac s... ultimately proved amenable.” 110
+speciªc requirements. Opportunities for synergies and economies of
+scope, however, have diminished dramatically . 111 Weapon systems increas-
+ingly rely on extremely advanced technologies, such as data fusion or stealth,
+that in many cases have no application in the commercial sector. At the same
+time, they operate under uniquely demanding environmental and operational
+conditions (e.g., ºying at Mach 2). The resulting large number of subtle and
+challenging technical problems has led to an exponential increase in the re-
+quired degree of accuracy .
+112 Consequently , imitators can no longer exploit
+their existing technological and industrial capabilities to assimilate foreign
+military technology: the absorptive capacity requirements have become pro -
+gressively more speciªc.
+113 By “speciªc,” we mean that the laboratories, re -
+search centers, testing and production facilities, skilled workforce, and the
+cumulative technological knowledge base developed for a particular type of
+production cannot be easily redeployed for assimilating and exploiting foreign
+know-how and experience in weapon systems.
+114
+Why China Has Not Caught Up Y et 159
+107. Valerio Castronovo, Fiat: una storia del capitalismo Italiano (Fiat: a history of Italian capitalism)
+(Milan, Italy: Rizzoli, 2005), pp. 48–60.
+108. Peter Botticelli, “Rolls-Royce and the Rise of High-Technology Industry ,” in Thomas K.
+McCraw, ed., Creating Modern Capitalism: How Entrepreneurs, Companies, and Countries T riumphed in
+Three Industrial Revolutions (Cambridge, Mass.: Harvard University Press, 1997), pp. 102–105.
+109. Milward, War, Economy, and Society, 1939–1945 , pp. 187–191.
+110. Richard Overy , Why the Allies Won (New York: W.W. Norton, 1996), p. 195.
+111. Ruttan, Is War Necessary for Economic Growth ?p .5 8 .
+112. Eric von Hippel, “Task Partitioning: An Innovation Process Variable,” Research Policy, V ol. 19,
+No. 5 (October 1990), pp. 407–418, doi.org/10.1016/0048-7333(90)90049-C.
+113. Edward W. Steinmueller, “Industry Structure and Government Policies in the U.S. and Japa -
+nese Integrated Circuit Industries,” in John B. Shoven, ed., Government Policies toward Industries in
+the U.S. and Japan (New York: Cambridge University Press, 1988), p. 344.
+114. William Walker, Mac Graham, and Bernard Harbor, “From Components to Integrated Sys -
+Downloaded from direct.​mit.​edu/​isec/​article-pdf/​43/​3/​141/​1844201/​isec_a_00337.​pdf by guest on 22 October 2026
+
+
+=== PDF PAGE 20 ===
+For instance, the design of modern weapon systems requires advanced
+knowledge of enemies’ counter-systems, tactics, and doctrines, as well as of
+the environmental conditions of operations.
+115 When copying foreign technol -
+ogy , countries need this knowledge to translate foreign information into actual
+designs.116 Design capabilities are also extremely important when seeking to
+integrate foreign component technologies into a competitive military platform.
+As John Alic writes, “Early design choices largely determine ultimate perfor -
+mance and costs.” Once a design has been chosen, “no amount of analysis,
+modiªcation, and reªnement can salvage a deªcient concept.”
+117 Understand-
+ably , commercial enterprises do not possess the necessary design capabilities
+for military production and cannot develop them overnight. 118 In submarine
+design, for example, “the most challenging competencie s...r equire at least
+ten years of experience and a Ph.D.” 119 Moreover, bringing a concept from pro-
+totype to ªnished product involves highly speciªc tasks and procedures that
+share little with other realms. For instance, to perform tests, interpret and
+understand the results, and identify and address the problems that will
+inevitably arise when developing new weapons, arms manufacturers need
+equipment, laboratories, test facilities, and specialized personnel with both
+domain-speciªc and product-speciªc expertise. These requirements include ra-
+dars operating at different frequencies, supersonic wind tunnels, know-how in
+stealth coating, and test pilots with combat experience.
+120 Consequently , de-
+fense and civilian industries have come to differ dramatically , to the point that
+even realms such as defense and commercial shipbuilding or aviation have
+limited opportunities for synergy .
+121 Indeed, even military contractors cannot
+move easily from one area of weapons production to another, as “systems inte -
+International Security 43:3 160
+tems: Technological Diversity and Interactions between the Military and Civilian Sectors,” in
+Philip Gummet and Judith Reppy , eds., The Relations between Defense and Civil T echnologies ,N A T O
+ASI Series, V ol. 46 (Dordrecht: Springer Netherlands, 1988), pp. 17–37.
+115. Dombrowski and Gholz, Buying Military T ransformation, pp. 17–18; and Gholz, “Systems Inte -
+gration for Complex Defense Projects,” p. 54.
+116. Shaker A. Zahra and Gerard George, “Absorptive Capacity: A Review, Reconceptualization,
+and Extension,” Academy of Management Review , V ol. 27, No. 2 (April 2002), pp. 185–202, doi.org/
+10.2307/4134351.
+117. Alic, “Managing U.S. Defense Acquisition,” pp. 14–15.
+118. Gholz, “Systems Integration for Complex Defense Projects,” p. 54; and Brooks, Producing Se-
+curity, pp. 235–238.
+119. John F. Schank et al., Sustaining U.S. Nuclear Submarine Design Capabilities (Santa Monica, Ca -
+lif.: RAND Corporation, 2007), pp. 92–94.
+120. Keith Pavitt, “The Objective of Technology Policy ,” Science and Public Policy , V ol. 14, No. 4
+(August 1987), pp. 182–188, doi.org/10.1093/spp/14.4.182.
+121. John Birkler et al., Differences between Military and Commercial Shipbuilding: Implications for the
+United Kingdom’s Ministry of Defence (Santa Monica, Calif.: RAND Corporation, 2005); and Eugene
+Gholz, “Eisenhower versus the Spin-Off Story: Did the Rise of the Military-Industrial Complex
+Downloaded from direct.​mit.​edu/​isec/​article-pdf/​43/​3/​141/​1844201/​isec_a_00337.​pdf by guest on 22 October 2026
+
+
+=== PDF PAGE 21 ===
+gration contractors from the aerospace business may not truly understand the
+complex world of shipbuilding.” 122
+One could argue that through reverse engineering, industrial espionage, or
+cyber espionage, an imitating country could skip the design and development
+stages and manufacture a foreign weapon system using its existing industrial
+base. This argument ignores a key constraint: the increase in complexity has
+also made manufacturing processes more speciªc and possibly unique. Be -
+cause of the requirements that military platforms need to meet, today’s pro -
+duction processes must achieve stringent levels of precision that are alien to
+most industries.
+123 For instance, the low observability to radar of stealth air -
+craft will be compromised if “the heads of [just] three screws [are] not quite
+tight and exten d... above the surface by less than an eighth of an inch.” 124 In
+the words of the F-117 Nighthawk’s program manager, “In building the stealth
+ªghter, we had to tightrope walk between extreme care and Swiss-watch per-
+fection to match the low radar observability of our original computerized
+shape.”
+125 In turn, developing, updating, and preserving this type of manufac-
+turing skill calls for highly speciªc training, practices, and processes. In the
+shipbuilding industry , workers across all technical skills require “6–8 years to
+reach at least 90 percent of optimum productivity .”
+126
+The unique requirements of manufacturing weapon systems go well beyond
+skills and processes. Take, for example, machine tools. In the early twentieth
+century , as discussed earlier, disparate ªelds such as the automobile and sew-
+ing machine industries used the same machine tools. In contrast, since the end
+of World War II, the production of military aircraft engines has relied on ma -
+chine tools with a degree of precision that no commercial company possesses
+or needs.
+127 For its part, the U.S. Navy has developed propellers that dra -
+matically reduce the acoustic signature of its submarines. 128 With help
+Why China Has Not Caught Up Y et 161
+Hurt or Help America’s Commercial Aircraft Industry?” Enterprise & Society, V ol. 12, No. 1 (Spring
+2011), pp. 46–95, doi.org/10.1093/es/khq134.
+122. Dombrowski and Gholz, Buying Military T ransformation,p .5 8 .
+123. Rich and Janos, Skunk Works , pp. 76–78, 89–90. See also Howard Moon, Soviet SST: The
+T echnopolitics of the T upolev-144 (New York: Orion, 1989), pp. 5–6.
+124. Rich and Janos, Skunk Works ,p .6 9 .
+125. Alan Brown, quoted in ibid., p. 81.
+126. See Hans Pung et al., Sustaining Key Skills in the UK Naval Industry (Santa Monica, Calif.:
+RAND Corporation, 2008), p. 35.
+127. Tom Lilley et al., Problems of Accelerating Aircraft Production during World War II: A Report
+(Boston: Division of Research, Graduate School of Business Administration, Harvard University ,
+1947); and Roberto Mazzoleni, “Innovation in the Machine Tool Industry ,” in Mowery and Nelson,
+Sources of Industrial Leadership , p. 189.
+128. Quietness has become the key parameter of competition in submarine warfare since the end
+of World War II. See Coté, The Third Battle , pp. 20–35.
+Downloaded from direct.​mit.​edu/​isec/​article-pdf/​43/​3/​141/​1844201/​isec_a_00337.​pdf by guest on 22 October 2026
+
+
+=== PDF PAGE 22 ===
+from the John Walker spy ring, the Soviet Union obtained information
+about how to manufacture U.S. propellers. 129 Their production, however, re -
+quired computer-controlled milling machines with a degree of accuracy that
+Soviet machines could not achieve. 130 In short, the Soviets could not rely on
+their existing capabilities to exploit the information they had obtained through
+industrial espionage.
+131
+T echnological Knowledge
+The second condition for the advantage of imitation requires that imitating
+countries acquire, relatively easily and quickly , the technological knowledge of
+how to design, develop, and/or manufacture a given military platform, so that
+they can take advantage of the innovator’s advances before the platform be-
+comes obsolete.
+132 The increase in the complexity of military technology , how-
+ever, has made technological knowledge increasingly tacit and organizational
+in nature, which means that it does not diffuse to other countries either easily
+or quickly .
+Regardless of how advanced a country’s industrial, scientiªc, and techno-
+logical base is, the production of new military platforms requires work at the
+design, development, and manufacturing stages aimed at anticipating, ident-
+ifying, and addressing inherent idiosyncrasies. These idiosyncrasies stem
+from the challenges related to the integration of state-of-the-art components,
+subsystems, and systems, as well as from having the platform operate
+under previously unexplored environmental conditions. As the director of
+Lockheed’s Skunk Works division, Chief Engineer Clarence “Kelly” Johnson,
+recalled when discussing the SR-71, “Everything about the aircraft had to be
+invented. Everything.”
+133 We argue that the technological knowledge related
+to the production of advanced military platforms such as the SR-71 does not
+International Security 43:3 162
+129. Ibid., p. 73.
+130. Ibid., p. 69.
+131. In the end, the Soviets managed to copy the propellers, but only after having acquired two
+pieces of equipment that had been subjected to an embargo: high-precision “nine-axes milling ma -
+chinery tools” from the Japanese company Toshiba; and a computer device that could be used
+with them from a Norwegian defense company , Kongsberg. See ibid.; and Wende A. Wrubel, “The
+Toshiba-Kongsberg Incident: Shortcomings of Cocom, and Recommendations for Increased Effec -
+tiveness of Export Controls to the East Bloc,” American University Journal of International Law and
+Policy, V ol. 4, No. 1 (Winter 1989), p. 254.
+132. Fernando F. Suarez and Gianvito Lanzolla, “The Role of Environmental Dynamics in Build -
+ing a First Mover Advantage Theory ,” Academy of Management Review , V ol. 32, No. 2 (2007),
+pp. 377–392, doi.org/10.5465/amr.2007.24349587.
+133. Johnson and Smith, Kelly, p. 137.
+Downloaded from direct.​mit.​edu/​isec/​article-pdf/​43/​3/​141/​1844201/​isec_a_00337.​pdf by guest on 22 October 2026
+
+
+=== PDF PAGE 23 ===
+diffuse easily , because such knowledge is embedded in the organizational
+memory of the defense company that produced it.
+from codiªed to tacit knowledge
+Over the past century and a half, weapons production has changed dramati -
+cally , as indicated by the increase in the development time of weapon systems
+from a few months to several years and even decades. 134 As noted previously ,
+in the late nineteenth and early twentieth centuries, innovations were the re -
+sults of conjecture, creativity , ingenuity , and intuition (and sometimes of just
+plain luck or accidents). 135 This meant that the knowledge of how to produce a
+given technology was relatively simple; it could be written down in terms of
+principles and rules—it was codiªable. Codiªability permitted the spread
+of knowledge. Because of the growing complexity of weapons systems, how-
+ever, innovations have become the product of extensive prototyping, testing,
+experimentation, and reªnement: as a result of this change, knowledge related
+to a given weapon system has become increasingly less codiªable—it has be-
+come tacit. As former Secretary of Defense Ashton Carter and coauthors have
+noted, “Tacit knowledge is a route for maintaining a technological edge in mil-
+itary systems: what cannot be written down can hardly be stolen.”
+136
+codiªable knowledge. During the immediate aftermath of the second in-
+dustrial revolution, the knowledge behind most innovations was relatively
+simple: their logic and functioning were directly observable and understand-
+able.
+137 As such, an innovation generally carried within itself the very know-
+how related to its production process. 138 The simplicity of such know-how, in
+turn, allowed for the innovation’s codiªcation, and hence promoted its diffu -
+sion. This is what happened, for example, in manufacturing.
+In the mid-nineteenth century , the implicit knowledge of skilled craftsmen
+was partially codiªed, allowing semi-skilled workers to perform the manual
+tasks associated with the emergence of mechanized, standardized manufactur -
+ing of interchangeable parts.
+139 This trend was later reinforced with the devel -
+Why China Has Not Caught Up Y et 163
+134. Alic, “Managing U.S. Defense Acquisition,” p. 3. See also Laurence K. Loftin Jr., Quest for Per -
+formance: The Evolution of Modern Aircraft (Washington, D.C.: NASA Scientiªc and Technical Infor -
+mation Branch, 1985), p. 7.
+135. Hacker, “The Machines of War,” p. 257.
+136. Alic et al., Beyond Spinoff ,p .3 3 .
+137. Teece, “Capturing Value from Knowledge Assets,” p. 64; Arthur, The Nature of T echnology ,
+pp. 45–67; and Alic, “Managing U.S. Defense Acquisition,” pp. 1–36.
+138. This, for example, is how the Soviet Union acquired the technological knowledge necessary
+to produce long-range heavy bombers after World War II. Yeªm Gordon and Vladimir Rigmant,
+T upolev T u-4: Soviet Superfortress (Hinckley , U.K.: Midland, 2002).
+139. Yasunori Baba, Shoichi Kuroda, and Hiroshi Yoshiki, “Diffusion of the Systemic Approach in
+Downloaded from direct.​mit.​edu/​isec/​article-pdf/​43/​3/​141/​1844201/​isec_a_00337.​pdf by guest on 22 October 2026
+
+
+=== PDF PAGE 24 ===
+opment of the assembly line, which relied on the simplicity of the processes
+involved, and thus “the worker’s implicit knowledge had to be made ex -
+plicit.” 140 Implicit knowledge was “gathered and analyzed” to permit the frag -
+mentation of work into a multitude of extremely simple tasks. 141 Beginning in
+the 1910s, the organizational and technical principles of the assembly line
+and mass production were codiªed in articles and books.
+142 The Ford Motor
+Company , the pioneer of the assembly line, also contributed to the codiªcation
+of such knowledge when it decided to “have any part of its commercial, mana -
+gerial or mechanical practice given full and unrestricted publicity in print.”
+143
+Ford’s transparency facilitated the diffusion of mass production processes to
+other industries. 144
+A similar trend occurred with the emergence of modern science in the late
+nineteenth and early twentieth centuries, as scientists began to understand, ex-
+plain, systematize, and codify the body of knowledge developed by practitio-
+ners and on which many industrial processes were based.
+145 As a result of the
+progress of modern science and of its diffusion, implicit knowledge was trans-
+lated into explicit knowledge, thus reducing and, in many cases, negating the
+advantages enjoyed by early innovators.
+146
+tacit knowledge. Because of the increase in the complexity of military
+technology , the technological knowledge of how to design, develop, and pro-
+duce a given weapon system has become increasingly tacit. Tacit knowledge
+cannot be codiªed.
+147 It entails knowledge derived mostly from experience
+and hence is retained by people and organizations: for this reason, it does not
+diffuse either easily or quickly .
+148 Indeed, “the most effective way of [transfer -
+ring tacit knowledge], despite telephone, video and other remote methods, is
+International Security 43:3 164
+Japan: Gauge and Industrial Standards,” in Akira Goto and Hiroyuki Odagiri, eds., Innovation in
+Japan (New York: Oxford University Press, 1997), pp. 40–42.
+140. Shoshana Zuboff, In the Age of the Smart Machine: The Future of Work and Power (New York:
+Basic Books, 1988), pp. 41–44.
+141. Ibid., p. 44.
+142. Hounshell, From the American System to Mass Production, 1800–1932 , pp. 258–260.
+143. Quoted in ibid., p. 260.
+144. Ibid., pp. 260–261.
+145. Joel Mokyr, The Lever of Riches: T echnological Creativity and Economic Progress (New York:
+Oxford University Press, 1990), pp. 113–148.
+146. Joel Mokyr, “The Contribution of Economic History to the Study of Innovation and Technical
+Change, 1750–1914,” in Bronwyn H. Hall and Nathan Rosenberg, eds., Handbook of the Economics of
+Innovation, V ol. 1 (New York: Elsevier, 2010), pp. 25–43.
+147. Donald MacKenzie and Graham Spinardi, “Tacit Knowledge, Weapons Design, and the
+Uninvention of Nuclear Weapons,” American Journal of Sociology , V ol. 101, No. 1 (July 1995), p. 63,
+doi.org/10.1086/230699.
+148. Friedrich A. Hayek, “The Use of Knowledge in Society ,” American Economic Review , V ol. 35,
+No. 4 (September 1945), pp. 519–530, https:/ /www.jstor.org/stable/1809376; and Michael Polanyi,
+Downloaded from direct.​mit.​edu/​isec/​article-pdf/​43/​3/​141/​1844201/​isec_a_00337.​pdf by guest on 22 October 2026
+
+
+=== PDF PAGE 25 ===
+face-to-face interaction.” 149 To replicate a given weapon system, an imitator
+needs direct access to the innovator’s tacit knowledge—that is, access to the
+very people who worked on the system.
+150 Otherwise, it will struggle to ªgure
+out what each part does, the requirements it is intended to meet, how to pro -
+duce it, and how it is connected to other components—in other words, its de -
+sign, development, and production know-how. 151 Moreover, disassembling a
+military platform into smaller components to observe and understand its func -
+tioning has become signiªcantly more challenging. Today many weapon sys -
+tems, such as jet ªghters, “comprise highly integrated subsystems that are
+extremely difªcult (if not impossible) to decompose into independent mod -
+ules.” 152 The introduction of electronics has reinforced this trend, as the func -
+tioning of software is governed not by observable physical laws (in contrast,
+for example, to aerodynamics), but by the software’s internal correctness and
+its perfect integration with the weapon system’s hardware.
+153
+Three factors explain why design, development, and production know-how
+have become largely tacit. First, today designers, engineers, managers, and
+specialized workers face an inªnite number of decisions, each entailing inher-
+ent trade-offs: from the choice among alternative designs; to the choice among
+different components, their materials, and their technical properties; to choices
+about manufacturing techniques and procedures.
+154 Identifying the most ap-
+propriate choices and solutions relies heavily on experience, judgment calls,
+and educated guesses—all of which are, by deªnition, tacit.
+155 As Marco Iansiti
+notes, “An employee with thirty years’ experience in manufacturing will prob -
+Why China Has Not Caught Up Y et 165
+Personal Knowledge: T owards a Post-Critical Philosophy (Chicago, Ill.: University of Chicago Press,
+1958).
+149. Wolfgang Keller, “International Technology Diffusion,” Journal of Economic Literature , V ol. 42,
+No. 3 (September 2004), p. 756, doi.org/10.1257/0022051042177685.
+150. See Collins, “The TEA Set,” pp. 165–185; and MacKenzie and Spinardi, “Tacit Knowledge,
+Weapons Design, and the Uninvention of Nuclear Weapons,” pp. 44–99.
+151. Wesley M. Cohen and Richard C. Levin, “Empirical Studies of Innovation and Market Struc -
+ture,” in Richard Schmalensee and Robert Willig, eds., Handbook of Industrial Organization , V ol. 2
+(Amsterdam: North Holland, 2007), p. 1093.
+152. Charles H. Fine, Clockspeed: Winning Industry Control in the Age of T emporary Advantage (Read-
+ing, Mass.: Perseus, 1998), p. 141.
+153. Dennis D. Doe, “Current Practices,” in Anderson and Dorfman, Aerospace Software Engi -
+neering, p. 164; and James E. Tomayko, Computers T ake Flight: A History of NASA’s Pioneering Digital
+Fly-By-Wire Project (Washington, D.C.: National Aeronautics and Space Administration, 2000),
+pp. 24–25, 30.
+154. Alic, “Managing U.S. Defense Acquisition,” p. 15; and Gholz, “Systems Integration for Com -
+plex Defense Projects,” p. 53.
+155. John A. Alic, “Computer-Assisted Everything? Tools and Techniques for Design and Produc -
+tion,” T echnological Forecasting and Social Change , V ol. 44, No. 4 (December 1993), p. 365, doi.org/
+10.1016/0040-1625(93)90041-5.
+Downloaded from direct.​mit.​edu/​isec/​article-pdf/​43/​3/​141/​1844201/​isec_a_00337.​pdf by guest on 22 October 2026
+
+
+=== PDF PAGE 26 ===
+ably recognize that one design detail will be easier to manufacture than an -
+other, but she or he might not be able to articulate exactly why .” 156 In fact,
+many choices are shaped by a subtle knowledge and understanding of existing
+capabilities, suppliers, and technical properties (e.g., ease of production or
+maintenance as well the availability of components); by idiosyncratic cultural,
+environmental, or operational needs; or by contingent factors within the devel -
+opment process (some problems can be solved without redesigning the whole
+platform).
+157 It follows that some of these choices might not be intuitive or
+rational. Hence, they might be hard to understand by people who have not
+directly participated in the process that led to them.
+158
+Second, identifying appropriate choices and solutions entails extensive ex -
+perimentation, manipulation, prototyping, testing, and reªnement (including
+a lot of tinkering) with constant back-and-forth among teams of designers,
+engineers, managers, and specialized workers. This process allows those in-
+volved in the production of a given weapon system to explore different op-
+tions and potential solutions for the many kinds of problems encountered
+in such work and thus to understand what works and what does not.
+159 Be-
+cause such knowledge is developed in a disorganized as opposed to system-
+atized way , writing it down in terms of general rules and principles is extremely
+difªcult, if not impossible.
+160 Consequently , the very act of developing this
+knowledge cannot be separated from the knowledge itself, because it reºects the
+personal experiences of those involved in each stage of production.
+161
+Third, even if a country had access to all the blueprints and designs of a
+given weapon system, many crucial aspects would still be lacking, because
+“the best efforts to describe complex technologie s... cannot capture all of the
+details that engineers and technicians understand.”
+162 In modern weapon sys -
+International Security 43:3 166
+156. Iansiti, T echnology Integration, p. 11. See also Bruce Kogut and Udo Zander, “Knowledge of the
+Firm, Combinative Capabilities, and the Replication of Technology ,” Organization Science , V ol. 3,
+No. 3 (August 1992), pp. 383–397, doi.org/10.1287/orsc.3.3.383.
+157. Iansiti, T echnology Integration, pp. 104–106, 133; and Gholz, “Systems Integration for Complex
+Defense Projects,” pp. 52–53.
+158. Graham Spinardi, Robin Williams, and Ian Graham, “Technical Data Interchange in the
+Euroªghter Project,” Science and Public Policy , V ol. 22, No. 1 (February 1995), p. 29, doi.org/10
+.1093/spp/22.1.29.
+159. Stefano Brusoni, Andrea Prencipe, and Keith Pavitt, “Knowledge Specialization, Organiza -
+tional Coupling, and the Boundaries of the Firm: Why Do Firms Know More Than They Make?”
+Administrative Science Quarterly , V ol. 46, No. 4 (December 2001), pp. 597–621, doi.org/10.2307/
+3094825.
+160. Kathryn Henderson, “Flexible Sketches and Inºexible Data Bases: Visual Communication,
+Conscription Devices, and Boundary Objects in Design Engineering,” Science, T echnology, & Human
+Values, V ol. 16, No. 4 (Autumn 1991), pp. 449–450, doi.org/10.1177/016224399101600402.
+161. Mowery and Rosenberg, T echnology and the Pursuit of Economic Growth , pp. 81–82.
+162. Gholz, “Systems Integration for Complex Defense Projects,” p. 53.
+Downloaded from direct.​mit.​edu/​isec/​article-pdf/​43/​3/​141/​1844201/​isec_a_00337.​pdf by guest on 22 October 2026
+
+
+=== PDF PAGE 27 ===
+tems, relatively small details, such as the speciªc weight of fasteners or the
+chemical composition of rubber valves, can create huge operational challenges,
+possibly compromising the reliability and even survival of the platform.
+163
+For this reason, just one of the many possible problems that weapons develop -
+ment entails can slow down and possibly even prevent a country from repli -
+cating a foreign weapon system, even when it has full access to blueprints and
+designs.164 For example, in the 1990s and in 2005, the U.S. Navy failed repeat -
+edly to reproduce its material to refurbish its nuclear warheads—codenamed
+“Fogbanks”—because there were “few records of the process when the mate -
+rial was made in the 1980s and almost all the staff with expertise on produc -
+tion had retired or left the agency .” 165 The Navy eventually succeeded, but
+only after ten years of extensive work and an expenditure of more than
+$90 million.
+166 From this experience, the U.S. Government Accountability
+Ofªce concluded that “assumptions such as ‘we did it before so we can do it
+again’ are often wrong.”
+167
+from individual to organizational knowledge
+As a result of the increase in technological complexity , single individuals can
+no longer master all the knowledge and activities required for weapon devel-
+opment.
+168 Such know-how and experience have become the product of the
+collective effort of designers, engineers, managers, and specialized workers
+with different backgrounds. As such, know-how and experience diffuse very
+slowly , because organizations are far less mobile than people.
+169
+individual knowledge. During the second industrial revolution, lone in -
+ventors such as Alexander Bell, Thomas Edison, Nikola Tesla, and George
+Westinghouse brought scientiªc and technological knowledge forward. 170
+They understood and put into practice principles that, in some cases, now
+Why China Has Not Caught Up Y et 167
+163. See Wang, Reverse Engineering , pp. 266–268.
+164. Jon R. Lindsay and Tai Ming Cheung, “From Exploitation to Innovation: Acquisition, Ab -
+sorption, and Application,” in Lindsay , Cheung, and Reveron, China and Cybersecurity ,p .5 6 .
+165. U.S. Government Accountability Ofªce (GAO), Nuclear Weapons: NNSA and DOD Need to
+More Effectively Manage the Stockpile Life Extension Program (Washington, D.C.: GAO, March 2009),
+p. 16.
+166. Jonathan V . Last, “The Fog of War: Forgetting What We Once Knew,” Weekly Standard , May
+18, 2009, pp. 10–11.
+167. GAO, Nuclear Weapons ,p .1 5 .
+168. Frederick Tell, “Integrating Electrical Power Systems: From Individual to Organizational Ca -
+pabilities,” in Prencipe, Davies, and Hobday , The Business of Systems Integration , p. 71. See also Her -
+bert A. Simon, “Bounded Rationality and Organizational Learning,” Organization Science , V ol. 2,
+No. 1 (February 1991), pp. 125–134, https:/ /www.jstor.org/stable/2634943.
+169. Mowery and Rosenberg, T echnology and the Pursuit of Economic Growth , pp. 73–74.
+170. Tell, “Integrating Electrical Power Systems,” p. 60; and Mowery and Rosenberg, T echnology
+and the Pursuit of Economic Growth , pp. 15–16, 59–60.
+Downloaded from direct.​mit.​edu/​isec/​article-pdf/​43/​3/​141/​1844201/​isec_a_00337.​pdf by guest on 22 October 2026
+
+
+=== PDF PAGE 28 ===
+seem rather elementary but that until then nobody had been able to identify . 171
+By 1933, when the legendary aircraft designer “Kelly” Johnson proved that
+one of the most advanced civilian aircraft of that time was aerodynamically in -
+efªcient, the chief engineer of Lockheed expressed surprise upon learning
+“how simple the solution [Johnson provided] really was.” 172 Moreover, in
+many cases, the person who designed a new technology was also responsible
+for developing it or for specifying the principles for its production. As Alic
+puts it, “Design and manufacturing could be linked in one person’s head.”
+173
+Inventors could also transmit their knowledge to their apprentices, to their
+students, or even to another country in the event they decided to migrate, as
+Tesla did.
+174
+organizational knowledge. Because of the increase in complexity , lone
+inventors have increasingly lost relevance. 175 “By the eve of the Depression,”
+G. Pascal Zackary writes in his biography of Vannevar Bush, “the lone inven-
+tor was fading into myth.”
+176 Laboratories and research centers were becoming
+the “locus of invention.” Bush himself came to chair one of the most important
+of these centers during World War II, the Ofªce for Scientiªc Research and
+Development.
+177 Since then, designing, developing, and manufacturing ad-
+vanced weapon systems has become a collective effort involving hundreds
+and possibly thousands of highly educated and skilled individuals with back-
+grounds in different ªelds and with decades of experience.
+178 These individu-
+als generally possess knowledge about extremely important but very small
+details regarding these systems. Even the most talented aircraft designer will
+not be able to develop the software necessary for today’s ªghters or to provide
+instructions on its development.
+179 Consider, again, “Kelly” Johnson, director
+of Lockheed’s Skunk Works division from its inception until 1975. Johnson
+took a leading role in designing some of the most advanced aircraft ever devel -
+oped, including the P-38 Lightning, the U-2 Dragon Lady , and the aforemen -
+tioned SR-71. His amazing knowledge and understanding of aircraft design
+International Security 43:3 168
+171. See Hacker, “The Machines of War,” p. 257.
+172. Johnson and Smith, Kelly,p .2 4 .
+173. See Alic, “Computer-Assisted Everything?” p. 364.
+174. Richard R. Nelson and Gavin Wright, “The Rise and Fall of American Technological Leader -
+ship: The Postwar Era in Historical Perspective,” Journal of Economic Literature , V ol. 30, No. 4
+(December 1992), p. 1944, https:/ /www.jstor.org/stable/2727970.
+175. Alic, “Computer-Assisted Everything?” p. 364.
+176. G. Pascal Zachary , Endless Frontier: Vannevar Bush, Engineer of the American Century (Cam-
+bridge, Mass.: MIT Press, 1999), p. 17.
+177. Ibid.
+178. Mowery and Rosenberg, T echnology and the Pursuit of Economic Growth , pp. 73–74.
+179. Rich and Janos, Skunk Works , pp. 30–31, 46, 204.
+Downloaded from direct.​mit.​edu/​isec/​article-pdf/​43/​3/​141/​1844201/​isec_a_00337.​pdf by guest on 22 October 2026
+
+
+=== PDF PAGE 29 ===
+continue to be celebrated widely in the aviation community . 180 Yet, when ºy-
+by-wire and stealth emerged in the 1970s, even his extraordinary expertise
+would be put to the test. Johnson believed that the new stealth aircraft that
+Skunk Works was developing (the future F-117) would never ºy because of its
+aerodynamically inefªcient shape.
+181 Johnson was right: without ºy-by-wire,
+“Hopeless Diamond,” as the aircraft was nicknamed, “would have been hope -
+less indeed.” 182 Without ºight control software that carried out automatic
+microsecond ºight adjustments, the F-117 “could not even taxi straight.” 183
+This software was the product of more than twenty years of hard work by doz -
+ens of people on computer-assisted ºight control, which then had to be
+adapted to the speciªcities of the F-117. 184
+Today , know-how about weapon systems production is embedded in the
+collective memories and experience of defense organizations, which severely
+inhibits its diffusion.
+185 The F-117 was designed by a team of ªfty engineers,
+and still more engineers were necessary to develop and reªne the end prod -
+uct.
+186 That number has increased dramatically , with more than 6,000 engi-
+neers working on the F-35 project. 187 With numbers this large, if an engineer or
+a designer decides to migrate or defect, or even if she is kidnapped, she will at
+best be able to provide only a fraction of the knowledge needed.
+188
+One might argue that the emergence over the past sixty years of computer-
+assisted design, engineering, and manufacturing, as well as of ªnite element
+analysis and computational ºuid dynamics, can compensate for the impossi-
+bility for individuals to retain and put to use all the knowledge necessary for
+the development of modern weapon systems.
+189 But as Alic notes, this argu -
+ment “underestimate[s] the difªculties of mastering the new technologies.” 190
+Why China Has Not Caught Up Y et 169
+180. Leo P . Geary , “Foreword,” in Johnson and Smith, Kelly, p. viii; and Rich and Janos, Skunk
+Works, p. 129.
+181. Rich and Janos, Skunk Works , pp. 32, 108.
+182. Ibid., pp. 30–31.
+183. Ibid., p. 46.
+184. Ibid., pp. 46, 95; and Tomayko, Computers T ake Flight, pp. 43, 47, 53–54.
+185. Daniel Ross, James P . Womack, and Daniel T. Jones, The Machine That Changed the World: The
+Story of Lean Production (New York: Harper Perennial, 1991), pp. 249, 283–285.
+186. For example, the development of the XP-80 jet ªghter prototype (1940s) required 120 people
+(23 of whom were engineers) and 143 days. For the JetStar corporate transport, the number of en -
+gineers increased to 37. For the U-2 Dragon Lady , it increased to 50, and for the SR-71 Blackbird to
+135. Johnson and Smith, Kelly, pp. 161–162.
+187. Marcus Weisgerber, “U.S. F-35 Chief Reorganizing Program Ofªce,” Defense News ,
+March 13, 2013, https:/ /fortunascorner.wordpress.com/2013/03/13/u-s-f-35-chief-reorganizing-
+program-ofªce/.
+188. Stefan Wuchty , Benjamin F. Jones, and Brian Uzzi, “The Increasing Dominance of Teams in
+Production of Knowledge,” Science, May 18, 2007, pp. 1036–1039, doi.org/10.1126/science.1136099.
+189. Alic, “Computer-Assisted Everything?” p. 364.
+190. Ibid.
+Downloaded from direct.​mit.​edu/​isec/​article-pdf/​43/​3/​141/​1844201/​isec_a_00337.​pdf by guest on 22 October 2026
+
+
+=== PDF PAGE 30 ===
+In fact, “design decisions will continue to be based on judgment, experience,
+intuition and rough calculations.” 191 The lesson is that computers cannot help
+with conceptualization. 192 Moreover, given the inªnite number of alternative
+designs, “there are too many permutations to be explored with even the most
+powerful computer-based methods [so], designers rely , as they always have,
+on tacit know-how and experience-based judgment.”
+193 Computer assistance
+ultimately “requires experts who understand a particular method’s domain of
+application and can interpret the often ambiguous results of complicated
+mathematical models.”
+194 The development of the F/A-18 Hornet jet ªghter is
+revealing in this respect. 195 Computer assistance “failed to predict” a problem
+the aircraft experienced “and provided little help in ªnding a solution.” 196 To
+address this problem, the prime contractor had to carry out extensive ground
+and in-ºight testing.
+197 In the end, “designers had no choice but to fall back on
+informal procedural knowledge, some of it tacit.” 198 Available evidence sug-
+gests that the same limitations apply to artiªcial intelligence and machine
+learning, as they cannot substitute for human creativity and intuition, but only
+complement them.
+199
+Empirical Investigation
+In this section, we employ two cases to test our theory . First, we explain the
+rationale behind our case selection. Second, we examine Imperial Germany’s
+naval rearmament in the context of its naval rivalry with Great Britain from
+1890 to 1916. Third, we consider China’s aerospace modernization program in
+the context of its competition with the United States from 1991 to 2018.
+research design
+The cases of Imperial Germany and contemporary China allow us to put
+our theory to a hard test and existing international relations theories to an easy
+International Security 43:3 170
+191. Ibid., p. 365.
+192. See Ajay Agrawal, Joshua Gans, and Avi Goldfarb, Prediction Machines: The Simple Economics
+of Artiªcial Intelligence (Boston: Harvard Business Review Press, 2018), p. 13.
+193. Alic, “Managing U.S. Defense Acquisition,” p. 15.
+194. Alic, “Computer-Assisted Everything?” p. 368.
+195. John A. Alic, “Technical Knowledge and Experiential Learning: What People Know and Can
+Do,” T echnology Analysis & Strategic Management , V ol. 20, No. 4 (July 2008), p. 434, doi.org/
+10.1080/09537320802141403.
+196. Ibid.
+197. Ibid.
+198. Ibid.
+199. Paul R. Daugherty and H. James Wilson, Human Machine: Reimagining Work in the Age of AI
+(Boston: Harvard Business School Press, 2018), p. 76.
+Downloaded from direct.​mit.​edu/​isec/​article-pdf/​43/​3/​141/​1844201/​isec_a_00337.​pdf by guest on 22 October 2026
+
+
+=== PDF PAGE 31 ===
+test. In other words, if the conventional wisdom fails here, we should be skep -
+tical of its validity under less favorable circumstances. Conversely , if our em -
+pirical investigation supports our argument, we should be conªdent about its
+success under more favorable conditions.
+similarities. Imperial Germany and contemporary China represent rising
+powers with assertive and possibly expansionist geopolitical ambitions. 200
+Both countries launched large-scale military buildups with the goal of devel -
+oping state-of-the-art weapon systems. 201 And in both cases, the rise of com -
+mercial enterprises producing dual-use technologies not only drove the
+overall economic growth of both countries, but also contributed to their mili -
+tary modernization. 202
+differences. The two cases exhibit important differences, however, that ac -
+cording to international relations theory should have made China’s imitation
+of U.S. ªfth-generation ªghters signiªcantly easier than Imperial Germany’s
+imitation of the Dreadnought, Britain’s all-big-gun battleship. First, although
+the rise of both countries took place during two unrivaled eras of globaliza-
+tion, China has been operating in a much more open world economy from
+which it could derive higher inºows of foreign direct investment (FDI) and un-
+rivaled access to foreign technology .
+203 Second, Imperial Germany’s impres-
+sive 88 percent economic growth from 1890 to 1916 pales in comparison to
+China’s 3,092 percent economic growth from 1991 to 2017.
+204 Third, whereas
+German defense spending doubled in the 1890–1916 period, China’s military
+expenditure grew by 920 percent, from $23 billion in 1991 (U.S. 2015) to
+Why China Has Not Caught Up Y et 171
+200. Rolf Hobson, Imperialism at Sea: Naval Strategic Thought, the Ideology of Sea Power, and the Tirpitz
+Plan, 1875–1914 (Leiden, Netherlands: Brill, 2002); and Thomas J. Christensen, The China Challenge:
+Shaping the Choices of a Rising Power (New York: W.W. Norton, 2015).
+201. V olker R. Berghahn, Der Tirpitz-Plan: Genesis und Verfall einer innernpolitischen Krisenstrategie
+(The Tirpitz plan: genesis and decline of an internal political crisis strategy) (Düsseldorf, Germany:
+Droste V erlag, 1971); and Eric Heginbotham et al., The U.S.-China Military Scorecard: Forces, Geogra -
+phy, and the Evolving Balance of Power, 1996–2017 (Santa Monica, Calif.: RAND Corporation, 2015).
+202. The companies that promoted the commercial and military rise of Imperial Germany and
+contemporary China are Krupp and Thyssen (metallurgy), Siemens (electric systems), BASF
+(chemical), and Daimler-Benz (cars) for Germany; and Lenovo (computers), Sunway TaihuLight
+(supercomputers), Huawei (smartphones), and Alibaba (online retail) for China. See Gary E. Weir,
+Building the Kaiser’s Navy , pp. 43–44; and Leigh Ann Ragland, Joe McReynolds, and Debra Geary ,
+“China’s Defense Electronics and Information Technology Industry ,” in Cheung, ed., The Chinese
+Defense Economy T akes Off, pp. 45–58.
+203. Piya Mahtaney , India, China, and Globalization: The Emerging Superpowers and the Future of Eco -
+nomic Development (New York: Palgrave Macmillan, 2007), pp. 82–169; and Ted C. Fishman, China,
+Inc.: How the Rise of the Next Superpower Challenges America and the World (New York: Simon and
+Schuster, 2006).
+204. Authors’ calculation based on Paul Bairoch, “Europe’s Gross National Product: 1800–1975,”
+Journal of European Economic History , V ol. 5, No. 2 (Fall 1976), pp. 281, 295. World Bank data, avail -
+able at https:/ /data.worldbank.org.
+Downloaded from direct.​mit.​edu/​isec/​article-pdf/​43/​3/​141/​1844201/​isec_a_00337.​pdf by guest on 22 October 2026
+
+
+=== PDF PAGE 32 ===
+$228 billion in 2017. 205 Third, the German naval buildup relied on the support
+of the domestic coalition of “Iron and Rye.” Once Dreadnought was launched
+and the Anglo-German naval arms race rapidly accelerated, the German navy
+had to compromise on battleship costs and capabilities to preserve domestic
+support.
+206 Conversely , China has so far faced little internal opposition to its
+military modernization program. 207 Fourth, as a land power, Germany could
+not invest all its resources in naval modernization. 208 Indeed, as Nicholas Wolz
+notes, nothing “illustrates better the insigniªcance of the [German] naval
+forces than the fact that until 1888, supreme command of the [German
+navy]...l a yi nt h e hands of army ofªcers.”
+209 As war with France and Russia
+became more likely , naval budgets were cut. 210 Conversely , since the collapse
+of the Soviet Union, China has not faced a serious land threat. 211 Thus, the gov-
+ernment in Beijing could focus its investments primarily on the high-
+technology modernization of both its air force and navy . 212
+independent variables. Most important, the cases of Imperial Germany
+and China display two key differences in our variables of interest: absorptive
+capacity and access to foreign technological knowledge. When Germany and
+China launched their military buildups, each had relatively low absorptive ca-
+pacity: Germany was lagging behind in pre-Dreadnought battleships, and
+China could produce only old Soviet aircraft designs.
+213 Yet, in comparison
+to Germany , China beneªted extensively from FDI, R&D joint ventures, and
+International Security 43:3 172
+205. V olker R. Berghahn, Imperial Germany, 1871–1914: Economy, Society, Culture, and Politics (New
+York: Berghahn, 2005); and Stockholm International Peace Research Institute (SIPRI), “Military Ex -
+penditure by Country” (Stockholm: SIPRI, 2015), https:/ /www.sipri.org/databases/milex.
+206. Norman Friedman, Fighting the Great War at Sea: Strategy, T actics, and T echnology (Barnsley ,
+U.K.: Seaforth, 2014), pp. 73–101, 195–213; and Gary E. Weir, Building the Kaiser’s Navy: The Imperial
+Navy Ofªce and German Industry in the Tirpitz Era, 1890–1919 (Annapolis: Naval Institute Press,
+1992), pp. 33–34.
+207. Christensen, The China Challenge , pp. 37–62, 169–287.
+208. Holger H. Herwig, “Luxury” Fleet: The Imperial German Navy, 1888–1918 (London: George Al -
+len and Unwin, 1980).
+209. Nicholas Wolz, From Imperial Splendor to Internment: The German Navy in the First World War
+(Barnsley , U.K.: Seaforth, 2015), p. 2.
+210. Herwig, “Luxury” Fleet , pp. 54–69; and Philip Pugh, The Cost of Seapower: The Inºuence of
+Money on Naval Affairs from 1815 to the Present Day (London: Conoway Maritime, 1986), pp. 43,
+152–183.
+211. Evan Braden Montgomery , “Competitive Strategies against Continental Powers: The Geopol -
+itics of Sino-Indian-American Relations,” Journal of Strategic Studies , V ol. 36, No. 1 (February 2013),
+pp. 76–100, doi.org/10.1080/01402390.2012.736383.
+212. Dennis J. Blasko, “PLA Force Structure: A 20-year Retrospective,” in James C. Mulvenon and
+Andrew N.D. Yang, eds., Seeking T ruth from Facts: A Retrospective on Chinese Military Studies in the
+Post-Mao Era (Santa Monica, Calif.: RAND Corporation, 2001), pp. 51–86.
+213. Kenneth W. Allen, Glenn Krumel, and Jonathan D. Pollack, China’s Air Force Enters the 21st
+Century (Santa Monica, Calif.: RAND Corporation, 1995), p. 141.
+Downloaded from direct.​mit.​edu/​isec/​article-pdf/​43/​3/​141/​1844201/​isec_a_00337.​pdf by guest on 22 October 2026
+
+
+=== PDF PAGE 33 ===
+mergers and acquisitions with Western companies, which signiªcantly en -
+hanced its absorptive capacity while allowing it to launch its stealth aircraft
+program. Moreover, unlike the German case, China has had massive access to
+foreign technology and know-how, especially given its extensive reliance on
+cyber and industrial espionage and opportunities to reverse engineer technol -
+ogies purchased from abroad.
+214 In other words, China represents a particu -
+larly easy case for testing the argument that globalization and cyber espionage
+have facilitated the imitation of foreign military technology . 215 The empirical
+record, however, demonstrates that copying state-of-the-art weapon systems
+has become only more difªcult. In the span of just three to ªve years, Imperial
+Germany succeeded in copying the most advanced battleship of its time—the
+Dreadnought—the product of experience and know-how accumulated by
+Britain over the previous ªve decades.
+216 In contrast, China faced massive
+struggles in imitating U.S. ªfth-generation jet ªghters: twenty years after its
+launch, China’s stealth aircraft still suffers from shortfalls that make it inferior
+to its U.S. counterpart.
+217
+wilhelmine germany and the all-big-gun battleship, 1890–1916
+In 1906, at the apex of the Anglo-German naval rivalry , the Royal Navy com-
+missioned Dreadnought, an all-big-gun battleship that delivered higher
+speed, more stability , better armor protection, and, possibly more impor-
+tant, the ªrepower of two to three pre-Dreadnought battleships.
+218 As such,
+Dreadnought made all existing battleships suddenly obsolete, thus canceling
+the capital investments that Britain’s competitors had made during the
+past decade, including those of Imperial Germany .
+219 Dreadnought battleships
+incorporated newly available component technologies and translated into
+practice British Adm. Jackie Fisher’s maxim to “hit ªrst, hit hard, and keep hit -
+ting.”
+220 First, Dreadnought battleships employed turbines rather than boilers:
+Why China Has Not Caught Up Y et 173
+214. Evan S. Medeiros et al., A New Direction for China’s Defense Industry (Santa Monica, Calif.:
+RAND Corporation, 2005).
+215. See Phillip C. Saunders and Joshua K. Wiseman, “Buy , Build, or Steal: China’s Quest for Ad -
+vanced Military Aviation Technologies,” China Strategic Perspectives, No. 4 (Washington, D.C.:
+Institute for National Strategic Studies, National Defense University Press, December 2011), p. 48.
+216. See Brodie and Brodie, From Crossbow to H-Bomb , p. 162.
+217. Dave Majumdar, “China’s New J-20 Stealth Fighter Has Ofªcially Entered Service,” National
+Interest, September 27, 2017, https:/ /nationalinterest.org/blog/the-buzz/chinas-new-j-20-stealth-
+ªghter-has-ofªcially-entered-22529.
+218. Herwig, “The Battleºeet Revolution, 1885–1914,” p. 120.
+219. Macksey , T echnology in War,p .5 7 .
+220. Barry Gough, Churchill and Fisher: The Titans at the Admiralty Who Fought the First World War
+(Toronto: James Lorimer, 2017), p. 3.
+Downloaded from direct.​mit.​edu/​isec/​article-pdf/​43/​3/​141/​1844201/​isec_a_00337.​pdf by guest on 22 October 2026
+
+
+=== PDF PAGE 34 ===
+their lower weight, increased horsepower, and superior fuel efªciency resulted
+in greater speed (from 12 knots to a high of around 20 knots) without compro -
+mising range. 221 Second, because of developments in mechanics, electrical
+systems, and metallurgy , Dreadnought battleships carried longer-range quick-
+ªring guns that, thanks to the ªrst ªre-control systems, extended the range of
+naval combat from a few thousand yards in 1905 to 12,000–20,000 yards in
+1916.
+222 Third, progress in metallurgy enabled the production of lighter but
+more resistant armor that, combined with developments in naval science, led
+to a doubling of battleship tonnage (from 15,000 to 30,000 tons).
+223
+absorptive capacity . For Germany , the challenge appeared daunting;
+now it had to confront “by far the strongest shipbuilding industry in the
+world” with unrivaled experience in warship production.
+224 In comparison,
+Germany’s absorptive capacity in naval shipbuilding was relatively low in
+1906. Until 1876, Germany was still purchasing most of its warships from
+Britain, and well into the 1880s, it still had no signiªcant defense shipbuild-
+ing capability .
+225 With the launch, in 1890, of its imperialist foreign policy
+(Weltpolitik), and the resulting increase in budget allocations to the navy ,
+Germany began to learn important lessons both in weapons procurement and
+in warship design.
+226 Yet, on the eve of the Dreadnought revolution, Germany
+had only slightly more than a decade of experience in warship production, and
+its industry was still struggling to produce advanced battleships, which were
+signiªcantly inferior to their British counterparts.
+227
+Second, Germany had a late start in reproducing Britain’s Dreadnought
+design and several component technologies. This is because the very factors
+driving Germany’s naval rise—domestic politics and bureaucratic ambitions—
+paradoxically were also responsible for slowing down, and possibly even
+harming, its naval modernization.
+228 On the one hand, civil-military relations
+International Security 43:3 174
+221. David K. Brown, Warrior to Dreadnought: Warship Development, 1860–1905 (London: Chatham,
+1997), pp. 180–187, 189–191.
+222. Norman Friedman, Battleship: Design and Development, 1905–1945 (New York: Mayºower,
+1978), pp. 98–104.
+223. See John Beeler, Birth of the Battleships: British Capital Ship Design, 1870–1881 (Annapolis: Na -
+val Institute Press, 2001).
+224. Friedman, Fighting the Great War at Sea , p. 44; and Pugh, The Cost of Seapower , pp. 139–151.
+225. Aidan Dodson, The Kaiser’s Battleºeet: German Capital Ships, 1871–1918 (Annapolis: Naval In -
+stitute Press, 2016), pp. 23–24.
+226. Robert Gardiner, ed., Conway’s: All the World’s Fighting Ships, 1860–1905 (Annapolis: Naval In-
+stitute Press, 1985), p. 32.
+227. Dodson, The Kaiser’s Battleºeet , pp. 25, 40, and, more generally , pp. 23–71.
+228. Friedman, Fighting the Great War at Sea , pp. 73–101, 195–213; and Weir, Building the Kaiser’s
+Navy, pp. 33–34.
+Downloaded from direct.​mit.​edu/​isec/​article-pdf/​43/​3/​141/​1844201/​isec_a_00337.​pdf by guest on 22 October 2026
+
+
+=== PDF PAGE 35 ===
+were unstable: Kaiser Wilhelm II, the great sponsor of German naval rearma -
+ment, constantly intervened in navy policy , inadvertently delaying “warship
+design and construction.” 229 On the other hand, Adm. Alfred von Tirpitz, ap -
+pointed to lead the German Imperial Navy and fulªll the emperor’s aspira -
+tions, was strenuously opposed to any increase in the capabilities of German
+battleships, because their additional costs risked undermining the domestic
+coalition supporting his naval plans.
+230 As a result, the German Imperial
+Navy systematically ignored incoming intelligence about the development of
+Dreadnought and halted research in the technological domains underlying the
+new battleship’s design, including turbines, ªre-control systems, and long-
+range guns.
+231 For instance, German naval yards continued to develop obso -
+lete designs until late 1905, even though they had been aware since 1903 of the
+emerging all-big-gun battleship concept. 232 Similarly , until 1910 the German
+Imperial Navy designed its ªre-control system for short-range naval engage-
+ments (around 6,000 yards).
+233 Still, on the eve of World War I, no one in
+the German Imperial Navy “had thought it possible to ªght effectively at a
+range of ove r... 16,250 yards.”
+234
+As a result, German investments in ªre-control equipment initially re-
+mained limited, and the device Germany adopted in 1897 to measure bearing
+and bearing rate (the StandGerät) was much “clumsier” than its British coun-
+terpart (the Dumaresq).
+235 Analogous considerations applied to German naval
+ªrepower: Tirpitz had long preferred “smaller-caliber guns ªring relatively
+lightweight high-velocity shells.” These shells, however, were ineffective at
+Why China Has Not Caught Up Y et 175
+229. Friedman, Fighting the Great War at Sea , p. 195; and Norman Friedman, Naval Weapons of World
+War One: Guns, T orpedoes, Mines, and ASW Weapons of All Nations, An Illustrated History (Barnsley ,
+U.K.: Seaforth, 2011), pp. 121–123.
+230. See Holger H. Herwig, “Imperial Germany ,” in Ernest R. May , ed., Knowing One’s Enemies:
+Intelligence Assessment before the Two World Wars (Princeton, N.J.: Princeton University Press, 1986),
+pp. 62–97.
+231. Weir, Building the Kaiser’s Navy , pp. 30, 33, 47.
+232. The two best examples are an open-access article anticipating the all-big-gun battleship de -
+sign and reports from the German naval attaché in London. See, respectively , Vittorio Cuniberti,
+“An Ideal Battleship for the British Fleet,” in Fred T. Jane, ed., All The World’s Fighting Ships (Lon-
+don: Samson and Low, 1903), pp. 407–409; and Friedman, Fighting the Great War at Sea , p. 197. The
+idea was discussed, however, in 1901 “by navy gunnery experts in the US Naval Institute Proceed -
+ings” a magazine avidly read by members of the German Imperial Navy . See Tucker, Handbook of
+19th Century Naval Warfare , p. 219.
+233. Friedman, Fighting the Great War at Sea , p. 80; and Wolz, From Imperial Splendor to Internment ,
+pp. 98–118.
+234. John Brooks, Dreadnought Gunnery and the Battle of Jutland: The Question of Fire Control
+(Abingdon, U.K.: Routledge, 2006), p. 218.
+235. Norman Friedman, Naval Firepower: Battleship Guns and Gunnery in the Dreadnought Era
+(Barnsley , U.K.: Seaforth, 2008), pp. 158–163.
+Downloaded from direct.​mit.​edu/​isec/​article-pdf/​43/​3/​141/​1844201/​isec_a_00337.​pdf by guest on 22 October 2026
+
+
+=== PDF PAGE 36 ===
+longer ranges, because they “lost velocity more quickly than heavier ones” and
+thus were unªt for the engagements that took place during World War I. 236
+Finally , and paradoxically , Tirpitz’s defense industrial strategy explicitly ob -
+structed domestic research on turbines, thus failing to promote the develop -
+ment of an indigenous industry in this domain. 237
+access to foreign technology and know-how. The German Imperial
+Navy had relatively limited access to British Dreadnought-related technologies
+and technological knowledge—and, when it did, it did not use them. 238 Even
+though German naval yards had previous access to the all-big-gun battleship
+design, they did not immediately employ this information to improve either
+the warship designs they were working on or their design capabilities.
+239
+In the case of turbines, after having obstructed research in this realm, Tirpitz
+realized that German industry was lagging. Although he managed to have a
+British company establish a turbine production plant on German soil, he did
+not promote the transfer of technological know-how to German companies.
+240
+outcome. In line with our theory , within a few years, Germany was able to
+pose a serious challenge to Britain’s naval dominance. 241 It made remarkable
+improvements in ship design and construction as well as in other key compo-
+nent technologies and, in some realms, it even managed to outperform the
+new British all-big-gun battleships.
+242
+First, the German turbine industry caught up quickly , enabling the navy’s
+battleships to match Britain’s in terms of speed: by 1910–11, even the German
+companies that did not cooperate with foreign partners succeeded in indigen -
+ously producing modern turbines, which, in some cases, proved superior to
+their British counterparts.
+243
+Second, with respect to light-but-resistant armor steel plates for ªre protec -
+tion, German technology outperformed British technology , as the thinner, and
+hence lighter, 6-inch armor plating produced by Krupp foundries in Germany
+“was approximately as effective as” the 8-inch steel armor plating manu -
+factured by the Harvey United Steel Company in Britain.
+244 German gun
+International Security 43:3 176
+236. Friedman, Naval Firepower, p. 158.
+237. See ibid.; and Friedman, Fighting the Great War at Sea , pp. 188–213.
+238. Friedman, Fighting the Great War at Sea , p. 197.
+239. Weir, Building the Kaiser’s Navy , pp. 30, 33, 47; and Friedman, Fighting the Great War at Sea ,
+pp. 122–123.
+240. Weir, Building the Kaiser’s Navy , pp. 29, 96–98.
+241. Ibid., pp. 86–91.
+242. Robert Gardiner, ed., Conway’s: All the World’s Fighting Ships, 1906–1921 (Annapolis: Naval In-
+stitute Press, 1985), p. 145.
+243. Gary E. Weir, “Tirpitz and Technology ,” Naval History , V ol. 4, No. 1 (Winter 1990), p. 41.
+244. Gardiner, Conway’s: All the World’s Fighting Ships, 1860–1905 ,p .3 6 .
+Downloaded from direct.​mit.​edu/​isec/​article-pdf/​43/​3/​141/​1844201/​isec_a_00337.​pdf by guest on 22 October 2026
+
+
+=== PDF PAGE 37 ===
+technology also caught up quickly: the transition to larger calibers proved
+unproblematic, and according to some accounts, by the start of World War I
+Germany possessed the most advanced naval guns in the world.
+245 Be-
+hind Germany’s success was its capacity to transfer Krupp’s know-how in steel
+plating to warship building and to exploit the superiority of its chemical in -
+dustry for the development of more advanced propellant charges. In fact,
+Germany’s shells enjoyed “greater penetrative power” than the Royal Navy’s.246
+Third, Germany succeeded in leveraging its domestic civilian industry to
+catch up quickly in the realm of ªre-control equipment, which it had initially
+neglected.
+247 After the introduction of the British Dreadnought, the German
+navy recognized the inadequacy of its own long-range gunnery capabilities,
+and therefore started working on a rangeªnder (the EU/SV-Anzeiger) more
+advanced than the StandGerät, which it had acquired in 1897.
+248 To assess its
+new system, the navy acquired a rangeªnder from a British company that, by
+mid-1907, “had recaptured the lead in ªre-control instruments,” and whose
+equipment (the Mark II) was considered the best available at the time.
+249
+The tests revealed similar performances between the British and German sys-
+tems.
+250 From 1908 until World War I, the Royal Navy continued upgrading its
+ªre-control systems (introducing Mark III and Mark IV equipment), but
+Germany managed to keep pace. By the eve of the 1915 Battle of Dogger Bank,
+not only was the German ªre-control system “similar in principle” to those
+of British warships,
+251 but “at 20,000 yards,” it was also “as accurate as
+the [British] 9-foot coincidence rangeªnders at 15,000–16,000 yards,” 252 while
+its “spotting procedures could straddle more quickly .” 253 In other words,
+Germany managed to get a lead in ªre-control systems. 254
+Combat performance during the most important naval engagement of
+World War I, the 1916 Battle of Jutland, further supports our conclusions. 255
+Why China Has Not Caught Up Y et 177
+245. Friedman, Naval Weapons of World War One , p. 127.
+246. Gardiner, Conway’s: All the World’s Fighting Ships, 1906–1921 , p. 145.
+247. See, respectively , Friedman, Fighting the Great War at Sea , p. 123; and Brooks, Dreadnought
+Gunnery and the Battle of Jutland ,p .4 .
+248. Friedman, Naval Firepower, pp. 158–163; and Friedman, Fighting the Great War at Sea , p. 197.
+249. Brooks, Dreadnought Gunnery and the Battle of Jutland ,p .4 4 .
+250. Friedman, Naval Weapons of World War One , pp. 23–26; Brooks, Dreadnought Gunnery and the
+Battle of Jutland , pp. 78–210; and Friedman, Naval Firepower, pp. 68–81, 160.
+251. Brooks, Dreadnought Gunnery and the Battle of Jutland , p. 502.
+252. This is the Zeiss 3-meter system produced by Siemens & Halske. See Brooks, Dreadnought
+Gunnery and the Battle of Jutland , p. 216.
+253. Ibid., p. 218.
+254. Arthur Hezlet, Electronics and Sea Power (New York: Stein and Day , 1975), p. 121.
+255. For the most recent and exhaustive scholarly investigation, see Brooks, Dreadnought Gunnery
+and the Battle of Jutland .
+Downloaded from direct.​mit.​edu/​isec/​article-pdf/​43/​3/​141/​1844201/​isec_a_00337.​pdf by guest on 22 October 2026
+
+
+=== PDF PAGE 38 ===
+Despite some material and operational disadvantages that affected the mobil -
+ity of German warships, 256 the two ºeets performed very similarly in terms of
+accuracy: “117 British hits (2.45 percent) versus 83 German hits (2.3 percent),”
+thus suggesting that in terms of overall technology the two ºeets were gener -
+ally on par.
+257 Interestingly , “German ªre started excellently , but got worse as
+the day wore on, whereas British gunnery improved over time.” 258 This indi -
+cates that the two sides enjoyed similar technology , but that over the duration
+of the battle, the Royal Navy could leverage its superior drilling, tactics,
+and experience.
+In sum, despite all the countervailing pressures discussed earlier,
+259
+Germany managed in just a few years to imitate British Dreadnought battle -
+ships and to develop “superior North Sea ªghting ships to their British con -
+temporaries.” 260 German ships had in fact “better range-ªnding equipment,
+superior ªre-control, and improved compartmentalizatio n...a n d better
+shells.” 261 Moreover, German equipment “functioned excellently” during the
+war,262 because some of its key components were “apparently better and more
+plentiful than in Great Britain.” 263
+china and ªfth-generation ªghter aircraft, 1991–2018
+The United States commissioned its ªfth-generation stealth ªghter, the
+F-22/A Raptor, in 2005. Like Dreadnought, the F-22 had no match when it
+was ªelded, speciªcally because of its “ªrst-look, ªrst-shoot, ªrst-kill” capabil-
+ities.
+264 To begin, the application of stealth technology reduces by several or -
+ders of magnitude the observability of the F-22 to enemy sensors. 265 In
+addition, with its supercruising thrust-vectoring engines, the F-22 can achieve
+fuel-efªcient supersonic speed and high maneuverability , enhancing its perfor -
+International Security 43:3 178
+256. Ibid., p. 473; Wolz, From Imperial Splendor to Internment , pp. 98–118; and Friedman, Fighting the
+Great War at Sea , pp. 104–187.
+257. Friedman, Naval Firepower, p. 166.
+258. Ibid.
+259. Friedman, Fighting the Great War at Sea , pp. 73–101, 195–213; and Weir, Building the Kaiser’s
+Navy, pp. 33–34.
+260. See Friedman, Fighting the Great War at Sea , pp. 189–213. See also Gardiner, Conway’s: All the
+World’s Fighting Ships, 1906–1921 , p. 145.
+261. Tucker, Handbook of 19th Century Naval Warfare , p. 229.
+262. Brooks, Dreadnaught Gunnery and the Battle of Jutland , p. 504.
+263. The quotation refers to synchros, whose availability also enabled different design choices. See
+Friedman, Naval Weapons of World War One , p. 123.
+264. See Ronald W. Brower, “Lockheed F-22 Raptor,” in Cary R. Spitzer, ed., The Avionics Handbook
+(Williamsburg, Va.: CRC, 2001).
+265. Doug Richardson, Stealth: Deception, Evasion, and Concealment in the Air (New York: Orion,
+1989), pp. 24–57.
+Downloaded from direct.​mit.​edu/​isec/​article-pdf/​43/​3/​141/​1844201/​isec_a_00337.​pdf by guest on 22 October 2026
+
+
+=== PDF PAGE 39 ===
+mance against enemy ªghters. 266 Finally , the F-22 possesses superior and
+longer-range situational awareness thanks to its advanced onboard computer
+systems, software, and data-fusion capabilities: these attributes enable the col -
+lection, rapid processing, and exploitation of large amounts of different types
+of data that ultimately increase the F-22’s battleªeld performance.
+267
+absorptive capacity . When in the late 1990s China started work to de -
+velop a ªfth-generation ªghter, its absorptive capacity in the military aviation
+domain was relatively limited. 268 China could assemble modern foreign
+weapon systems, but its experience with combat aircraft production was re -
+stricted to Soviet designs from the 1950s and 1960s. 269 The reasons for China’s
+delay in combat aircraft production include economic backwardness, a com -
+mand economy , and its international isolation, as well as some particular polit -
+ical choices, such as limiting the amount of attention paid to military aviation
+during the Cold War, especially when compared to missiles or warships. 270
+China did not start from scratch, however. During the 1970s and 1980s,
+the Chinese defense industry worked on several programs, accruing some ex-
+perience in military aviation.
+271 Moreover, since the 1970s and in particular
+since the 1990s, China’s industrial base has beneªted tremendously from
+FDI, R&D joint ventures, and mergers and acquisitions with Western aero-
+space companies.
+272 Most of the world’s major jet engine producers, airline
+manufacturers, and companies specializing in avionics and aerospace compo-
+nent technologies have established a presence in China.
+273 Chinese companies
+have also purchased machinery to “manufacture sophisticated weapon sys -
+tems and related components.” 274
+Why China Has Not Caught Up Y et 179
+266. “Supercruise” means achieving supersonic speed without relying on afterburners. After -
+burners increase the thrust of the engines by injecting fuel into the gas exhaust. This procedure
+signiªcantly increases fuel consumption. Moreover, afterburners also expose the aircraft to enemy
+infrared search and track systems because of the enhanced heat.
+267. Brower, “Lockheed F-22 Raptor.”
+268. Medeiros et al., A New Direction for China’s Defense Industry ; and Allen, Krumel, and Pollack,
+China’s Air Force Enters the 21st Century , pp. 160–166.
+269. Allen, Krumel, and Pollack, China’s Air Force Enters the 21st Century , p. 159.
+270. Shen Pin-Luenin, “China’s Aviation Industry: Past, Present, and Future,” in Richard P .
+Hallion, Roger Cliff, and Phillip C. Saunders, eds., The Chinese Air Force: Evolving Concepts, Roles,
+and Capabilities (Washington, D.C.: National University Press, 2012), pp. 251, 266–268.
+271. These are the F-8 Finback, the F-8–2, the B-7/FB-7, and the K-8/L-8. See Allen, Krumel, and
+Pollack, China’s Air Force Enters the 21st Century , pp. 150–153.
+272. Roger Cliff et al., Ready for T akeoff: China’s Advancing Aerospace Industry (Santa Monica, Calif.:
+RAND Corporation, 2011), pp. 35–87; and Chad J.R. Ohlandt et al., Chinese Investment in U.S. Avia -
+tion (Santa Monica, Calif.: RAND Corporation, 2017).
+273. Cliff et al., Ready for T akeoff, pp. 35–88.
+274. Ibid., p. 37.
+Downloaded from direct.​mit.​edu/​isec/​article-pdf/​43/​3/​141/​1844201/​isec_a_00337.​pdf by guest on 22 October 2026
+
+
+=== PDF PAGE 40 ===
+access to foreign technological knowledge. Unlike Imperial Germany
+and its efforts to imitate the Dreadnought battleship, China has beneªted from
+massive access to foreign technological knowledge in its attempt to imitate
+U.S. advanced jet ªghters.
+China has engaged more extensively in cyber espionage than any other
+country .
+275 In 2007, 2009, and 2011, Chinese hackers entered the servers of the
+Pentagon and gained access to some ªfty terabytes of data containing the
+designs and blueprints of U.S. stealth ªghters, as well as other critical infor -
+mation.
+276 China has also relied extensively on traditional industrial espio -
+nage, including the recruitment of former engineers and scientists who
+worked for Western aerospace organizations. 277 Together, industrial and cyber
+espionage have given China extensive access to American know-how. More -
+over, China managed to obtain an F-117 that crashed in Serbia in 1999, al-
+lowing it to inspect, analyze, and possibly reverse engineer the aircraft’s
+stealth features.
+278
+Further, since the 1960s, China has beneªted from signiªcant transfers of
+technology from more advanced countries. 279 In the 1970s, it had access to
+turbofan engines developed by Rolls-Royce. 280 In the 1980s, Israel provided
+extensive “weapon-making know-how” useful in the design, ªre control,
+avionics, and radar capabilities of China’s fourth-generation aircraft.
+281
+Through Pakistan, China gained access to U.S. F-16 Fighting Falcon jet ªght-
+ers.
+282 After the end of the Cold War, China signed an agreement with Pakistan
+International Security 43:3 180
+275. William C. Hannas, James Mulvenon, and Anna B. Puglisi, Chinese Industrial Espionage: T ech-
+nology Acquisition and Military Modernization (New York: Routledge, 2013).
+276. David Axe, “Was China’s Stealth Tech Made in America?” Wired, January 24, 2011.
+277. Entities that have been victims of Chinese industrial espionage include Boeing, Pratt & Whit -
+ney , Rockwell, Rolls-Royce, and Wright-Patterson Air Base. Ofªce of the National Counter -
+intelligence Executive, Foreign Spies Stealing US Economic Secrets in Cyberspace: Annual Report to
+Congress on Foreign Economic Collection and Industrial Espionage, 2009–11 (Washington, D.C.: U.S.
+Government Publishing Ofªce 2011), p. 2; Stephen Chen, “America’s Hidden Role in Chinese
+Weapons Research,” South China Morning Post , March 29, 2017; and Stephen Chen, “China in Talks
+for Sale of Jet Engine Technology to Germany ,” South China Morning Post , January 18, 2018.
+278. David Eimer, “China’s Stealth Fighter ‘Based on U.S. Technology’” T elegraph, January 23, 2011.
+It is important to emphasize that the theoretical explanation of how to reduce the radar cross section
+of an object has been known since 1962, when a Soviet physicist published an article in a scientiªc
+journal. Moreover, since the 1980s, several publications have provided technical insights behind
+stealth technology—most prominently , the lecture notes of Allen Fuhs of the U.S. Naval Postgradu -
+ate School and a textbook by Eugene Knott, John Schaeffer, and Michael Tuley of the Georgia Insti -
+tute of Technology . See Rich and Janos,Skunk Works, pp. 19–20; and Richardson, Stealth, pp. 11–12.
+279. Bates Gill, “Chinese Military-Technical Development: The Record for Western Assessment,
+1979–1999,” in Mulvenon and Yang, Seeking T ruth from Facts, pp. 141–172; and Allen, Krumel, and
+Pollack, China’s Air Force Enters the 21st Century , p. 155.
+280. Medeiros et al., A New Direction for China’s Defense Industry , p. 170.
+281. Allen, Krumel, and Pollack, China’s Air Force Enters the 21st Century , p. 155.
+282. Saunders and Wiseman, “Buy , Build, or Steal,” p. 10.
+Downloaded from direct.​mit.​edu/​isec/​article-pdf/​43/​3/​141/​1844201/​isec_a_00337.​pdf by guest on 22 October 2026
+
+
+=== PDF PAGE 41 ===
+to coproduce Pakistan’s fourth-generation ªghter, itself the result of a co -
+production project with the American Grumman Aerospace Corporation (the
+F-7P Sabre II “Super 7”); 283 it also reached a licensing agreement with Russia
+for the production of its fourth-generation aircraft (the Sukhoi Su-27). 284
+Russian experts have also provided Chinese workers and engineers “with the
+know-how to assemble Su-27 ªghter aircraft using imported materials and
+equipment,” and have trained them to “domestically manufacture key materi -
+als.”
+285 China has also been purchasing engines, radars, and other systems and
+subsystems from abroad in order to analyze and possibly replicate them. 286
+outcome. Nevertheless, China’s aerospace industry has struggled enor -
+mously to imitate U.S. technology . In 2017, China commissioned the J-20 Black
+Eagle, a step that many analysts viewed as the end of the U.S. monopoly on
+ªfth-generation ªghters.
+287 Yet, serious doubts persist about whether the per-
+formance of the J-20 comes even close to that of the F-22. In fact, anonymous
+Chinese sources have admitted that China rushed the J-20 into service in re-
+sponse to increasing tensions in the South China Sea, despite capability gaps
+that make it inferior to the F-22.
+288
+First, because of design similarities between the U.S. F-22 and the Chinese
+J-20, many observers have concluded that China has been able to quickly repli-
+cate U.S. technology .
+289 A closer examination suggests otherwise. The J-20 dis-
+plays several design ºaws and non-stealthy features on the sides and in the
+rear of the ªghter that dramatically increase its detectability to both radar and
+thermal sensors.
+290 These limitations would represent a critical liability in air-
+to-air engagements with U.S. ªfth-generation jet ªghters. 291 Moreover, the J-20
+Why China Has Not Caught Up Y et 181
+283. Allen, Krumel and Pollack, China’s Air Force Enters the 21st Century , p. 149.
+284. Ibid., p. 156.
+285. Medeiros et al., A New Direction for China’s Defense Industry ,p .2 7 .
+286. Siemon T. Wezeman, “Impact of Shifts in Arms Trade and Exercises on South Asia and Eu -
+rope,” in Lora Saalman, ed., China-Russia Relations and Regional Dynamics: From Pivots to Peripheral
+Diplomacy (Stockholm: SIPRI, 2017), pp. 85–88.
+287. See, for example, Jeffrey Lin and P .W. Singer, “China’s Stealth Fighter May Be Getting a New
+Engine,” Eastern Arsenal blog, Popular Science , September 8, 2017; and Economist, “No Longer Just
+Catch-Up: China Will Soon Have Air Power Rivalling the West’s,” February 15, 2018.
+288. See Minnie Chan, “China’s J-20 Stealth Fighter Joins the People’s Liberation Army Air Force,”
+South China Morning Post , March 10, 2017; and Minnie Chan, “Why China’s First Stealth Fighter
+Was Rushed into Service with Inferior Engines,” South China Morning Post , February 10, 2018.
+289. Eloise Lee and Robert Johnson, “China’s J-20 and the American F-22 Raptor—You Are Not
+Seeing Double,” Business Insider, June 4, 2012; and Jeffrey Lin and P .W. Singer, China’s J-20 Stealth
+Fighter Jet Has Ofªcially Entered Service, Eastern Arsenal blog, Popular Science, February 18, 2018,
+https:/ /www.popsci.com/chinas-j-20-stealth-ªghter-ofªcially-enters-service.
+290. Michael J. Pelosi and Carlo Kopp, “A Preliminary Assessment of Specular Radar Cross Sec -
+tion Performance in the Chengdu J-20 Prototype,” Air Power Australia Analysis , July 4, 2011, http:/ /
+www.ausairpower.net/APA-2011-03.html.
+291. Some observers have downplayed these problems by arguing that the J-20 is allegedly not in -
+tended to be an air-superiority ªghter. This conclusion is unwarranted. For a summary and a
+Downloaded from direct.​mit.​edu/​isec/​article-pdf/​43/​3/​141/​1844201/​isec_a_00337.​pdf by guest on 22 October 2026
+
+
+=== PDF PAGE 42 ===
+displays two small wing projections (canards) forward of the main wings.
+Generally intended to help the longitudinal equilibrium, and static and dy -
+namic stability , of an aircraft, the canards also increase its frontal radar cross
+section, thus limiting its overall capabilities. 292 From an industrial perspective,
+that the J-20 carries canards suggests poor design. 293 As noted, little can be
+done about poor designs, which, once adopted, can be improved only margin -
+ally .294 These ºaws and features convey a more important message: China has
+been unable to fully copy U.S. stealth designs and technology . Instead, it
+has had to engage in extensive experimentation, prototyping, and reªne -
+ment, inevitably encountering problems in the process.
+295
+Second, China has faced enormous challenges in developing one of the most
+important systems of modern jet ªghters—powerful and reliable thrust-
+vectoring turbofan engines capable of supercruise. According to experts, this
+failing represents probably “the most glaring weakness of China’s aviation in-
+dustry .”
+296 For this reason, China has so far relied on compromises. For its
+early prototypes, from 2010 to 2017, it relied on Russian underpowered en-
+gines that provide neither supercruise nor thrust-vectoring capabilities and
+that left a visible trail.
+297 Subsequently , China decided to commission the J-20
+into service by mounting indigenous but older and underpowered engines
+that also lack supercruise and thrust-vectoring capabilities.
+298 This solution
+was intended to be temporary while work on the engines originally intended
+for the J-20 continued. These more advanced engines have experienced
+“critical problems,” however, including an explosion during a ground test in
+2015.
+299 According to an anonymous source, as of 2018, “engineers ha[d] failed
+International Security 43:3 182
+rebuttal of this argument, see Rick Joe, “J-20: Striker or Interceptor,” PLA Real T alk blog, Decem -
+ber 27, 2015, http:/ /plarealtalk.com/2015/12/27/j-20-striker-interceptor/.
+292. By adding edges to the design of an aircraft, canards increase the reºection of radar beams,
+and hence the radar cross section. Pelosi and Kopp, “A Preliminary Assessment of Specular Radar
+Cross Section Performance in the Chengdu J-20 Prototype.”
+293. Richard Aboulaªa, “Monthly Newsletter” (Fairfax, Va.: Richard Aboulaªa personal website,
+October 2012), http:/ /www.richardaboulaªa.com/shownote.asp?id/H11005366.
+294. David Axe, “Seven Secret Ways America’s Stealth Armada Stays Off the Radar,” Wired,D e -
+cember 13, 2012.
+295. Since the J-20 ªrst appeared in late 2010, observers have noted several changes (primarily in
+the fuselage, tailbooms, vertical tails, and canards), suggesting that China has relied on trial and
+error to ªx possible design problems. Bill Sweetman, “J-20 Stealth Fighter Design Balances Speed
+and Agility ,” Aviation Week & Space T echnology , November 10, 2014, p. 57.
+296. Medeiros et al., A New Direction for China’s Defense Industry , p. 169.
+297. The engine is the NPO Saturn AL-31. The exhaust inevitably compromises the aircraft’s low
+observability . See Andrew Erickson and Gabe Collins, “The ‘Long Pole in the Tent’: China’s Mili -
+tary Jet Engines,” Diplomat, December 9, 2012; and Bill Sweetman, “China’s Radar and Missile
+Work Means More Than Fighters,” Aviation Week & Space T echnology , December 1, 2014, p. 16.
+298. The engine is the Shenyang WS-10.
+299. Anonymous military sources, cited in Chan, “Why China’s First Stealth Fighter Was Rushed
+into Service with Inferior Engines.” The name of this engine is Xian WS-15.
+Downloaded from direct.​mit.​edu/​isec/​article-pdf/​43/​3/​141/​1844201/​isec_a_00337.​pdf by guest on 22 October 2026
+
+
+=== PDF PAGE 43 ===
+to ªnd the key reason for the[se] problems,” 300 and apparently “there [was] no
+fundamental solution to overcome [them].” 301 In November 2018, China
+switched back to Russian engines for three of the four J-20s that performed at
+the biannual Airshow China in Zhuhai—an event China uses to showcase its
+aerospace accomplishments. This decision suggests that the “temporary” in -
+digenous engines are not deemed very reliable.
+302
+China’s struggle to indigenously develop aircraft engines thus throws
+into question the growing belief among observers that China has closed the
+military-technological gap with the United States with respect to ªfth-
+generation ªghters.
+303 Possibly more important, it also illustrates that the ad -
+vantages of imitation that China has enjoyed have inevitably been limited. As
+mentioned earlier, several factors signiªcantly facilitated China’s efforts to de -
+velop turbofan engines; and from 2010 to 2015, it spent some $22 billion to
+develop an indigenous engine for its combat aircraft. 304 Yet, as of 2019, it con-
+tinues to struggle. 305 According to an executive with a Chinese engine manu-
+facturer, “The road to success is ªlled with setbacks and failures,” and far from
+being able to take a shortcut, China has experienced the same problems of
+“each of the world’s engine powers.”
+306 It is unknown how Chinese engines
+will perform and when they will be operational. 307 According to defense in-
+dustry experts Tai Ming Cheung, Thomas Mahnken, and Andrew Ross, they
+“lag one to two generations behind leading international competitors, and the
+near-term prospects of narrowing this gap are poor.”
+308 In fact, the engine
+China is developing might not be sufªciently powerful to make the J-20 a
+“viabl e...a i r combat ªghter.”
+309
+Why China Has Not Caught Up Y et 183
+300. Anonymous military source, cited in Minnie Chan, “China Reveals J-20 Stealth Fighter’s Mis -
+sile Carrying Capability at Zhuhai Air Show,” South China Morning Post , November 14, 2018.
+301. Anonymous military source, cited in Chan, “Why China’s First Stealth Fighter Was Rushed
+into Service with Inferior Engines.”
+302. Minnie Chan, “China’s New J-20 Stealth Fighter Engine a No-Show at Zhuhai Air Show after
+It Fails Reliability Tests,” South China Morning Post , November 7, 2018.
+303. The J-20 does not possess supercruise capabilities, so it is not a ªfth-generation ªghter.
+304. Minnie Chan, “China Powers Up Military Jet Engine Tech to Wean Itself Off Russian Im -
+ports,” South China Morning Post , December 12, 2016. The amount is 168 billion yuan, equivalent to
+$21–$24 billion.
+305. Chan, “Why China’s First Stealth Fighter Was Rushed into Service with Inferior Engines.”
+See also Chan, “China Reveals J-20 Stealth Fighter’s Missile Carrying Capability .”
+306. Quoted in Greg Waldrom, “China’s J-20 Set to Receive Indigenous Engine,” Flight Global ,
+March 13, 2017.
+307. According some experts, this will happen soon. See, for example, Lin and Singer, “China’s
+Stealth Fighter May Be Getting a New Engine.”
+308. Tai Ming Cheung, Thomas G. Mahnken, and Andrew L. Ross, “Frameworks for Analyzing
+Chinese Defense and Military Innovation,” in Cheung, ed., Forging China’s Military Might: A New
+Framework for Assessing Innovation (Baltimore, Md.: Johns Hopkins University Press, 2014), p. 35.
+309. Carlo Kopp, “An Initial Assessment of China’s J-20 Stealth Fighter,” China Brief, May 6, 2011,
+p. 10.
+Downloaded from direct.​mit.​edu/​isec/​article-pdf/​43/​3/​141/​1844201/​isec_a_00337.​pdf by guest on 22 October 2026
+
+
+=== PDF PAGE 44 ===
+Third, military experts agree that China is also lagging in another key realm
+of ªfth-generation ªghters—avionics. 310 China’s difªculties in this realm stem
+from the fact that aerospace sensors and software development currently pose
+some of the most daunting engineering challenges.
+311 Software problems, in
+fact, are very difªcult to anticipate: testing and reªning must continue until the
+software is perfected, given that when the aerospace software fails, it fails “cat -
+astrophically .”
+312 Because China has thus far been unable to copy U.S. aircraft
+design and engines, there is little reason to believe that it has been more suc -
+cessful in this much more challenging realm. An additional consideration
+supports this assessment. The complexity of modern aerospace software is un -
+precedented.313 Flight control software has become exponentially more com -
+plex, eliminating trade-offs in design—for example, between observability to
+radar and aerodynamic efªciency . In other words, complexity has moved from
+hardware to software.
+314 In addition, software has taken over an increasing
+number of more complex functions—most prominently , automatic long-range
+enemy detection, geolocation, high-conªdence identiªcation, and accurate tar-
+get tracking.
+315 Little information is available on Chinese radar operation and
+data-fusion capabilities, but we can use available evidence on Chinese ºight
+control as a proxy . This proxy is valid, because developing ºight control soft-
+ware is far less demanding than software for radar operation and data fu -
+sion.
+316 According to Chinese media, the J-20 still faces problems with its ºight
+control software. There is thus little reason to believe that China has been able
+to develop the most challenging part of the J-20s’ onboard software.
+317
+Fourth, the difªculties that China has encountered with the development of
+less advanced fourth-generation ªghters further corroborate our argument.
+Despite the signiªcant transfer of technology and support that China has re -
+ceived from Russia, Israel, and various European countries, its industry has
+struggled in this domain.
+318 For instance, in 2004 China suddenly broke a
+International Security 43:3 184
+310. Cheung, Mahnken, and Ross, “Frameworks for Analyzing Chinese Defense and Military In -
+novation,” p. 35.
+311. Royce, “Current Problems,” p. 6.
+312. Ibid., pp. 8–11.
+313. See Mili and T chier, Software T esting,p .6 .
+314. For example, the low radar cross section of the F-117 was attainable by compromising its
+aerodynamics—a problem that was addressed by software. See Rich and Janos, Skunk Works ,
+pp. 30–32, 46, 108.
+315. Steve A. Fino, Tiger Check: Automating the U.S. Air Force Fighter Pilot in Air-to-Air Combat,
+1950–1980 (Baltimore, Md.: Johns Hopkins University Press, 2017).
+316. Ninety percent of the 1.7 million lines of the F-22’s code is “devoted” to radar operation and
+data fusion. See Mili and T chier, Software T esting,p .6 .
+317. Chan, “China’s J-20 Stealth Fighter Joins the People’s Liberation Army Air Force.”
+318. Medeiros et al., A New Direction for China’s Defense Industry , p. 162.
+Downloaded from direct.​mit.​edu/​isec/​article-pdf/​43/​3/​141/​1844201/​isec_a_00337.​pdf by guest on 22 October 2026
+
+
+=== PDF PAGE 45 ===
+licensing agreement with Russia on the Sukhoi Su-27, with the aim of exploit -
+ing the experience it had already gained to produce independently an indige -
+nous version, the Shenyang J-11. 319 The production process did not go
+smoothly , however. For example, at “one point the [Chinese engines] were re -
+portedly requiring overhauls every thirty hours of ºight time, compared to
+four hundred hours fo r...t h e Su-27.” 320 Similarly , according to U.S. sources,
+some variants of this aircraft have been “in big trouble,” as technical malfunc -
+tions have led to several crash landings. 321 Additionally , in 2016 China bought
+twenty-four new, heavily upgraded derivatives of the very aircraft it had cop -
+ied from Russia (the Sukhoi Su-35). 322 Although we do not know the reasons
+for this purchase, it is further indicative of China’s inability to produce a
+copy of this aircraft—or even a more advanced one such as ªfth-generation
+jet ªghters.
+323 China has experienced similar problems with its carrier-based
+ªghter aircraft, the Shenyang J-15 Flying Shark, a reverse-engineered version
+of a Russian ªghter (the Sukhoi Su-33) that is more than thirty years old and
+that China purchased from Ukraine.
+324 Because of the thrust constraints of its
+engine, the J-15 can take off from an aircraft carrier ski-jump with only half a
+fuel load or with only four missiles, thus limiting either its range or its capabil-
+ities.
+325 Even the Chinese media criticized it as a “ºopping ªsh.” 326 Because of
+recurrent fatal accidents and crashes, China recently decided to look for a re-
+placement for this aircraft.
+327
+Fifth, China has derived only limited cost and time advantages from its
+imitation efforts. According to Gabe Collins and Andrew Erickson, it is “rea -
+sonable to assume the J-20 has a unit cost of somewhere from US$100-to-
+$120 millio n...B y contrast, the F-22 costs around US$143 million per
+Why China Has Not Caught Up Y et 185
+319. Sebastien Roblin, “China Stole This Fighter from Russia—And It’s Coming to the South
+China Sea,” National Interest , July 24, 2016.
+320. Ibid.
+321. David Axe, “China’s Testing Woes Remind That Developing Carrier Planes Is Hard,” Wired,
+March 21, 2013.
+322. International Institute for Strategic Studies, The Military Balance, 2015 (London: Routledge,
+2015), p. 215.
+323. Some observers even speculate that China bought these aircraft in order to copy , among other
+things, its thrust-vectoring engine. See, for example, Bradley Perrett, “China Has 11 Flanker V er -
+sions, with More Possible,” Aviation Week & Space T echnology , February 17, 2017, p. 50.
+324. Dillon Zhou, “China J-15 Fighter Jet: Chinese Ofªcials Defend New Fighter As Chinese Origi -
+nal, but Questions Remain,” Mic, December 16, 2012.
+325. David Cenciotti, “No Match for a U.S. Hornet: ‘China’s Navy J-15 More a Flopping Fish than
+a Flying Shark’ Chinese Media Say ,” Aviationist blog, September 30, 2013, https:/ /theaviationist
+.com/2013/09/30/j-15-critics/.
+326. Ibid.
+327. Dave Majumdar, “China’s Aircraft Carriers Have a Big Problem: Fatally Flawed Fighter
+Planes,” National Interest , July 5, 2018.
+Downloaded from direct.​mit.​edu/​isec/​article-pdf/​43/​3/​141/​1844201/​isec_a_00337.​pdf by guest on 22 October 2026
+
+
+=== PDF PAGE 46 ===
+plane.” 328 These estimates show that China has derived a cost advantage of
+just 14 to 20 percent, which is hardly impressive given that China is the coun -
+try that has relied most extensively on both industrial and cyber espionage,
+and that has beneªted massively from the transfer of technology through FDI,
+mergers and acquisitions, and the purchase of foreign components. Such a cost
+advantage is even less impressive given that the F-22 is now twelve years old,
+that the J-20 has signiªcant deªciencies, and that its costs will inevitably in -
+crease further as China attempts to ªx its problems and improve its perfor -
+mance. The latter point is critical, because “the ªnal 10 percent striving
+towards maximum perfection costs 40% of the total expenditure on most pro -
+jects.”
+329 The same is true with regard to time. The F-22 became operational in
+2005—about twenty years after the project started. 330 Launched in the late
+1990s and tested in 2010, the J-20 was ofªcially commissioned in the fall of
+2017.
+331 Still, it is not yet fully operational and remains inferior to the F-22 on
+several dimensions: in other words, after more than twenty years, China has
+not yet closed the gap with the United States.
+332
+A skeptical reader might wonder whether a more advanced country would
+have accomplished better results than China in imitating the F-22. The hardest
+case for our theory would be if the imitating country had the same aerospace
+capabilities as the United States and if it had access to all the technological
+knowledge related to the F-22. This case exists. In 2011, the U.S. government
+interrupted production of the F-22. In 2017, the U.S. Air Force commissioned a
+study to understand how much it would cost to restart production. In other
+words, the United States wanted to know what it would take to copy its own
+technology from just six years before. The ªndings are sobering: the same
+country that created the F-22 would have to spend $10 billion to restart the
+production of its ªfth-generation ªghter—equivalent to 25 percent of the total
+procurement cost for 194 aircraft.
+333
+International Security 43:3 186
+328. Gabe Collins and Andrew Erickson, “China’s New Project 718/J-20 Fighter: Development
+Outlook and Strategic Implications,” China SignPost , January 17, 2011.
+329. Rich and Janos, Skunk Works , p. 325.
+330. See Jay Miller, Lockheed Martin’s Skunk Works: The Ofªcial History (Leicester, U.K.: Midland,
+1995), p. 175; and Dennis R. Jenkins and Tony R. Landis, Experimental and Prototype U.S. Air Force
+Jet Fighters (North Branch, Minn.: Specialty Press, 2008), p. 234.
+331. Richardson, Stealth,p .9 3 .
+332. The advantages China derived from imitation also look quite modest in comparison to the
+ªrst U.S. stealth ªghter, F-117: it entered service in 1987; its development took six years; and it cost
+$155 million. See David C. Aronstein and Albert C. Piccirillo, Have Blue and the F-117A: Evolution of
+the Stealth Fighter (Reston, Va.: American Institute of Aeronautics and Astronautics, 1997), p. 267.
+333. United States Air Force, F-22A Production Restart Assessment (Washington, D.C.: United States
+Air Force, February 2017).
+Downloaded from direct.​mit.​edu/​isec/​article-pdf/​43/​3/​141/​1844201/​isec_a_00337.​pdf by guest on 22 October 2026
+
+
+=== PDF PAGE 47 ===
+In sum, over the past twenty years, China has made impressive accomplish -
+ments in modernizing its aerospace industry . Given the extent to which it has
+beneªted from globalization and cyber espionage, however, the evidence casts
+serious doubt on the claim that these two factors have brought about a revolu -
+tionary transformation that makes the imitation of foreign weapon systems
+much easier than it used to be.
+334
+Conclusion
+In his seminal article “Command of the Commons,” Barry Posen argued that
+the unrivaled military-technological superiority of the United States gives it a
+key advantage over other countries.
+335 According to the literature in interna -
+tional relations theory , however, such advantages should be temporary , espe-
+cially in an era of globalization, real-time communications, and dual-use
+technologies: knowledge allegedly diffuses quickly , thus undermining one of
+the sources of U.S. hegemony—superiority in military technology . In this arti-
+cle, we have provided a theoretical explanation for why , three decades after
+the fall of the Berlin Wall and more than ªfteen years after the publication of
+Posen’s article, U.S. weapon systems largely remain unrivaled.
+We have argued that the dramatic increase in the complexity of military
+technology observed over the twentieth century has signiªcantly shrunk the
+advantage of backwardness described by Gerschenkron. On the one hand,
+the requirements for imitating modern weapon systems have become harder
+to meet. On the other, the technological knowledge of how to design, develop,
+and produce modern weapon systems has become less likely to diffuse. As
+a result, compared to the pre–World War I period, today imitating foreign
+weapon systems is more difªcult. Countries cannot simply free ride on the
+research and development of the most advanced states: they ªrst have to de -
+velop the industrial, scientiªc, and technological capabilities required for
+becoming ªrst-tier weapons manufacturers; then, they must go through exten -
+sive trial and error to address the multitude of extremely small but challenging
+problems that weapons development entails.
+The evidence we presented shows that in comparison to the early twentieth
+century , when Germany could quickly catch up with Great Britain in all-big-
+gun battleships, in recent years China has faced enormous hurdles in closing
+Why China Has Not Caught Up Y et 187
+334. Saunders and Wiseman, “Buy , Build, or Steal,” p. 48.
+335. Barry R. Posen, “Command of the Commons: The Military Foundation of U.S. Hegemony ,”
+International Security , V ol. 28, No. 1 (Summer 2003), p. 10, doi.org/10.1162/016228803322427965.
+Downloaded from direct.​mit.​edu/​isec/​article-pdf/​43/​3/​141/​1844201/​isec_a_00337.​pdf by guest on 22 October 2026
+
+
+=== PDF PAGE 48 ===
+the military-technological gap both with the United States in ªfth-generation
+aircraft and even with Russia in fourth-generation jet ªghters. China has strug -
+gled to achieve success despite its massive cyber theft activities, the beneªts it
+has derived from globalization, its acquisition of foreign companies and tech -
+nology , and an unprecedented inºow of foreign direct investments.
+With this research, we provide a uniªed theory that helps explain why
+the imitation of advanced weapon systems has become more difªcult with the
+transition from the industrial to the information age. Our theory holds also in
+other cases. For example, it helps account for the Soviet Union’s incapacity to
+catch up with the United States in the later phases of the Cold War.
+336 Our the-
+ory thus challenges the view among international relations scholars that catch -
+ing up technologically is about will—which, for states, ultimately means
+mobilizing the necessary capital. Although warranted in the past, this view is
+no longer valid, because simply pouring money into a project cannot generate
+the necessary defense industrial base and experience with the technology
+being pursued.
+337
+More important, by explaining the enduring military-technological superi-
+ority the United States currently enjoys, our research contributes to one of
+the most signiªcant debates in the ªeld of international relations theory: the
+potential for the United States to maintain its unrivaled power. Many observ-
+ers and practitioners believe that U.S. primacy in military technology is com-
+ing to an end, because of the diffusion of cheap counter-systems and because of
+opportunities to exploit both dual-use technologies and cyber espionage to free
+ride on more advanced countries’ research. Chinese military strategists them -
+selves “subscribe to the arguments [of] Alexander Gerschenkron” about the ad -
+vantage of imitation, and their technology and industrial policies have tried as
+much as possible to rely on the acquisition, assimilation, and replication of for -
+eign technology .
+338 Our theory indicates that under the current technological
+paradigm, the entry barriers for modern military platforms will remain mas -
+sive, even for the most advanced countries. Meanwhile, the tacit and organiza -
+tional know-how related to the production of modern weapon systems will
+force aspiring great powers to engage in extensive and expensive experimenta -
+International Security 43:3 188
+336. See Stephen G. Brooks and William C. Wohlforth, “Power, Globalization, and the End of the
+Cold War: Reevaluating a Landmark Case for Ideas,” International Security, V ol. 25, No. 3 (Winter
+2000/01), pp. 5–53, doi.org/10.1162/016228800560516.
+337. See Mark R. Brawley , “The Political Economy of Balance of Power Theory ,” in T.V . Paul,
+James Wirtz, and Michel Fortmann, eds., Balance of Power: Theory and Practice in the 21st Century
+(Palo Alto, Calif.: Stanford University Press, 2004), p. 80.
+338. Tai Ming Cheung, Fortifying China: The Struggle to Build a Modern Defense Economy (Ithaca,
+N.Y .: Cornell University Press, 2008), p. 243.
+Downloaded from direct.​mit.​edu/​isec/​article-pdf/​43/​3/​141/​1844201/​isec_a_00337.​pdf by guest on 22 October 2026
+
+
+=== PDF PAGE 49 ===
+tion and testing before they can deliver state-of-the-art technology . We are
+not claiming that China or other countries are destined to fail in their at -
+tempts to close the military-technological gap with the United States. Rather,
+we argue that rising great powers cannot easily copy foreign technology and
+thus catch up militarily at a fraction of the cost and at a fraction of the time of
+their competitors.
+Indirectly , our research also addresses existing concerns about future
+counter-systems that China could deploy to contest the Western Paciªc. Al -
+though some of these systems are comparatively cheap and unsophisticated
+(e.g., missiles), key platforms such as submarines and jet ªghters are extremely
+complex, while other emerging technologies such as remotely piloted and au -
+tonomous vehicles are becoming increasingly sophisticated and costly , and
+are expected “to converge rapidly with those of manned aircraft.”
+339 Similarly ,
+exploiting emerging technologies (e.g., robotics or artiªcial intelligence) for
+military purposes will not be easy: to integrate them into their weapon sys-
+tems, countries will have to invest massively in a broad range of disciplines
+and gain experience through trial and error. The key question for the future
+is whether the fourth industrial revolution will bring about a paradigmatic
+transformation in production, and if so, how this transformation will change
+the dynamics of innovation and imitation. Given that “as the capabilities of
+autonomy increas e... considerable system complexity will be created as
+the software and hardware is expanded,”
+340 our research suggests that the dif-
+ªculty of imitation will continue to increase. Further research should focus on
+this topic.
+341
+Why China Has Not Caught Up Y et 189
+339. Ministry of Defence, “Joint Doctrine Note 2/22: The U.K. Approach to Unmanned Aircraft
+Systems” (Shrivenham, U.K.: British Ministry of Defence, March 30, 2011), pp. 1–2.
+340. Ofªce of the Chief Scientist, Autonomous Horizons: System Autonomy in the Air Force—A Path to
+the Future, V ol. 1:Human-Autonomy T eaming(Washington, D.C.: United States Air Force, 2015), p. 6.
+341. Andrea Gilli and Mauro Gilli, “Seapower and the Second Machine Age: The Robotics Revolu -
+tion and the U.S. Command of the Commons,” paper presented at the International Studies Asso -
+ciation annual convention, Baltimore, Maryland, February 22–25, 2017.
+Downloaded from direct.​mit.​edu/​isec/​article-pdf/​43/​3/​141/​1844201/​isec_a_00337.​pdf by guest on 22 October 2026

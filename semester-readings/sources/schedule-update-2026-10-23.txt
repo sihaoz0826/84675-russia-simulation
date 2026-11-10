@@ -1,0 +1,125 @@
+Justin Key Canfil
+AuthorTeacher
+Posted Oct 23 6:18pm
+
+
+Schedule for remainder of semester
+Hi everyone!
+
+
+
+It doesn't seem feasible for us to catch up in the syllabus, so to keep us on track and reserve space for the in-class simulation planned for the end of the semester, I had to make some hard decisions about what to cut or condense. I think the following schedule makes the most sense:
+
+
+
+Oct 26: Wrap up "twin pillars" lesson
+
+
+
+"Endless Frontier" and modern research institutions
+The public goods problem vs. the appropriation problem
+Human capital
+
+
+Required readings:
+
+“Letter from Albert Einstein & Leo Szilard to FDR.” https://thebulletin.org/virtual-tour/albert-einstein-leo-szilard-and-the-letter-that-led-to-the-manhattan-project/ (August 1939).
+Kreps, Sarah. 2025. “An Attack on America’s Universities Is an Attack on American Power.” Foreign Affairs. https://www.foreignaffairs.com/united-states/attack-americas-universities-attack-american-power (July 23, 2025).
+Zweig, David. "Competing for talent: China's strategies to reverse the brain drain." Int'l Lab. Rev. 145 (2006): 65.
+
+
+Oct 28: fundamentals of technology competition.
+
+
+
+Diffusion theory, disruptive innovation.
+Technology adoption theory (if time)
+Industrial espionage
+
+
+Required readings:
+
+
+
+Guo, Jeff. 2024. “The Strange Way the World’s Fastest Microchips Are Made.” NPR. https://www.npr.org/2024/11/13/1212604208/asml-euv-extreme-ultraviolet-lithography-microchips (August 14, 2025).
+Bower, Joseph L., and Clayton M. Christensen. “Disruptive Technologies: Catching the Wave.” Harvard Business Review. https://hbr.org/1995/01/disruptive-technologies-catching-the-wave (August 14, 2025).
+Cheung, Tai Ming. 2016. “Innovation in China’s Defense Technology Base: Foreign Technology and Military Capabilities.” Journal of Strategic Studies 39(5–6): 728–61. doi:10.1080/01402390.2016.1208612.
+Gilli, Andrea, and Mauro Gilli. 2019. “Why China Has Not Caught Up Yet: Military-Technological Superiority and the Limits of Imitation, Reverse Engineering, and Cyber Espionage.” International Security 43(3): 141–89. doi:10.1162/isec_a_00337.
+
+
+Nov 2: Countermeasures
+
+
+
+Reading set 1: knowledge security
+
+NSDD 189 (Sep 21, 1985). https://irp.fas.org/offdocs/nsdd/nsdd-189.htmLinks to an external site.
+NSPM-33 (Jan 14, 2021). https://trumpwhitehouse.archives.gov/presidential-actions/presidential-memorandum-united-states-government-supported-research-development-national-security-policy/Links to an external site.
+Walker-Munro, Brendan. 2024. “National Security, Foreign Investment & Research Security: The Current State of Art.” Griffith Law Review 33(2): 167–88. doi:10.1080/10383441.2025.2459007.
+
+
+Reading set 2: byproducts and consequences
+
+Reif, L. Rafael. 2025. “America’s Coming Brain Drain.” Foreign Affairs. https://www.foreignaffairs.com/united-states/trump-universities-war-america-coming-brain-drain (August 14, 2025).
+Kuo, Kaiser Y. “The War for Chinese Talent in America, with David Zweig.” https://www.sinicapodcast.com/p/the-war-for-chinese-talent-in-america (August 14, 2025).
+“BBC Audio | The Documentary Podcast | China’s Rocket Man.” https://www.bbc.co.uk/programmes/w3ct1642 (July 21, 2025).
+
+
+Please read both sets.
+
+
+
+Nov 4: guest speaker (CMU Assistant VP of Research Security)
+
+
+
+Some advance readings may be assigned. Please come prepared with questions!
+We will also pick simulation teams this day. Simulation briefs will be due by 5pm on Nov 15.
+
+
+Nov 9-11: Patent racing (film screening + activity)
+
+interfirm competition, competing solutions, and circling back to the appropriation problem
+the film will helpfully touch on some of the other topics we won't get to explore fully (hype cycles, inertia, etc; see below) which is why I want to prioritize it!
+
+
+Readings:
+
+Usselman, Steven W. 1992. “From Novelty to Utility: George Westinghouse and the Business of Innovation during the Age of Edison.” Business History Review 66(2): 251–304. doi:10.2307/3116939.
+
+
+Nov 16-18: in-class simulation.
+
+
+
+Nov 23: This is close enough to the holiday that I am inclined to give everyone the day off for independent reading before the final since I know many of you will need to travel. Instead I plan to hold office hours for anyone who wants to chat about the class.
+
+
+
+Independent readings:
+
+Pottinger, Matt, and Mike Gallagher. 2024. “No Substitute for Victory.” Foreign Affairs 103(3). https://www.foreignaffairs.com/united-states/no-substitute-victory-pottinger-gallagher
+Truex, Rory. 2021. “What the Fear of China Is Doing to American Science.” The Atlantic. https://www.theatlantic.com/ideas/archive/2021/02/fears-about-china-are-disrupting-american-science/618031/
+
+
+Nov 30: final exam
+
+
+
+Dec 2: simulation final reports due, class TBD
+
+
+
+Important topics we probably won't get to cover in-depth are:
+
+1) theories about why people (and firms and countries) pursue or adopt certain technologies over alternatives when multiple solutions exist.
+2) how countries slow themselves down: patterns in organizational inertia, bureaucratic in-fighting, and social resistance to certain technologies.
+3) confusion about which technologies to prioritize: technology hype cycles, offset cycles.
+4) measuring technology competition: what does it mean for a country to "be ahead", and how can we know?
+
+
+All of these are still super important to the geopolitics of technological innovation, so if you are interested in these questions please consider the relevant parts of the syllabus as suggested readings. I am also happy to discuss anytime!
+
+
+
+Thank you for your patience as we figured out the pacing of the class together. See everyone on Monday!
