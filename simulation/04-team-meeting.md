@@ -1,6 +1,6 @@
 # Team review meeting and submission checklist
 
-Use this agenda to turn the first draft into a team-owned strategy. AI-assisted meeting preparation [AI-8]; no meeting has yet been recorded.
+Use this agenda to review the brief, agree on the strategy, and complete the executive consensus sentence before Steve submits. Key dates (from the instructor's final syllabus update, which supersedes the syllabus): brief emailed to jcanfil@cmu.edu by **November 15** (the October 23 announcement said 5 p.m.); simulation **November 16-18**; final report due **December 2**.
 
 ## Proposed 40 minute agenda
 
@@ -12,7 +12,7 @@ Use this agenda to turn the first draft into a team-owned strategy. AI-assisted 
 | 19-26 | Steve | Review BR/AR allocation and research transitions | Agreed opening priority and short-horizon fallback |
 | 26-33 | All three | Compare complete budget, reserve, and alternatives | Vote on main plan and contingencies; record dissent |
 | 33-37 | All three | Resolve questions available from game sheet; assign the rest to Steve | Rules questions prioritized for instructor |
-| 37-40 | All three | Final prose, disclosure, ownership, and submission check | Clear owners and an internal completion time |
+| 37-40 | All three | Final prose, citations, ownership, and submission check | Clear owners and an internal completion time |
 
 ## Questions to discuss
 
@@ -27,14 +27,14 @@ Use this agenda to turn the first draft into a team-owned strategy. AI-assisted 
 
 These are adjustable planning shares of new income, not legal orders or performance predictions. All sum to 100%; all begin with no mandatory SP and provisionally closed IM.
 
-| Option | AR-L | BR | SE | TE | Saved | When it could be preferable |
-| --- | --- | --- | --- | --- | --- | --- |
-| Proposed balanced opening | 45% | 15% | 10% | 10% | 20% | No decisive price or threshold information yet |
-| Early output | 60% | 10% | 5% | 5% | 20% | Short horizon and low education payback |
-| Capability investment | 30% | 20% | 15% | 15% | 20% | Long horizon and strong verified upgrade effects |
-| Preserve wealth | 35% | 10% | 5% | 5% | 45% | Strong wealth scoring/interest or poor research returns |
+| Option | AR-L | BR | Education (SE or TE) | Saved | When it could be preferable |
+| --- | --- | --- | --- | --- | --- |
+| Proposed opening (in the brief) | 45% | 20% | 15% | 20% | No decisive price or threshold information yet |
+| Early output | 60% | 10% | 10% | 20% | Short horizon and low education payback |
+| Capability investment | 30% | 25% | 25% | 20% | Long horizon and strong verified upgrade effects |
+| Preserve wealth | 35% | 10% | 10% | 45% | Strong wealth scoring/interest or poor research returns |
 
-If an attractive SP opportunity is verified, discuss transferring up to 10 percentage points from AR. Do not add a spy attempt on top of a fully allocated budget. IM policy has to be evaluated separately from the percentage table.
+Espionage starts at 0% in Round 1 and rises to 10-15% from Round 2-3 against the US and France. Do not add a spy attempt on top of a fully allocated budget. IM policy has to be evaluated separately from the percentage table.
 
 ## Record the actual meeting
 
@@ -74,17 +74,16 @@ All three review the executive recommendation and final report. Equal labor mean
 
 ## Before submission
 
-- [ ] Confirm the current deadline. The designated syllabus says November 12; the saved November 4 update says November 15. An October 23 announcement says November 15 at 5 p.m. The final saved update does not restate a time. Have the work ready for November 12 while checking the active course instruction.
-- [ ] Each czar independently researches/checks and rewrites or adopts their own 2-3 paragraphs with proper AI attribution.
+- [ ] Each czar checks the sources for their own section and revises the paragraphs into their own words and judgment.
 - [ ] Keep one combined intelligence/immigration section for Gloria; include both policy areas.
 - [ ] Paste the assessment, three portfolio sections, and three executive paragraphs into one shared document, as PREP requests.
 - [ ] Keep the assessment itself to one page; portfolio and executive paragraphs follow separately. Check the exported page, not a word-count assumption.
-- [ ] Declare the actual adopted decision rule and describe actual consensus or dissent. Replace the executive paragraph that says the meeting has not occurred.
+- [ ] Declare the actual adopted decision rule and replace the bracketed consensus sentence at the end of the executive section with what actually happened.
 - [ ] Distinguish real-world evidence, game rules, and proposed policy. Check every number against the cited source and date.
-- [ ] Retain citations, bibliography, the exact prompt log, factual critique, and required quotation/italics for generated prose retained verbatim.
+- [ ] Keep the numbered citations and the reference list.
 - [ ] Confirm starting values, legal costs, thresholds, and score formula if available. If not yet supplied, keep numerical orders conditional and say so.
 - [ ] Read the combined document aloud for consistency and confirm names and country.
-- [ ] If the November 4 announcement remains active, Steve emails the compiled final product to jcanfil@cmu.edu by its confirmed deadline. No email has been sent by this preparation workflow.
+- [ ] Steve emails the compiled brief to jcanfil@cmu.edu by November 15.
 - [ ] Save the submitted version and record when and how it was submitted.
 
 ## Bring to simulation

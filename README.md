@@ -1,30 +1,32 @@
 # Russia simulation preparation
 
-Standalone preparation repository for Team 2 in Carnegie Mellon 84-375 / 84-675 Geopolitics of Innovation, Fall 2026.
+Preparation repository for Team 2 (Russia) in Carnegie Mellon 84-375 / 84-675 Geopolitics of Innovation, Fall 2026.
 
-Team roles: Steve handles technology strategy and executive decisions, Gloria handles intelligence and immigration, and Tiger handles education.
+Team roles: Steve handles technology strategy and is the executive, Gloria handles intelligence and immigration, and Tiger handles education.
 
-## Review the draft
+## The strategy brief
 
-- [Printable strategy brief](simulation/Russia-strategy-brief-review.pdf)
-- [Editable strategy brief](simulation/01-strategy-brief.md)
+- [Printable strategy brief (PDF)](simulation/Russia-strategy-brief.pdf)
+- [Editable strategy brief (Markdown)](simulation/01-strategy-brief.md)
+
+The brief contains the one-page country assessment, the three czar recommendations, the executive recommendation (including the decision rule and Round 1 allocation), and references. One item must be filled in after the team meeting: the bracketed consensus sentence at the end of the executive section.
+
+## Internal preparation (not submitted)
+
 - [Preparation index and assignment requirements](simulation/README.md)
 - [Research and evidence](simulation/02-research-and-evidence.md)
 - [Game playbook](simulation/03-game-playbook.md)
-- [Team meeting agenda](simulation/04-team-meeting.md)
-- [Gameplay record template](simulation/05-gameplay-record.md)
-- [AI disclosure and exact drafting prompt](simulation/06-ai-disclosure.md)
+- [Team meeting agenda and submission checklist](simulation/04-team-meeting.md)
+- [Gameplay record and final-report template](simulation/05-gameplay-record.md)
 
-The supplied syllabus and both original simulation PDFs are included. Supporting course announcements and the two reading extracts cited in the research notes are included under `semester-readings/sources` so those references remain available.
-
-This is a first draft for team review. Actual agreement, independent student review, starting game parameters, and gameplay outcomes have not been invented. Deadline conflicts are documented in the preparation index. The generated prose and disclosure follow the supplied syllabus's AI policy.
+The syllabus, both simulation PDFs, the instructor's schedule announcements, and the two reading extracts cited in the research notes are included for reference.
 
 ## Rebuild the printable brief
 
-Install ReportLab if needed, then run:
+Install ReportLab if needed, then run from the repository root:
 
 ```cmd
 python simulation\tools\build_brief.py
 ```
 
-The country assessment is the first PDF page. Each portfolio and the executive recommendation has three draft paragraphs. Review the PDF layout after substantive edits.
+The country assessment must stay on page 1; check the PDF after substantive edits.

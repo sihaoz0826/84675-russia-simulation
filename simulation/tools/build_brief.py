@@ -1,122 +1,111 @@
-"""Build the printable brief from the reviewed Markdown sources.
+"""Build the printable strategy brief from 01-strategy-brief.md.
 
-Requires reportlab. Run from any directory with Python 3.
-The assessment and each portfolio are separate pages. No live sources are fetched.
+Requires reportlab. Run from any directory with Python 3:
+    python simulation/tools/build_brief.py
+
+The country assessment is kept on page 1; each later section starts a new page.
 """
 from pathlib import Path
 import re
 from html import escape
 
 from reportlab.lib import colors
-from reportlab.lib.enums import TA_LEFT
-from reportlab.lib.styles import ParagraphStyle, getSampleStyleSheet
+from reportlab.lib.styles import ParagraphStyle
 from reportlab.lib.units import inch
-from reportlab.platypus import SimpleDocTemplate, Paragraph, Spacer, PageBreak
+from reportlab.platypus import (KeepTogether, PageBreak, Paragraph, SimpleDocTemplate,
+                                Spacer, Table, TableStyle)
 
 ROOT = Path(__file__).resolve().parents[1]
-OUTPUT = ROOT / "Russia-strategy-brief-review.pdf"
-source = (ROOT / "01-strategy-brief.md").read_text(encoding="utf-8")
-styles = getSampleStyleSheet()
-styles.add(ParagraphStyle("BriefTitle", fontName="Helvetica-Bold", fontSize=17,
-                          leading=21, spaceAfter=9, textColor=colors.black))
-styles.add(ParagraphStyle("BriefBody", fontName="Times-Roman", fontSize=11,
-                          leading=14, spaceAfter=10, alignment=TA_LEFT))
-styles.add(ParagraphStyle("BriefSmall", fontName="Helvetica", fontSize=9,
-                          leading=12, spaceAfter=8))
-styles.add(ParagraphStyle("BriefRef", fontName="Times-Roman", fontSize=9.5,
-                          leading=12, spaceAfter=7, splitLongWords=True))
+SOURCE = ROOT / "01-strategy-brief.md"
+OUTPUT = ROOT / "Russia-strategy-brief.pdf"
+
+TITLE = ParagraphStyle("Title", fontName="Helvetica-Bold", fontSize=15, leading=18, spaceAfter=3)
+SUB = ParagraphStyle("Sub", fontName="Helvetica", fontSize=8.5, leading=11, spaceAfter=8,
+                     textColor=colors.HexColor("#333333"))
+H2 = ParagraphStyle("H2", fontName="Helvetica-Bold", fontSize=12, leading=15, spaceBefore=2,
+                    spaceAfter=6, keepWithNext=True)
+BODY = ParagraphStyle("Body", fontName="Times-Roman", fontSize=10.5, leading=13.2, spaceAfter=6.5)
+CELL = ParagraphStyle("Cell", fontName="Times-Roman", fontSize=9, leading=10.5)
+CELL_B = ParagraphStyle("CellB", parent=CELL, fontName="Times-Bold")
+REF = ParagraphStyle("Ref", fontName="Times-Roman", fontSize=10, leading=12.5, spaceAfter=5,
+                     leftIndent=14, firstLineIndent=-14)
+
 
 def inline(text):
-    # Convert links before escaping so their labels and targets stay intact.
+    """Convert the small Markdown subset used in the brief to ReportLab markup."""
     saved = []
+
     def link(match):
         label, target = match.groups()
-        if not target.startswith("https://"):
-            return label
         saved.append(f'<link href="{escape(target, quote=True)}" color="#163A5F">{escape(label)}</link>')
-        return f"LINKTOKEN{len(saved)-1}END"
-    text = re.sub(r"\[([^\]]+)\]\(([^)]+)\)", link, text)
-    text = escape(text)
+        return f"\x00{len(saved) - 1}\x00"
+
+    text = re.sub(r"\[([^\]]+)\]\((https?://[^)]+)\)", link, text)
+    text = escape(text, quote=False)
     text = re.sub(r"\*\*(.+?)\*\*", r"<b>\1</b>", text)
     text = re.sub(r"\*(.+?)\*", r"<i>\1</i>", text)
     text = re.sub(r"`([^`]+)`", r"\1", text)
-    for i, value in enumerate(saved):
-        text = text.replace(f"LINKTOKEN{i}END", value)
-    return text
+    return re.sub(r"\x00(\d+)\x00", lambda m: saved[int(m.group(1))], text)
 
-sections = dict(re.findall(r"^## ([^\n]+)\n(.*?)(?=^## |\Z)", source, re.M | re.S))
-story = []
-titles = ["One page country assessment", "Education recommendation for Tiger",
-          "Technology strategy recommendation for Steve",
-          "Intelligence and immigration recommendation for Gloria",
-          "Executive recommendation for Steve with team review"]
-for index, title in enumerate(titles):
-    if index:
-        story.append(PageBreak())
-    story.append(Paragraph("Russia national innovation strategy" if index == 0 else title,
-                           styles["BriefTitle"]))
-    subtitle = ("One page country assessment | Team 2 | Steve, Gloria, Tiger" if index == 0
-                else "Team 2 Russia | Proposed portfolio text for independent review")
-    story.append(Paragraph(subtitle + " | 10 November 2026", styles["BriefSmall"]))
-    paras = [p.strip() for p in sections[title].split("\n\n") if p.strip().startswith('*"')]
-    expected = 5 if index == 0 else 3
-    assert len(paras) == expected, (title, len(paras))
-    for p in paras:
-        story.append(Paragraph(inline(p), styles["BriefBody"]))
-    story.append(Spacer(1, 5))
-    story.append(Paragraph("AI generated review draft. Quoted italic text requires independent student review. "
-                           "Citations, exact prompt, and factual critique follow in the appendices. "
-                           "No team consensus is asserted.", styles["BriefSmall"]))
 
-story.append(PageBreak())
-story.append(Paragraph("References and source provenance", styles["BriefTitle"]))
-for p in sections["References"].strip().split("\n\n"):
-    if p.startswith("- "):
-        for line in p.splitlines():
-            story.append(Paragraph(inline(line[2:]), styles["BriefRef"]))
-    elif p.strip():
-        story.append(Paragraph(inline(p), styles["BriefRef"]))
+def table(block):
+    rows = [[c.strip() for c in line.strip().strip("|").split("|")]
+            for line in block.splitlines() if not re.match(r"^\|\s*-", line)]
+    data = [[Paragraph(inline(c), CELL_B if r == 0 or i == 0 else CELL) for i, c in enumerate(row)]
+            for r, row in enumerate(rows)]
+    widths = [2.55 * inch] + [(7.1 - 2.55) / (len(rows[0]) - 1) * inch] * (len(rows[0]) - 1)
+    t = Table(data, colWidths=widths, hAlign="LEFT")
+    t.setStyle(TableStyle([
+        ("BACKGROUND", (0, 0), (-1, 0), colors.HexColor("#E6EBF0")),
+        ("LINEBELOW", (0, 0), (-1, 0), 0.6, colors.HexColor("#555555")),
+        ("LINEBELOW", (0, -1), (-1, -1), 0.6, colors.HexColor("#555555")),
+        ("ROWBACKGROUNDS", (0, 1), (-1, -1), [colors.white, colors.HexColor("#F5F7F9")]),
+        ("VALIGN", (0, 0), (-1, -1), "MIDDLE"),
+        ("TOPPADDING", (0, 0), (-1, -1), 1.6),
+        ("BOTTOMPADDING", (0, 0), (-1, -1), 1.6),
+    ]))
+    return [t, Spacer(1, 7)]
 
-story.append(PageBreak())
-story.append(Paragraph("AI disclosure and prompt record", styles["BriefTitle"]))
-disclosure = (ROOT / "06-ai-disclosure.md").read_text(encoding="utf-8")
-# Render Markdown tables as separate readable records rather than narrow PDF grids.
-for p in disclosure.split("\n\n"):
-    p = p.strip()
-    if not p or p.startswith("# AI use"):
-        continue
-    if p.startswith("## "):
-        style = ParagraphStyle("Subhead", parent=styles["BriefBody"], fontName="Helvetica-Bold",
-                               fontSize=12, leading=16, spaceBefore=12, keepWithNext=True)
-        story.append(Paragraph(inline(p[3:]), style))
-    elif p.startswith("|"):
-        for line in p.splitlines()[2:]:
-            fields = [v.strip() for v in line.strip("|").split("|")]
-            if fields and fields[0]:
-                story.append(Paragraph(inline(" - ".join(v for v in fields if v)), styles["BriefRef"]))
-    elif p.startswith(">"):
-        # Preserve the exact prompt's words and paragraph breaks.
-        for q in p.split("\n>\n"):
-            q = "\n".join(re.sub(r"^> ?", "", line) for line in q.splitlines())
-            if q.strip():
-                story.append(Paragraph(escape(q).replace("\n", "<br/>"), styles["BriefRef"]))
-    elif re.match(r"\d+\. ", p):
-        for line in p.splitlines():
-            story.append(Paragraph(inline(line), styles["BriefRef"]))
-    else:
-        story.append(Paragraph(inline(p.replace("\n", " ")), styles["BriefRef"]))
 
-def footer(canvas, doc):
-    canvas.saveState()
-    canvas.setFont("Helvetica", 8)
-    canvas.drawString(0.7*inch, 0.38*inch, "Russia team preparation | Review draft | 10 November 2026")
-    canvas.drawRightString(7.8*inch, 0.38*inch, str(doc.page))
-    canvas.restoreState()
+def build():
+    text = SOURCE.read_text(encoding="utf-8")
+    story = []
+    first_section = True
+    for block in re.split(r"\n\s*\n", text.strip()):
+        block = block.strip()
+        if block.startswith("# "):
+            story.append(Paragraph(inline(block[2:]), TITLE))
+        elif block.startswith("## "):
+            if not first_section:
+                story.append(PageBreak())
+            first_section = False
+            story.append(Paragraph(inline(block[3:]), H2))
+        elif block.startswith("|"):
+            story.extend(table(block))
+        elif re.match(r"\d+\. ", block):
+            for line in block.splitlines():
+                num, rest = line.split(". ", 1)
+                story.append(Paragraph(f"[{num}] " + inline(rest), REF))
+        elif len(story) == 1:
+            story.append(Paragraph(inline(block), SUB))
+        else:
+            story.append(Paragraph(inline(block.replace("\n", " ")), BODY))
 
-doc = SimpleDocTemplate(str(OUTPUT), pagesize=(8.5*inch, 11*inch),
-                        rightMargin=0.7*inch, leftMargin=0.7*inch,
-                        topMargin=0.62*inch, bottomMargin=0.65*inch,
-                        title="Russia national innovation strategy review draft",
-                        author="Prepared with ChatGPT for team review")
-doc.build(story, onFirstPage=footer, onLaterPages=footer)
-print(OUTPUT)
+    def footer(canvas, doc):
+        canvas.saveState()
+        canvas.setFont("Helvetica", 8)
+        canvas.drawString(0.7 * inch, 0.4 * inch, "Team 2 | Russia | Strategy brief")
+        canvas.drawRightString(7.8 * inch, 0.4 * inch, str(doc.page))
+        canvas.restoreState()
+
+    doc = SimpleDocTemplate(str(OUTPUT), pagesize=(8.5 * inch, 11 * inch),
+                            leftMargin=0.7 * inch, rightMargin=0.7 * inch,
+                            topMargin=0.55 * inch, bottomMargin=0.65 * inch,
+                            title="Russia: National Innovation Strategy Brief",
+                            author="Team 2 (Russia)")
+    doc.build(story, onFirstPage=footer, onLaterPages=footer)
+    return OUTPUT
+
+
+if __name__ == "__main__":
+    print(build())

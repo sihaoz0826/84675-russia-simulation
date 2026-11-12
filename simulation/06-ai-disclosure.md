@@ -1,6 +1,6 @@
 # AI use disclosure and prompt record
 
-Prepared November 10, 2026. This appendix implements the designated syllabus's p. 6 disclosure requirement. It is part of the first draft, not proof of completed student review.
+Record of generative-AI use in preparing this packet, kept for the team's disclosure to the instructor (syllabus p. 6). This file is not part of the submitted brief; per the team's decision, AI use is disclosed to the instructor by email rather than marked inside the brief.
 
 ## Tool and scope
 
@@ -39,11 +39,11 @@ No separate human revision prompt was supplied during the initial drafting turn.
 | AI-9 | Gameplay record | Created blank evidence and report-planning templates. No outcomes were generated. |
 | AI-10 | README, references, and this appendix | Organized requirements, source citations, date conflicts, navigation, and disclosure language. |
 
-The assignment-facing substantive paragraphs are enclosed in quotation marks and italicized. This is deliberate compliance with the policy for copied substantive AI output. Internal planning tables are also generated material: if copied into an assessed submission, cite the relevant instance and apply the required distinguishing format there as well. Independently rewriting a section does not erase the fact that AI contributed to drafting; describe its role accurately in the final disclosure.
+Instances AI-1 to AI-5 were substantially rewritten in the November 12 revision below; quotation marks and italics were removed from the brief at the team's request, with disclosure handled by email.
 
 ## Factual critique of the draft
 
-1. **Unknown mechanics limit optimization.** The 45/15/10/10/20 plan is a proposed starting mix. The PDFs omit prices, starting W, score weights, success odds, migration calculations, and exact threshold timing. No optimality proof or executable opening order is claimed.
+1. **Unknown mechanics limit optimization.** The opening allocation (45/15/10/10/20 in the first draft; 45/20/15/0/20 after revision) is a proposed starting mix. The PDFs omit prices, starting W, score weights, success odds, migration calculations, and exact threshold timing. No optimality proof or executable opening order is claimed.
 2. **The provided instructions contain conflicts.** The designated syllabus and saved announcements differ on dates and research sources. PREP and RULES differ on round count, and RULES contains ambiguous wording about unlocks, categories, and critical espionage. The packet records the conflicts instead of fabricating a resolution.
 3. **Sources have different status.** WIPO country PDFs are primary publications. The Factbook country pages used are independent reproductions after CIA retirement, not official current pages. The UK intelligence profile is an attributed government assessment. The EU publication establishes technology restrictions, not their precise innovation effects.
 4. **Historical observations are not game variables.** GDP at official exchange rates differs from PPP GDP. Neither directly generates the instructor's normalized W. Education-spending observations have different years and cannot establish education quality. GII rankings do not provide dice probabilities. Fixed 2025 GII comparisons are not labeled latest 2026 rankings.
@@ -62,3 +62,24 @@ Complete these entries after the team's actual work. Do not replace blanks with 
 | Steve | | |
 
 For every later AI-assisted revision, append the actual tool/date, exact prompt, affected section, what was retained, and any corrections made after checking evidence. Do not claim the first prompt covers later interactions that have not been logged.
+
+## Revision of November 12, 2026
+
+**Tool:** Anthropic Claude (Claude Code, model Claude Opus 5.5), November 12, 2026.
+
+**Exact prompt:**
+
+> Okay, so how about you review um, the thing that we wrote and you can you have the ultimate freedom to revise anything that you think doesn't really make sense. um, And also you can just come in and push after you revise everything. And for the report, don't write that things are AI generated for now. I will include it in the email that I sent to the professor.
+
+**What it did:** Reviewed the packet against the syllabus, both simulation PDFs, and the instructor's announcements; re-verified statistics against WIPO GII 2025 country profiles, archived Factbook data, NSF Science and Engineering Indicators 2025 (Table DISC-10), the EU export-restrictions FAQ, the UK GRU profile, and an Interfax report. It rewrote the strategy brief (assessment, all three czar sections, executive section, references), rewrote the PDF build script, and updated the READMEs, research notes, playbook, meeting agenda, and gameplay template.
+
+**Substantive corrections made:**
+
+1. The first draft ignored Russia's listed strength, "late-game disruptive potential" (RULES p. 2), and said no such mechanic existed. The revised strategy builds toward a bounded H position by Round 3.
+2. The rules list the United States and France as "more vulnerable to espionage." The revision names them as espionage targets and notes that a critical success's payoff grows each round, so espionage starts at 0% and grows from Round 2-3.
+3. The voting rule was moved out of the one-page country assessment into the executive section; a comparative indicator table was added to the assessment.
+4. Added verified comparative data: GII pillar ranks for all four countries, Russia's GII decline (45th in 2021 to 60th in 2025), R&D intensity (NSF), and the 2022 IT-specialist emigration figure.
+5. Round 1 allocation changed from 45/15/10/10/20 (L/BR/SE/TE/save) to 45/20/15/0/20 (L/BR/education/espionage/save); education is bought where K per point is highest because TE's visitor benefit does not apply while immigration is closed.
+6. Removed unsourced claims and conflicting deadline guidance; the instructor's final update (brief due November 15) is used.
+
+**Factual critique of this revision:** Russia's R&D figure is for 2020 (its latest year in the NSF table) while rivals' are for 2021-2022. The Factbook figures come from an independent mirror of archived data. The meaning of "late-game disruptive potential" and the score formula are not specified in the rules, so the H timing and reserve share remain judgment calls. The consensus sentence in the executive section is left for the team to complete; no team agreement was invented.

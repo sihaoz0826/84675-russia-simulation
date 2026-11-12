@@ -1,10 +1,10 @@
 # Russia game playbook
 
-Internal working proposal for Steve, Gloria, and Tiger. This is AI-assisted preparation [AI-7], not a record of adopted decisions. G1 and G2 refer to the supplied RULES and PREP PDFs.
+Internal working proposal for Steve, Gloria, and Tiger; not part of the submitted brief. G1 and G2 refer to the supplied RULES and PREP PDFs. The strategy matches the brief: build early points and capabilities, then break out late.
 
 ## Opening objective
 
-Produce feasible technology points early, use Russia's +7 starting TK, and preserve enough wealth to retain flexibility and score value. Compare opportunities by marginal contribution to the actual final score. Do not equate the highest potential prize with the highest expected return.
+Produce feasible technology points early, use Russia's +7 starting TK, build BR toward M/H eligibility so we can use Russia's listed "late-game disruptive potential," and preserve enough wealth to retain flexibility and score value. The final score rewards distance traveled, which favors the lowest-starting country. Compare opportunities by marginal contribution to the actual final score. Do not equate the highest potential prize with the highest expected return.
 
 The opening allocation below is a reasonable discussion default, not a mathematically established optimum. Missing costs, thresholds, and score weights could change it substantially.
 
@@ -15,14 +15,13 @@ Apply these shares to the **newly issued budget** of 2 x W, before considering s
 | Use | Share of new budget | Purpose | Adjustment condition |
 | --- | --- | --- | --- |
 | L applied research | 45% | Begin earning TPs using existing capability | Increase if education or BR cannot make a useful difference at current prices. |
-| Basic research | 15% | Useful private TK and movement toward a reachable unlock | Reduce if neither benefit changes feasible research enough to justify cost. |
-| Secondary education | 10% | Improve domestic K | Compare with TE; buy the better affordable upgrade rather than split mechanically. |
-| Tertiary education | 10% | Improve research talent and potentially attraction | Verify IM interaction and payback before prioritizing it. |
-| Espionage | 0% | Avoid purchasing an unpriced lottery by default | Consider up to a 10-percentage-point transfer from AR only if its marginal score return is better. |
+| Basic research | 20% | Reach M/H thresholds; earn private TK | Track rivals' public BR (counts at 1/2) and buy only what crosses the next threshold. |
+| Education (SE or TE) | 15% | Improve K, which raises every later BR/AR success rate | Buy whichever gives more K per point; with IM closed, TE's visitor benefit does not apply. Taper after Round 2. |
+| Espionage | 0% | Nothing worth stealing yet: a critical success copies TPs accumulated since game start | From Round 2-3, 10-15% against the US and France (the rules' espionage-vulnerable countries). |
 | Save | 20% | Retain wealth and flexibility | Raise or lower once interest, score weights, and conversion rules are known. |
 | Immigration/security | Closed initially | Retain stated defensive benefit | Open when verified net K gain and score benefit exceed increased exposure. |
 
-**Illustrative arithmetic only:** If the new budget were 20 points and every purchase cost one point, this plan would put 9 into AR-L, 3 into BR, 2 into SE, 2 into TE, and retain 4. The total is 20. Russia's actual budget and prices are unknown, so this is not the country's opening order.
+**Illustrative arithmetic only:** If the new budget were 20 points and every purchase cost one point, this plan would put 9 into AR-L, 4 into BR, 3 into education, and retain 4. The total is 20. Russia's actual budget and prices are unknown, so this is not the country's opening order.
 
 For another budget B, compute the target shares, then use the actual budget counter to choose integer legal purchases. Preserve affordability and useful threshold crossings over precise percentages. Leave any unusable remainder unspent. If no research purchase is productive or legal, do not buy one merely to follow the default.
 
@@ -66,7 +65,8 @@ For savings, identify how a retained spending point becomes scored wealth and wh
 | --- | --- | --- |
 | Game might end after only a few rounds | Keep early AR returns; avoid upgrades whose benefits arrive too late | Instructor confirms a longer minimum horizon or powerful immediate upgrade effect. |
 | M becomes eligible | Compare marginal score return with L and saving | Poor odds, expensive units, or insufficient time can favor L. |
-| H becomes eligible and the instructor confirms its rules | Use a bounded position only if its value and risk fit the score situation | Already competitive score, low odds, or an unaffordable commitment favors restraint. |
+| H becomes eligible and the instructor confirms its rules | Open a bounded H position by Round 3 to use Russia's late-game disruptive potential; keep an L floor | Already competitive score, low odds, or an unaffordable commitment favors restraint. |
+| Round 2 or later | Begin SP against the US and/or France; use ordinary successes to learn which category to target | Repeat-copy limits, high price, or a critical failure (exposure) argue for pausing. |
 | Rival BR rises | Recalculate our effective BR and own-TK needs | Spillover may reduce our next necessary BR purchase; do not erase private TK value. |
 | Education would cross a material threshold | Consider a larger one-time investment | Too few remaining productive attempts can make it uneconomic. |
 | Net modeled talent flow worsens | Compare both IM settings and university upgrade | Closure may only provide defense; do not assume it stops outflow. |
@@ -77,10 +77,10 @@ For savings, identify how a retained spending point becomes scored wealth and wh
 
 ## Rival assessment without invented intelligence
 
-- **United States:** A strong-budget rival and possible talent attractor. Its applied allocations are secret. High W alone does not tell us which category to target.
+- **United States:** A strong-budget rival, strongest TE, and listed as more vulnerable to espionage. Its applied allocations are secret; use an ordinary SP success to learn which category to target.
 - **China:** Strong education base and population scaling. Expensive SE improvement and poor ability to benefit from inflow constrain some choices. Do not infer its exact AR effort from population.
-- **France:** Starts with +4 TK and inexpensive SE upgrades but lower W. Its open posture creates a possible intelligence opportunity; verify modifiers and actual program value.
-- **Russia:** Our visible small budget encourages rivals to underestimate the starting TK advantage, but there is no supplied rule giving an automatic surprise or disruption bonus. Avoid presenting rhetoric as a mechanic.
+- **France:** Starts with +4 TK and inexpensive SE upgrades but lower W. The rules list it as more vulnerable to espionage; verify modifiers and actual program value.
+- **Russia:** Our visible small budget encourages rivals to underestimate the starting TK advantage. The rules list "late-game disruptive potential" as a Russian strength but do not say how it works; ask the instructor before relying on it.
 
 Record intelligence as **public**, **our private observation**, **spy-derived**, or **hypothesis**. Never silently promote a hypothesis into a known rival score.
 
@@ -103,6 +103,7 @@ Between rounds: 1 minute log results; 1 minute assess changes in public informat
 7. How exactly is half-strength foreign BR aggregated and timed? Does foreign investment ever supply our TK? The text currently says only the investor earns it.
 8. What does an espionage target mean: country, program, or country-category pair? How many attempts are allowed per target? What is subtracted from a critical payoff, and can the same historical TPs be copied more than once?
 9. Does changing IM cost any spending points despite costing zero dice? How do openness, W, TE, outflow, and defense interact?
-10. Confirm the active brief deadline, submission time and method, game dates, and final-report deadline given the syllabus/announcement differences.
+10. What does Russia's "late-game disruptive potential" mean mechanically (e.g., a bonus on H rolls, cheaper H, or a later-round modifier)?
+11. Does closed immigration reduce talent outflow, or only provide the espionage defense?
 
 Resolve questions through the leader's rules conversation or class clarification; no message has been sent on the team's behalf.

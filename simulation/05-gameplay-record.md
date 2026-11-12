@@ -1,6 +1,6 @@
 # Gameplay evidence and final report workspace
 
-Blank preparation template [AI-9]. No gameplay or team debate is represented as having occurred. Complete it with observations during and after the simulation. Keep it separate from the pre-simulation submission.
+Blank template. No gameplay or team debate is represented as having occurred. Complete it with observations during and after the simulation. Keep it separate from the pre-simulation submission.
 
 ## Starting record
 
@@ -95,7 +95,7 @@ Do not infer an official score from raw TPs if wealth and improvement also count
 
 ## Final report outline to complete after play
 
-The syllabus calls for a **2-3 page team report**, with labor divided equally. The benchmark due date is November 30; the saved November 4 announcement moves it to December 2. Confirm the active instruction. The outline below maps directly to syllabus p. 4.
+The syllabus calls for a **2-3 page team report**, with labor divided equally. Due December 2 per the instructor's final syllabus update. The outline below maps directly to syllabus p. 4.
 
 1. **How gameplay unfolded at each stage.** Explain the actual opening and subsequent stages, using the timeline. Record decisive outcomes and distinguish intended effects from luck. Do not retell every dice roll if it did not affect the argument.
 2. **Beliefs about relative progress.** Describe what the team thought about Russia's position at each stage, what information supported that belief, and how confidence changed. Separate what was known then from what became visible at the end.

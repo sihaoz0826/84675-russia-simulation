@@ -1,6 +1,6 @@
 # Research and evidence for the Russia brief
 
-Prepared November 10, 2026. This register supports the assignment draft; it is not an additional required portfolio report. Source IDs correspond to the bibliography in [01-strategy-brief.md](01-strategy-brief.md). AI generated this research synthesis [AI-6]; verify any text copied into the submission and preserve the disclosure.
+Internal research notes supporting the brief; not part of the submission. Numbered references [1]-[8] match the bibliography in [01-strategy-brief.md](01-strategy-brief.md). Notes below use the older labels R1-R4 (Factbook mirrors = [1]), R5-R8 (WIPO = [2]), R9 (EU = [4]), R10 (UK GRU profile = [5]), C1 (Gilli and Gilli = [7]), and G1/G2 (RULES/PREP = [8]).
 
 ## Evidence standard
 
@@ -15,7 +15,16 @@ The benchmark data are historical observations with explicit years, not estimate
 | Indicator | Russia | United States | China | France | Source and interpretation |
 | --- | --- | --- | --- | --- | --- |
 | Education expenditure as share of GDP | 4.2%, 2023 | 5.4%, 2021 | 4.0%, 2023 | 5.3%, 2022 | R1-R4; mixed years prevent a clean same-year comparison. |
-| Overall GII position, fixed 2025 edition | 60 | 3 | 10 | 13 | R5-R8, p. 1; lower rank number means higher index position, not a game success probability. |
+| Overall GII position, fixed 2025 edition | 60 | 3 | 10 | 13 | WIPO profiles p. 1; lower rank number means higher index position, not a game success probability. |
+| GII innovation inputs / outputs rank | 73 / 55 | 6 / 3 | 19 / 5 | 18 / 12 | WIPO profiles p. 1. Russia converts inputs to outputs better than its input rank implies. |
+| GII human capital and research rank | 28 | 13 | 20 | 15 | WIPO profiles p. 5. Russia's best pillar. |
+| GII institutions rank | 131 | 16 | 44 | 33 | WIPO profiles p. 5. Russia's worst pillar. |
+| GII knowledge and technology outputs rank | 62 | 3 | 1 | 15 | WIPO profiles p. 5. |
+| R&D spending (GERD), % of GDP | 1.10 (2020) | 3.59 (2022) | 2.56 (2022) | 2.22 (2021) | NSF Science and Engineering Indicators 2025, Table DISC-10 [3]. Russia's latest reported year is 2020. |
+| Real GDP, PPP, 2024 | $6.089T | $25.676T | $33.598T | $3.732T | Factbook mirror [1]. The game's normalized W is set by the instructor, not by these figures. |
+| Net migration per 1,000, 2025 est. | +0.76 | +2.54 | -0.11 | +1.06 | Factbook mirror [1]. Aggregate figure; does not measure skilled flows. |
+
+Russia's GII trend: 45th (2021), 47th (2022), 51st (2023), 59th (2024), 60th (2025) (WIPO Russia profile p. 1).
 
 The Russian educational figures and WIPO pillar comparison are set out in the one-page assessment, rather than repeated here as a second body of purportedly independent evidence. WIPO's profile identifies relative human-capital strength and institutional weakness; interpreting that gap as a reason to coordinate education, research, and application is our analytical inference. It is not a demonstrated causal estimate.
 
@@ -27,7 +36,7 @@ The Russian educational figures and WIPO pillar comparison are set out in the on
 
 **Intelligence:** The UK government's [GRU profile](https://www.gov.uk/government/publications/profile-gru-cyber-and-hybrid-threat-operations/profile-gru-cyber-and-hybrid-threat-operations), **R10**, describes Russian military intelligence cyber and hybrid operations. This is an attributed UK government assessment, not a neutral measurement of all Russian intelligence activity or of successful commercial technology acquisition. It establishes a relevant state intelligence capability; it supplies no numerical justification for an espionage-heavy game allocation.
 
-**Immigration:** The archive's aggregate migration balance is not a skilled-worker series. We do not have verified current scientist-specific inflow/outflow numbers or a complete account of Russian immigration law. Avoid claiming that Russia prohibits immigration, that every emigrant is a scientist, or that game closure can prevent brain drain. The game compresses immigration and research security into one binary variable; real countries have multiple visa, research, and security policies. The brief's provisional closed posture follows the game starting conditions, rather than an asserted empirical immigration model.
+**Immigration:** The archive's aggregate migration balance is not a skilled-worker series. The best skilled-flow figure we found is the Russian digital development minister's December 2022 statement that about 100,000 IT specialists (roughly 10% of the sector) left in 2022 ([Interfax](https://interfax.com/newsroom/top-stories/86316/)); independent industry estimates were higher. We do not have verified current scientist-specific inflow/outflow numbers or a complete account of Russian immigration law. Avoid claiming that Russia prohibits immigration, that every emigrant is a scientist, or that game closure can prevent brain drain. The game compresses immigration and research security into one binary variable; real countries have multiple visa, research, and security policies. The brief's provisional closed posture follows the game starting conditions, rather than an asserted empirical immigration model.
 
 ## Comparative game assessment
 
@@ -36,12 +45,14 @@ All entries here are from G1 p. 2, not inferred from real-world statistics. The 
 | Dimension | Russia | United States | China | France | Implication for our strategy |
 | --- | --- | --- | --- | --- | --- |
 | Wealth and budget | Lowest W | Highest W | No exact W supplied | Lower starting W | Avoid broad spending races; use the actual country sheet. |
+| Listed special strength | Late-game disruptive potential | Highest W; strongest TE | Large-population SE scaling; strong SE and TE | +4 TK; cheap SE | Russia's listed strength points toward a late M/H breakout. Ask how it is implemented. |
+| Espionage exposure | Closed (slight defensive bonus) | Listed "more vulnerable to espionage" | Closed | Listed "more vulnerable to espionage" | The US and France are the natural SP targets. |
 | Secondary education | No relative level or cost given | Weak starting SE | Strong SE; population scaling, but expensive | Cheap SE improvements | Compare Russia's actual costs before copying any rival. |
 | Tertiary education | No exact starting level given | Strongest starting TE | Strong starting TE | No relative TE level given | Test next-upgrade benefit and talent-flow effect. |
 | Basic research | Foreign BR contributes at half strength; own BR earns TK | Same stated public mechanism | Same | Same | Use spillovers without assuming they replace private learning. |
 | Tacit knowledge | +7 starting bonus | Not specified | Not specified | +4 starting bonus | Russia has an explicit legacy advantage, not guaranteed superiority in every technology. |
 | Applied research | L initially available; potential later opportunities | Same path framework | Same | Same | No automatic M/H access from TK alone. |
-| Immigration and security | Closed; talent-outflow vulnerability | Open; talent reliance and espionage vulnerability | Closed; difficult to benefit from inflow | Open; espionage vulnerability | Model the net change before altering IM. |
+| Immigration and security | Closed; talent-outflow vulnerability | Open; high IM reliance | Closed; difficult to benefit from inflow | Open | Inflow depends on W and relative TE, so openness helps Russia least. Stay closed. |
 
 ## Rules audit
 
