@@ -4,26 +4,23 @@ Blank template. No gameplay or team debate is represented as having occurred. Co
 
 ## Starting record
 
-- Simulation date and round rules confirmed by instructor: ____________________
-- Official final-score formula: ____________________
-- Baseline used for distance traveled: ____________________
-- Timing of education, research, migration, and interest effects: ____________________
-- Adopted team decision rule: ____________________
-- Opening strategy and reason, recorded before seeing results: ____________________
+Official starting values from the rulebook (p. 5) and the portal example. Check them against the portal on Day 1.
 
-| Starting variable | Official value | Where recorded or confirmed |
+- Score formula (rulebook p. 14): (L TP + 2 x M TP + 3 x H TP) x (1 + 0.2 ln(1 + TK)) + 2 x sqrt(W)
+- Adopted team decision rule: ____________________
+- Round 1 plan and reason, recorded before seeing results: ____________________
+
+| Starting variable | Russia (rulebook) | Confirmed on portal? |
 | --- | --- | --- |
-| W | | |
-| New budget 2 x W | | |
-| Carried spending reserve | | |
-| TP baseline | | |
-| SE and TE | | |
-| K | | |
-| TK | | |
-| Own BR and effective BR | | |
-| Legal AR categories | | |
-| IM and security modifier | | |
-| Prices, caps, and success thresholds | | |
+| W / dice per round | 4 / 8 | |
+| K | 5.0 | |
+| TK | 7 | |
+| TP (L / M / H) | 0 / 0 / 0 | |
+| Own BR / effective BR | 0 / 0 | |
+| Borders / regime | Closed (0) / auto | |
+| Talent flow | 0.60 | |
+| SE cost and gain; TE gain | 1 die, +0.87 K; 1 die, +1 K (closed) | |
+| Rivals' W, K, borders | US 6, 6.0, open; China 5, 7.0, closed; France 4, 6.0, open | |
 
 ## Copy this section once per round
 
@@ -50,10 +47,9 @@ Blank template. No gameplay or team debate is represented as having occurred. Co
 | SP target 1 | | | | |
 | SP target 2 | | | | |
 
-- Opening W: ______ Newly issued points: ______ Carried reserve: ______ Interest already credited: ______
-- Available points: ______ Spending total: ______ Unspent remainder: ______ Second checker: ______
-- IM selected: ______ Rule on its cost confirmed: ______
-- Exact order submitted and submission time: ____________________
+- W at start of round: ______ Dice (2 x W): ______ Dice spent: ______ Dice saved (2/3 becomes W next round): ______ Second checker: ______
+- Borders: ______ Talent flow number shown: ______
+- Exact order and the 1-2 sentence reason submitted: ____________________
 
 | Result | Observed value or change | Evidence and visibility |
 | --- | --- | --- |
@@ -66,7 +62,7 @@ Blank template. No gameplay or team debate is represented as having occurred. Co
 | New AR eligibility | | |
 | Talent flow | | |
 | Espionage result and exposure | | |
-| Remaining reserve and next W | | |
+| Next W and dice | | |
 | Rival information | | |
 
 - What happened differently from our prediction: ____________________
@@ -84,14 +80,14 @@ Add rows for the rounds that actually occur.
 
 ## Final result record
 
-| Team | Starting TPs | Final TPs | Scored wealth | Distance-traveled component | Official total score | Rank | Source |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| Russia | | | | | | | |
-| United States | | | | | | | |
-| China | | | | | | | |
-| France | | | | | | | |
+| Team | Final TP (L/M/H) | Final TK | Final W | Official total score | Rank | Source |
+| --- | --- | --- | --- | --- | --- | --- |
+| Russia | | | | | | |
+| United States | | | | | | |
+| China | | | | | | |
+| France | | | | | | |
 
-Do not infer an official score from raw TPs if wealth and improvement also count. Keep unknown rival data blank. Record the instructor's final scoring method, including any tie decision.
+Do not infer an official score from raw TPs; levels are weighted, multiplied by TK, and wealth adds a bonus. Keep unknown rival data blank. Record the instructor's final scoring method, including any tie decision.
 
 ## Final report outline to complete after play
 

@@ -1,109 +1,81 @@
 # Russia game playbook
 
-Internal working proposal for Steve, Gloria, and Tiger; not part of the submitted brief. G1 and G2 refer to the supplied RULES and PREP PDFs. The strategy matches the brief: build early points and capabilities, then break out late.
+Internal working plan for Steve, Gloria, and Tiger; not part of the submitted brief. Based on the [GTC rulebook](game-materials/GTC_Rulebook.pdf), the [briefing video](game-materials/briefing-video-transcript.md), and the [portal example](game-materials/portal-example.pdf). Page numbers refer to the rulebook. The strategy matches the brief: **save, then strike**.
 
-## Opening objective
+## Russia at the start (p. 5; portal example)
 
-Produce feasible technology points early, use Russia's +7 starting TK, build BR toward M/H eligibility so we can use Russia's listed "late-game disruptive potential," and preserve enough wealth to retain flexibility and score value. The final score rewards distance traveled, which favors the lowest-starting country. Compare opportunities by marginal contribution to the actual final score. Do not equate the highest potential prize with the highest expected return.
+| W | Dice per round | K | TK | Borders | Regime | SE cost | SE gain | TE gain | Talent flow |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 4 | 8 | 5.0 | 7 | Closed (0) | auto | 1 | +0.87 K | +1 K closed (+2 open) | 0.60 |
 
-The opening allocation below is a reasonable discussion default, not a mathematically established optimum. Missing costs, thresholds, and score weights could change it substantially.
+Rivals: US W 6 (12 dice), K 6, TK 0, open, demo, flow 1.79. China W 5 (10 dice), K 7, TK 0, closed, auto, SE costs 3, flow 1.02. France W 4 (8 dice), K 6, TK 4, open, demo, flow 0.60. Every team sees all W, K, borders, and BR totals; TK and TP are private (portal shows "?").
 
-## Round 1 allocation proposal
+## The rules that drive our plan
 
-Apply these shares to the **newly issued budget** of 2 x W, before considering spending an existing reserve. IM is a separate policy choice. There is no requirement to spend a fixed fraction on every category.
-
-| Use | Share of new budget | Purpose | Adjustment condition |
-| --- | --- | --- | --- |
-| L applied research | 45% | Begin earning TPs using existing capability | Increase if education or BR cannot make a useful difference at current prices. |
-| Basic research | 20% | Reach M/H thresholds; earn private TK | Track rivals' public BR (counts at 1/2) and buy only what crosses the next threshold. |
-| Education (SE or TE) | 15% | Improve K, which raises every later BR/AR success rate | Buy whichever gives more K per point; with IM closed, TE's visitor benefit does not apply. Taper after Round 2. |
-| Espionage | 0% | Nothing worth stealing yet: a critical success copies TPs accumulated since game start | From Round 2-3, 10-15% against the US and France (the rules' espionage-vulnerable countries). |
-| Save | 20% | Retain wealth and flexibility | Raise or lower once interest, score weights, and conversion rules are known. |
-| Immigration/security | Closed initially | Retain stated defensive benefit | Open when verified net K gain and score benefit exceed increased exposure. |
-
-**Illustrative arithmetic only:** If the new budget were 20 points and every purchase cost one point, this plan would put 9 into AR-L, 4 into BR, 3 into education, and retain 4. The total is 20. Russia's actual budget and prices are unknown, so this is not the country's opening order.
-
-For another budget B, compute the target shares, then use the actual budget counter to choose integer legal purchases. Preserve affordability and useful threshold crossings over precise percentages. Leave any unusable remainder unspent. If no research purchase is productive or legal, do not buy one merely to follow the default.
-
-## Budget accounting
-
-Use separate entries until the game sheet clarifies conversion:
-
-- W_t: instructor-reported normalized national wealth for round t.
-- N_t = 2 x W_t: newly issued spending points.
-- C_t: carried spending-point reserve, as reported by the sheet after any credited interest.
-- A_t = N_t + C_t: available points, only if this is how the instructor's counter combines them.
-- S_t = sum of actual price times legal units bought in each category.
-- U_t = A_t - S_t: unspent spending points, required to be nonnegative.
-
-Do not add interest twice. Do not count U_t as a second W_t or assume that a larger U_t increases next round's income. Record both wealth and reserve until their relationship is known. Use only the official sheet to calculate the final score.
-
-## Decision sequence before submitting an order
-
-1. Read actual W, starting K/TK/BR/TP, carryover, IM, costs, and legal categories from the sheet. Take the TP baseline from the initial sheet, not from a remembered estimate.
-2. Identify the next useful BR and education thresholds and whether purchases affect this round or a later round.
-3. Allocate an affordable AR-L core if it has positive marginal value. Protect enough points for a more valuable threshold purchase if warranted.
-4. Compare the next SE unit, TE unit, own BR unit, AR unit, espionage attempt, and retained point. Explain the comparison in the decision log.
-5. Check the IM choice with Tiger and Gloria together. Select any espionage targets only after checking their eligibility and the maximum of two.
-6. Steve reads back the full order; another member checks the total cost and legality. Record the vote and dissent before submission.
-
-## Comparing returns when the formulas are available
-
-For an applied-research option i, let p_i be its stated success probability, v_i its TP payout, and c_i its price. A starting comparison is p_i x v_i / c_i. This is not a complete score formula and ignores variance, interactions, thresholds, and changing future income. Convert the expected TP gain to final-score units before comparing it with saving.
-
-For an education upgrade, compare the total increase in expected research earnings over the remaining plausible rounds with its cost and the score value of saving that cost. The gain is based on the difference between success probabilities with and without the upgrade, not the full research payoff. Include verified talent changes once, not both as an education gain and a second immigration gain.
-
-For BR, add only benefits the model actually gives: better eligibility, research probabilities through TK if applicable, and future opportunities. Do not count public BR as direct TP earnings unless the sheet explicitly awards them. Do not assume that same-round foreign BR can meet an opening eligibility test.
-
-For espionage, combine the probability and value of a critical technology award with the value of an ordinary information success, then subtract known failure costs. If the information does not change a future decision, its direct decision value may be small. The critical-award base must follow the instructor's subtraction and repeat-copy rules.
-
-For savings, identify how a retained spending point becomes scored wealth and what interest it earns. Without the score equation, "20% reserve" is a provisional risk choice, not a calibrated optimum.
-
-## Strategy after Round 1
-
-| Situation | Response | Reason to reconsider |
+| Rule | Number | What it means for Russia |
 | --- | --- | --- |
-| Game might end after only a few rounds | Keep early AR returns; avoid upgrades whose benefits arrive too late | Instructor confirms a longer minimum horizon or powerful immediate upgrade effect. |
-| M becomes eligible | Compare marginal score return with L and saving | Poor odds, expensive units, or insufficient time can favor L. |
-| H becomes eligible and the instructor confirms its rules | Open a bounded H position by Round 3 to use Russia's late-game disruptive potential; keep an L floor | Already competitive score, low odds, or an unaffordable commitment favors restraint. |
-| Round 2 or later | Begin SP against the US and/or France; use ordinary successes to learn which category to target | Repeat-copy limits, high price, or a critical failure (exposure) argue for pausing. |
-| Rival BR rises | Recalculate our effective BR and own-TK needs | Spillover may reduce our next necessary BR purchase; do not erase private TK value. |
-| Education would cross a material threshold | Consider a larger one-time investment | Too few remaining productive attempts can make it uneconomic. |
-| Net modeled talent flow worsens | Compare both IM settings and university upgrade | Closure may only provide defense; do not assume it stops outflow. |
-| Rival category has a large verified historic payoff | Evaluate a targeted SP attempt | Unverified category, repeat-copy limits, high price, or low critical odds can reverse the case. |
-| Spy attempt is exposed | Recalculate target and retaliation assumptions | Do not invent sanctions or diplomatic penalties that the rules do not implement. |
-| Results fall below expectations | Check whether failure is random or a mistaken model assumption | A single bad roll does not prove a sound allocation was wrong. |
-| Final round announced | Compare immediate expected final-score gains with keeping wealth | Do not automatically spend all reserves; unspent wealth is itself rewarded. |
+| Score (p. 14) | (L TP + 2 M TP + 3 H TP) x (1 + 0.2 ln(1 + TK)) + 2 x sqrt(W) | TP at M and H dominate. TK multiplies everything. Wealth is only a small bonus (W 16 adds 8). |
+| Saving (p. 13) | 2/3 of unspent dice adds to W next round; budget = 2W | Each saved die = 4/3 extra dice in **every** later round. Saving 75% of the budget doubles W. Savings in the (secret) last round are lost. |
+| AR cost (p. 8) | 1, 1, 2, 2, 3, 3 within a round, reset each round; max 3 L, 2 M, 1 H | Always buy the two 1-die slots. All six dice cost 12. |
+| AR payoffs (p. 9-10) | L: 5/6 succeed, 2 TP (75%) or 1. M (BR eff 8): 1/2 succeed, 6 or 2; P(6) 30% at TK 0 to 90% at TK 15. H (BR eff 20): 1/6 succeed, 36 or 1; P(36) 5% at TK 0 to 70% at TK 40 | Every AR die adds 1 TK, even if it fails. Locks: L at 10 TP, M at 20, H at 40. |
+| Talent limits (p. 9) | M: K < 7 means TK counts 10 lower. H: K < 12 or TK < 20 means TK counts 10 lower | Russia's K never reaches 7, so plan on TK - 10 at both M and H. |
+| Regime (p. 9) | Auto: BR successes x0.9, M/H successes x1.1 (rounded) | Small; only matters at 5+ successes in a round. |
+| BR (p. 9) | 1 die each, succeeds on 4-6; each success +1 BR and +1 TK; +K/10 bonus successes if you buy any BR. BR eff = own + 0.75 x all rivals' BR | Our K gives no bonus. Rivals' BR moves us toward unlocks for free; ours gives each rival 0.75. |
+| Talent flow (p. 12, 16) | K is multiplied by flow every round, after education | At 0.60, even 2 education dice/round hold K near 3. Opening does not change Russia's flow. |
+| Espionage (p. 11) | 1 die per spy, max 2. Roll +1 vs open target, -1 vs closed. Steal sets our TP at that level to the target's start-of-round TP if higher | Open target: steal 1/3, observe 1/6, caught 0 (L) / 1/6 (M) / 1/3 (H). Closed target (China): never steal. |
+| Round order (p. 6) | Immigration and education, talent flow, BR, AR, espionage | Same-round BR does not unlock M/H; the screen opens M/H boxes from start-of-round BR eff. |
+| Timing (p. 6) | Round 1: 20 min; later: 10 min. Must write 1-2 sentences of reasoning to submit | Late submission = nothing happens and nothing is saved. |
 
-## Rival assessment without invented intelligence
+## Expected points per AR die (Russia, K below 7 and 12)
 
-- **United States:** A strong-budget rival, strongest TE, and listed as more vulnerable to espionage. Its applied allocations are secret; use an ordinary SP success to learn which category to target.
-- **China:** Strong education base and population scaling. Expensive SE improvement and poor ability to benefit from inflow constrain some choices. Do not infer its exact AR effort from population.
-- **France:** Starts with +4 TK and inexpensive SE upgrades but lower W. The rules list it as more vulnerable to espionage; verify modifiers and actual program value.
-- **Russia:** Our visible small budget encourages rivals to underestimate the starting TK advantage. The rules list "late-game disruptive potential" as a Russian strength but do not say how it works; ask the instructor before relying on it.
+| Our TK | L | M (unweighted / weighted x2) | H (unweighted / weighted x3) |
+| --- | --- | --- | --- |
+| 10 | 1.46 | 1.6 / 3.2 | 0.5 / 1.4 |
+| 15 | 1.46 | 2.0 / 4.0 | 0.9 / 2.8 |
+| 25 | 1.46 | 2.8 / 5.6 | 1.9 / 5.6 |
+| 40 | 1.46 | 2.8 / 5.6 | 3.3 / 9.9 |
+| 50+ | 1.46 | 2.8 / 5.6 | 4.3 / 12.8 |
 
-Record intelligence as **public**, **our private observation**, **spy-derived**, or **hypothesis**. Never silently promote a hypothesis into a known rival score.
+Our TK counts 10 lower at M and H because K stays below 7 and 12. Once unlocked, M and H dice are worth roughly 4-9 times an L die, before the TK multiplier.
 
-## Ten-minute opening meeting and five-minute turns
+## Round-by-round plan
 
-PREP p. 2 allows ten minutes for the starting decision and five minutes between rounds. Have the brief reviewed beforehand.
+| Round | Dice (if plan followed) | Spend | Save | Why |
+| --- | --- | --- | --- | --- |
+| 1 | 8 | 2 L dice (2) | 6 | Two cheapest AR dice; nothing to steal yet; education drains; let rivals pay for BR. W 4 -> 8. |
+| 2 | 16 | 2 L dice (2), 2 spies at L on US and France (2) | 12 | Spies at L vs open targets are never caught. W 8 -> 16. |
+| 3 | 32 | BR to reach effective 8 (and toward 20), all affordable AR (M if open), 2 spies | Only what cannot be used well | Budget is now 4x the start. Begin converting wealth into M/H points. |
+| 4+ | 30+ | BR to reach 20 if needed, then 3 L + 2 M + 1 H every round (12 dice), 2 spies at M/H on whichever open rival shows high BR | Little | Max out the high-value levels before the unannounced end. |
 
-Opening: 2 minutes read country sheet and ask essential questions; 3 minutes compare the default with legal costs and thresholds; 2 minutes review immigration and any target; 2 minutes decide and check affordability; 1 minute submit and preserve the order.
+Adjust: if rivals' BR alone pushes our effective BR past 8 by Round 2, buy M in Round 2 with the two cheap slots. If the instructor hints the game is short, start spending in Round 2.
 
-Between rounds: 1 minute log results; 1 minute assess changes in public information and our beliefs; 2 minutes choose the marginal adjustments and vote; 1 minute check and submit. These are team time-management suggestions, not game rules.
+**Simulation check.** A Monte Carlo model of Russia's play under these rules (rivals reduced to a stream of 2-5 BR successes per round) gave these average scores:
 
-## Questions for the executive to resolve with the instructor
+| Policy | 3 rounds | 5 rounds | 7 rounds | 10 rounds |
+| --- | --- | --- | --- | --- |
+| Spend everything each round | 28-36 | 66-85 | 118-141 | 193-207 |
+| Save 75% in Rounds 1-2, then spend | 27 | 91-97 | 178 | 300-320 |
 
-1. Which round range applies: 3-7 or 5-10? Is the final round known before allocations?
-2. What are Russia's starting W, reserve, TP, K, TK, SE, TE, and BR, and all country-specific prices?
-3. What is the final-score formula, including wealth, distance traveled, and the starting baseline?
-4. How are savings, interest, W, and next-round income related? When is interest credited?
-5. What are the dice/roll thresholds and TP payouts? When do education, BR, TK, and migration changes take effect?
-6. What are the M/H BR prerequisites? Does "M and L" in the unlock sentence mean M and H?
-7. How exactly is half-strength foreign BR aggregated and timed? Does foreign investment ever supply our TK? The text currently says only the investor earns it.
-8. What does an espionage target mean: country, program, or country-category pair? How many attempts are allowed per target? What is subtracted from a critical payoff, and can the same historical TPs be copied more than once?
-9. Does changing IM cost any spending points despite costing zero dice? How do openness, W, TE, outflow, and defense interact?
-10. What does Russia's "late-game disruptive potential" mean mechanically (e.g., a bonus on H rolls, cheaper H, or a later-round modifier)?
-11. Does closed immigration reduce talent outflow, or only provide the espionage defense?
+Saving loses a little in a 3-round game and wins by a wide margin in anything longer. The model ignores espionage, which only helps the saving plan because large budgets make spies cheap.
 
-Resolve questions through the leader's rules conversation or class clarification; no message has been sent on the team's behalf.
+## Decision sequence each round (10 minutes)
+
+1. **Read logs (2 min).** Our TP, K, TK, W; public BR results; caught spies; rivals' W and borders.
+2. **Recommendations (3 min).** Tiger: talent flow number and whether education can cross K 7. Gloria: spy targets and levels; confirm borders closed. Steve: BR effective, unlocks, locks, AR plan.
+3. **Settle conflicts and saving (3 min).** Steve proposes the save amount; vote (two of three; Steve breaks ties).
+4. **Check and submit (2 min).** Second person checks the dice total and the 1-2 sentence reason; submit with time to spare.
+
+## Rival watch
+
+- **United States:** Biggest budget and growing talent (flow 1.79). Open, so it can be robbed. Likely the first to reach M and H. Primary spy target once its BR is high.
+- **France:** Same budget as us, TK 4, cheap education but draining talent. Open, so it can be robbed. Secondary target.
+- **China:** Close second in wealth, strong talent, closed. Cannot be robbed; spying only risks exposure. Watch its BR, which helps our unlocks.
+
+Record intelligence as **public**, **our observation**, **spy-derived**, or **guess**.
+
+## Questions for the instructor
+
+1. Does the dice budget round down when W has a fraction?
+2. Can a spy steal at M or H before our own M/H is unlocked?
+3. Does a steal that pushes our TP past a lock count in full?
+4. How exactly does university strength (TE) change a closed country's talent flow?

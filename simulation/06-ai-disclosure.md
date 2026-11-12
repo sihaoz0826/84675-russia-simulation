@@ -83,3 +83,21 @@ For every later AI-assisted revision, append the actual tool/date, exact prompt,
 6. Removed unsourced claims and conflicting deadline guidance; the instructor's final update (brief due November 15) is used.
 
 **Factual critique of this revision:** Russia's R&D figure is for 2020 (its latest year in the NSF table) while rivals' are for 2021-2022. The Factbook figures come from an independent mirror of archived data. The meaning of "late-game disruptive potential" and the score formula are not specified in the rules, so the H timing and reserve share remain judgment calls. The consensus sentence in the executive section is left for the team to complete; no team agreement was invented.
+
+## Revision of November 12, 2026 (second session)
+
+**Tool:** Anthropic Claude (Claude Code, model Claude Opus 5.5), November 12, 2026.
+
+**Exact prompts:**
+
+> these are the new info, see if u wanna update
+
+(The message attached the GTC rulebook, player guide, portal example, and briefing video, and pasted the instructor's November 12 Canvas announcement.)
+
+> Make sure that all the materials I provide to you, like all the like posts, you document those.
+
+**What it did:** Read the rulebook, player guide, and portal example; transcribed the briefing video with a local speech-to-text model and checked its slides; wrote a Monte Carlo simulation of Russia's play under the rulebook to compare saving policies; rewrote the game-dependent parts of the brief (country assessment game sentences, all three czar sections, executive section, reference 8); rewrote the playbook; updated the research notes, meeting agenda, gameplay record, and READMEs; added all November 12 materials, the announcement text, and the transcript to the repository.
+
+**Substantive changes:** The Round 1 plan changed from 45/20/15/0/20 (L/BR/education/espionage/save) to 2 L dice and 6 saved, because the rulebook converts 2/3 of saved dice into wealth (doubling the budget each round at a 75% saving rate). Education was cut to zero because Russia's 0.60 talent flow drains any K purchased. Basic research was delayed because rivals' BR counts 0.75 toward ours. The "late-game disruptive potential" and "distance traveled" claims were removed; neither appears in the rulebook.
+
+**Factual critique:** The simulation reduces rivals to a fixed stream of basic research and ignores espionage and rival reactions to Russia's visible wealth. Its 15-40% gain estimate depends on game length, which is not announced. The dice budget is assumed to round down when W has a fraction.

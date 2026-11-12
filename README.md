@@ -11,6 +11,16 @@ Team roles: Steve handles technology strategy and is the executive, Gloria handl
 
 The brief contains the one-page country assessment, the three czar recommendations, the executive recommendation (including the decision rule and Round 1 allocation), and references. One item must be filled in after the team meeting: the bracketed consensus sentence at the end of the executive section.
 
+## Game materials (posted November 12)
+
+- [GTC rulebook](simulation/game-materials/GTC_Rulebook.pdf) - controls all game mechanics
+- [Player guide worksheet](simulation/game-materials/GTC_Player_Guide.pdf) - each member brings it completed on Monday, Nov 16 (graded)
+- [Executive briefing video](simulation/game-materials/GTC_ExecutivePlayer_Briefing.mp4) and [transcript](simulation/game-materials/briefing-video-transcript.md)
+- [Game portal example](simulation/game-materials/portal-example.pdf)
+- [The announcement](semester-readings/sources/sim-materials-announcement-2026-11-12.md)
+
+A full list of every course material in this repository is in the [preparation index](simulation/README.md#all-course-materials-in-this-repository).
+
 ## Internal preparation (not submitted)
 
 - [Preparation index and assignment requirements](simulation/README.md)

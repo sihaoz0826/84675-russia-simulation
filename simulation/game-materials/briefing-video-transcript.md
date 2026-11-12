@@ -1,0 +1,199 @@
+# Executive briefing video: transcript
+
+Transcript of *GTC_ExecutivePlayer_Briefing.mp4* (7 min 39 s), posted to Canvas on November 12, 2026. Generated with a local speech-to-text model (Whisper) and lightly corrected; timestamps are seconds from the start. One unclear word is marked. The slides in the video match the rulebook (score formula, starting values, spending table, research levels, spies, saving).
+
+- [0 s] Welcome to Global Technology Competition.
+- [4 s] This briefing is for team executives,
+- [6 s] but every player is welcome to watch.
+- [9 s] In the next few minutes, we'll cover how the game works,
+- [12 s] what your team can and cannot see,
+- [14 s] and how to lead your team through each round.
+- [18 s] As executive, you lead your country's
+- [20 s] science and technology program.
+- [23 s] Each of your teammates holds a portfolio
+- [25 s] and sees one part of the picture.
+- [27 s] Your job is to put those parts together.
+- [30 s] Start by listening.
+- [32 s] Every portfolio should have a say
+- [33 s] before the team decides.
+- [35 s] Then you make the final call on how to split the budget.
+- [38 s] You also decide how much to save.
+- [41 s] That's one of the biggest choices in the game
+- [43 s] and we'll come back to it.
+- [45 s] You keep the team on the clock.
+- [47 s] The first round is 20 minutes
+- [49 s] and every round after that is 10.
+- [51 s] And finally, you write a short reason
+- [53 s] for the team's plan
+- [54 s] and you submit it before time runs out.
+- [58 s] Here's how you win.
+- [60 s] The team with the highest score
+- [61 s] at the end of the game wins.
+- [63 s] Most of your score comes from technology points or TP.
+- [67 s] Points at the harder levels count double or triple.
+- [70 s] Those points are multiplied by a bonus for know-how
+- [73 s] called TK.
+- [74 s] More research means more know-how
+- [76 s] and a bigger multiplier.
+- [78 s] And there's a small bonus for wealth at the end.
+- [82 s] Four countries play and each starts in a different place.
+- [86 s] No country is best.
+- [87 s] Each one has a real path to victory.
+- [90 s] The United States has the biggest budget
+- [92 s] and open borders.
+- [94 s] China is a close second in wealth with closed borders.
+- [97 s] France has a smaller budget
+- [99 s] but it starts with some know-how.
+- [101 s] Its borders are open.
+- [103 s] Russia has the smallest budget
+- [104 s] but the most starting know-how.
+- [106 s] Its borders are closed.
+- [108 s] Keep one idea in mind.
+- [110 s] Open countries attract talent
+- [112 s] but rival spies can rob them.
+- [114 s] Closed countries can never be robbed.
+- [116 s] Your team will feel that trade off all game.
+- [121 s] Your teammates each bring a different view.
+- [124 s] Education tells you whether your talent pool
+- [126 s] is growing or draining away.
+- [128 s] Immigration weighs the talent that open borders
+- [131 s] bring against the risk of theft.
+- [133 s] Intelligence tells you what rivals have
+- [136 s] and which of them are exposed.
+- [138 s] Tech strategy knows what research is unlocked
+- [140 s] and how risky each level is.
+- [143 s] And you hold the whole picture and the clock.
+- [145 s] Each portfolio has its own section in the player guide.
+- [149 s] Ask your teammates to bring their notes to every meeting.
+- [153 s] Every round follows the same pattern.
+- [156 s] First, your team meets and decides.
+- [159 s] You have 20 minutes in round one
+- [160 s] and 10 minutes after that.
+- [162 s] Then you submit your plan
+- [164 s] with a sentence or two explaining why.
+- [166 s] When time is up,
+- [167 s] the dice are rolled for every team at once.
+- [170 s] You then read your results.
+- [172 s] Your private log shows what happened to your team.
+- [174 s] The public log shows what everyone can see.
+- [177 s] And the next round begins.
+- [179 s] Any dice you saved now add to your wealth.
+- [181 s] One thing that confuses many teams,
+- [184 s] the dice table on your screen is only a preview.
+- [187 s] Your real results appear in your private log
+- [189 s] after the round.
+- [191 s] And if your team doesn't submit in time,
+- [193 s] it does nothing that round.
+- [194 s] So watch the clock.
+- [198 s] Each round, your team gets a budget of dice.
+- [200 s] It's two times your wealth.
+- [202 s] You can buy education, which grows your talent.
+- [205 s] You can fund basic research.
+- [208 s] It's public, it builds know-how,
+- [210 s] and it unlocks the harder levels of research.
+- [212 s] Applied research is where you earn points.
+- [215 s] It's secret.
+- [216 s] Each extra die in a round
+- [218 s] costs a little more than the one before,
+- [220 s] so it can pay to spread it across rounds.
+- [222 s] Spies cost one die each
+- [224 s] and you can send up to two per round.
+- [226 s] And changing your border policy is free.
+- [229 s] You don't have to spend everything.
+- [231 s] Whatever you leave unspent can be saved
+- [233 s] and we'll get to that in a moment.
+- [237 s] Applied research comes in three levels
+- [240 s] and each one is a different kind of bet.
+- [242 s] Every die can fail, give a small reward,
+- [245 s] or give a big one.
+- [246 s] Level L is the safe bet.
+- [248 s] Most dice succeed and the reward is small.
+- [251 s] Level M is riskier.
+- [253 s] Half the dice fail, but a success can be worth six points.
+- [256 s] Level H is the long shot.
+- [258 s] Most dice fail.
+- [260 s] But a success can be worth 36 points
+- [262 s] and the more know-how you have,
+- [264 s] the more likely that big result becomes.
+- [266 s] M and H unlock once your basic research is high enough.
+- [271 s] That measure includes a share
+- [272 s] of your rival's basic research.
+- [274 s] So every team's research helps the others
+- [277 s] and your team can decide how much to pay for itself.
+- [282 s] Talent matters because it feeds your know-how.
+- [285 s] Education builds talent.
+- [287 s] Talent gives extra basic research successes
+- [289 s] and those add know-how, which raises your score.
+- [293 s] But every round, talent flow
+- [295 s] multiplies your whole talent pool.
+- [297 s] In the United States, the number is above one,
+- [299 s] so talent grows.
+- [301 s] In China, it stays about the same.
+- [303 s] In France and Russia, the number is below one,
+- [306 s] so talent drains away.
+- [308 s] So ask your education
+- [309 s] and immigration ministers two questions.
+- [312 s] Is education worth it for our country
+- [314 s] and should our borders be open or closed?
+- [319 s] Spies are your window into what rivals are doing.
+- [322 s] A spy can observe a rival's points at one level
+- [325 s] and sometimes steal them.
+- [327 s] But you can only steal from countries with open borders.
+- [330 s] Closed countries can be watched, but never robbed.
+- [333 s] Spying on the harder levels is riskier.
+- [336 s] Your spy is more likely to be caught.
+- [338 s] And if your spy is caught, every team finds out.
+- [342 s] Think about what that could mean for trust
+- [343 s] between your country and the others.
+- [346 s] Each spy also costs a die,
+- [348 s] so weigh what you might learn against
+- [349 s] what else that die could do.
+- [353 s] Now, saving.
+- [354 s] Two-thirds of the dice you leave unspent
+- [356 s] become new wealth.
+- [358 s] And because your budget is two times your wealth,
+- [360 s] a saved die gives you more dice
+- [363 s] in every round that follows.
+- [365 s] Here's the catch.
+- [366 s] Dice you save in the last round are simply lost,
+- [369 s] and no one tells you which round is the last.
+- [371 s] So every time you save,
+- [373 s] you're betting that the game will go on.
+- [375 s] How much to save is your call,
+- [377 s] and it's one of the most important ones you'll make.
+- [382 s] What can your team see?
+- [383 s] Every team can see each country's wealth,
+- [385 s] talent, border policy, and basic research totals.
+- [389 s] [unclear] is private.
+- [390 s] So are your technology points.
+- [392 s] Rivals can only learn them through spies.
+- [395 s] Your applied research spending is always secret.
+- [398 s] Basic research rolls and caught spies
+- [400 s] go to the public log,
+- [402 s] and no one sees the scores until the end.
+- [405 s] You'll have to judge where you stand
+- [406 s] from the clues you have.
+- [410 s] 10 minutes goes fast.
+- [411 s] Here's a simple routine that works.
+- [413 s] Start by reading the logs together.
+- [416 s] What happened to us,
+- [417 s] and what can we see about our rivals?
+- [419 s] Then go around the table.
+- [421 s] Each portfolio gives one recommendation, briefly.
+- [424 s] Next, settle the conflicts.
+- [426 s] Usually two portfolios want the same dice.
+- [429 s] That's where you make the call.
+- [431 s] Decide how much to save.
+- [433 s] And finally, write your reason and submit
+- [435 s] with time to spare.
+- [438 s] Before round one,
+- [439 s] make sure your team has read the rule book
+- [441 s] and that each player has worked
+- [443 s] through their section of the player guide.
+- [445 s] Agree on how your team will vote.
+- [447 s] Know your country's starting values.
+- [449 s] They're on page five of the rule book.
+- [452 s] And decide on a plan for round one.
+- [454 s] That's it.
+- [455 s] Lead well, listen to your team,
+- [456 s] and enjoy the game.
