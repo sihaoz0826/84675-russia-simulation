@@ -30,6 +30,7 @@ Russia starts with the joint-smallest budget (W 4, 8 dice), the most know-how (T
 | --- | --- | --- |
 | Syllabus v1.8 | August 31, 2026 | [most-updated syllabus PDF](../most-updated-_Syllabus_%2084-375%20Geopolitics%20of%20Innovation%20(2026)%20(1).pdf) |
 | Schedule announcement | October 23, 2026 | [schedule-update-2026-10-23.txt](../semester-readings/sources/schedule-update-2026-10-23.txt) |
+| Simulation team assignments | November 4, 2026 | [team-assignments-2026-11-04.md](../semester-readings/sources/team-assignments-2026-11-04.md) |
 | Final syllabus update | November 4, 2026 | [schedule-final-update-received-2026-11-04.md](../semester-readings/sources/schedule-final-update-received-2026-11-04.md) |
 | "Today's in-class announcements" (sim days, brief rules, exam and report dates) | November 11, 2026 | [in-class-announcements-2026-11-11.md](../semester-readings/sources/in-class-announcements-2026-11-11.md) |
 | SIMULATION PREP slides | Before November 10 | [SIMULATION PREP.pdf](SIMULATION%20PREP.pdf) |
@@ -41,7 +42,7 @@ Russia starts with the joint-smallest budget (W 4, 8 dice), the most know-how (T
 | Game portal example (US view) | November 12, 2026 | [game-materials/portal-example.pdf](game-materials/portal-example.pdf) |
 | Course readings cited in the research notes | — | [gilli-gilli-2019.txt](../semester-readings/sources/gilli-gilli-2019.txt), [ding-published.txt](../semester-readings/sources/ding-published.txt) |
 
-The role-assignment announcement (November 4) was supplied as a screenshot; its Russia row is reproduced in the table above.
+The team-assignment announcement explains that Intelligence and Immigration are combined ("doubled up") into one role because teams are small; on our team, Gloria covers both.
 
 ## Assignment requirements and dates
 
