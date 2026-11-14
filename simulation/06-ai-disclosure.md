@@ -101,3 +101,15 @@ For every later AI-assisted revision, append the actual tool/date, exact prompt,
 **Substantive changes:** The Round 1 plan changed from 45/20/15/0/20 (L/BR/education/espionage/save) to 2 L dice and 6 saved, because the rulebook converts 2/3 of saved dice into wealth (doubling the budget each round at a 75% saving rate). Education was cut to zero because Russia's 0.60 talent flow drains any K purchased. Basic research was delayed because rivals' BR counts 0.75 toward ours. The "late-game disruptive potential" and "distance traveled" claims were removed; neither appears in the rulebook.
 
 **Factual critique:** The simulation reduces rivals to a fixed stream of basic research and ignores espionage and rival reactions to Russia's visible wealth. Its 15-40% gain estimate depends on game length, which is not announced. The dice budget is assumed to round down when W has a fraction.
+
+## Revision of November 13, 2026 (game length)
+
+**Tool:** Anthropic Claude (Claude Code, model Claude Opus 5.5), November 13, 2026.
+
+**Exact prompt:**
+
+> Okay, so I know for a fact that um, each class is 80 minutes, and we're gonna do it for 3 classes, the simulation. So does that change anything? If so, let's revise everything according to this new info.
+
+**What it did:** Estimated the game length from three 80-minute classes (Round 1 = 20 minutes, later rounds = 10 minutes plus about 3 minutes to resolve; portal cap of 10 rounds), concluding the game most likely lasts 8-10 rounds. Re-ran the Monte Carlo model for 5-10 round games and revised the brief (technology and executive sections), playbook, meeting agenda, research notes, preparation index, and the completed worksheet so that Russia saves through Round 3 (the first class) and spends from Round 4.
+
+**Factual critique:** The round estimate assumes the professor uses the rulebook's time limits and spends part of Day 1 on rules and part of Day 3 on review; the GM can still end the game earlier. The model's 30% gain over spending everything is for 8-10 round games, uses a simplified rival basic-research stream, and ignores espionage.

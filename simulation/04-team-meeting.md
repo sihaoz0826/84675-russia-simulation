@@ -17,10 +17,10 @@ Use this agenda to review the brief, agree on the strategy, and complete the exe
 ## Questions to discuss
 
 1. How much do we save in Round 1? The brief says 6 of 8 dice. Are we comfortable betting the game lasts at least four rounds?
-2. Do we agree to buy no basic research until Round 3 and let rivals' BR (counted at 0.75) carry us toward the M unlock?
+2. Do we agree to buy no basic research until Round 4 and let rivals' BR (counted at 0.75) carry us toward the M unlock?
 3. Do we agree that education is not worth buying while our talent flow is 0.60? What talent-flow number would change that?
 4. Spy plan: L-level spies on the US and France from Round 2 (never caught), then M/H. Any objection to the exposure risk at M/H?
-5. When do we switch from saving to spending: Round 3 by default, earlier if M unlocks early or the game looks short?
+5. When do we switch from saving to spending: Round 4 (start of Day 2) by default, earlier if M unlocks early or the game looks short? The simulation runs over three 80-minute classes, so we expect 8-10 rounds.
 6. Does everyone agree on the decision rule and on each recommendation? Record dissent for the brief.
 
 ## Alternatives already prepared for discussion
@@ -29,12 +29,12 @@ Round 1 options for our 8 dice. All keep borders closed and buy no education or 
 
 | Option | L dice (cost) | BR dice | Saved | Round 2 budget | When it could be preferable |
 | --- | --- | --- | --- | --- | --- |
-| **Save, then strike (in the brief)** | 2 (2) | 0 | 6 | 16 | Default: the game likely lasts 4+ rounds |
+| **Save, then strike (in the brief)** | 2 (2) | 0 | 6 | 16 | Default: the game likely lasts 8-10 rounds |
 | Balanced | 2 (2) | 2 | 4 | 13 | If we want our own BR progress toward M |
 | Moderate saving | 3 (4) | 0 | 4 | 13 | If we expect a short game |
 | Spend now | 3 (4) | 4 | 0 | 8 | Only if the game is likely to end in 3 rounds |
 
-Our simulation (see the [playbook](03-game-playbook.md)) found the save-then-strike plan scores about the same as spending now in a 3-round game and far more in longer games.
+Our simulation (see the [playbook](03-game-playbook.md)) found that saving through Round 3 scores about 30% more than spending now in an 8-10 round game, and only slightly less if the game ends after about five rounds.
 
 ## Record the actual meeting
 

@@ -22,7 +22,7 @@ The rulebook lists five portfolios (Education, Immigration, Tech Strategy, Natio
 
 ## Strategy in one paragraph
 
-Russia starts with the joint-smallest budget (W 4, 8 dice), the most know-how (TK 7), a draining talent pool (K 5, talent flow 0.60), and closed borders that can never be robbed. The plan is **save, then strike**: in Rounds 1-2, buy only the two cheapest L applied-research dice and save the rest (2/3 of saved dice becomes wealth, so the budget roughly doubles each round); buy no education (it drains away) and no basic research yet (rivals' BR counts 0.75 toward our unlocks); keep borders closed; send L-level spies at the US and France from Round 2. From Round 3, spend: basic research to unlock M (8) and H (20), full applied research, and spies at M/H. Round 1: 2 L dice, save 6.
+Russia starts with the joint-smallest budget (W 4, 8 dice), the most know-how (TK 7), a draining talent pool (K 5, talent flow 0.60), and closed borders that can never be robbed. The plan is **save, then strike**: in Rounds 1-3 (the first class), buy only the two cheapest L applied-research dice and save the rest (2/3 of saved dice becomes wealth, so the budget roughly doubles each round); buy no education (it drains away) and no basic research yet (rivals' BR counts 0.75 toward our unlocks); keep borders closed; send L-level spies at the US and France from Round 2. From Round 4, spend: basic research to unlock M (8) and H (20), full applied research, and spies at M/H. Round 1: 2 L dice, save 6.
 
 ## All course materials in this repository
 
@@ -51,4 +51,4 @@ The role-assignment announcement (November 4) was supplied as a screenshot; its 
 | Country assessment | One page; strengths and weaknesses relative to the other game countries on each relevant dimension. Factbook is retired, so other reputable sources are allowed. | One page with a comparison table (WIPO GII 2025, NSF R&D data, archived Factbook data). |
 | Czar recommendations | Each czar writes 2-3 paragraphs recommending a strategy and justifying it, with real-world findings, and explains how/why the game strategy differs from real-world strategy. | Three paragraphs per czar. Each czar should revise their own section. |
 | Executive recommendation | 2-3 paragraphs on overall strategy; declare the voting rule; state whether there was consensus on every recommendation. | Three paragraphs; majority vote with the executive as tiebreaker. Consensus sentence to be completed after the meeting. |
-| Game length | Set by the game master and not announced (rulebook p. 3); the portal example shows "Round 1/10". | The plan saves in Rounds 1-2 only and starts spending in Round 3. |
+| Game length | Set by the game master and not announced (rulebook p. 3); the portal example shows "Round 1/10". The simulation runs over three 80-minute classes with 10-minute rounds, so we expect 8-10 rounds. | The plan saves through Round 3 (the first class) and starts spending in Round 4. |

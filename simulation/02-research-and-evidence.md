@@ -64,7 +64,7 @@ The two-page SIMULATION RULES left most mechanics unspecified. The rulebook reso
 | Russia's special trait | "Late-game disruptive potential" | Not listed. Russia: "Starts with 7 TK. Closed borders stop theft." |
 | Espionage | Critical rolls copy all TPs in a category | Steal (1/3 vs open target) sets our TP at a level to the target's if higher; closed targets can never be robbed |
 | Closure | "Slight defensive bonus" | Complete protection from theft |
-| Game length | 3-7 (PREP) or 5-10 (RULES) | Set by the GM, not announced; the portal example shows "Round 1/10" |
+| Game length | 3-7 (PREP) or 5-10 (RULES) | Set by the GM, not announced; the portal example shows "Round 1/10". Three 80-minute classes with 10-minute rounds point to about 8-10 rounds |
 | Unlock thresholds, prices, odds | Unknown | M at BR effective 8, H at 20; AR costs 1, 1, 2, 2, 3, 3; full odds tables |
 
 ## Course concepts that inform our recommendations
