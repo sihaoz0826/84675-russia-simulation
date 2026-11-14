@@ -1,6 +1,6 @@
 # Team review meeting and submission checklist
 
-Use this agenda to review the brief, agree on the strategy, and complete the executive consensus sentence before Steve submits. Key dates (from the instructor's final syllabus update, which supersedes the syllabus): brief emailed to jcanfil@cmu.edu by **November 15** (the October 23 announcement said 5 p.m.); simulation **November 16-18**; final report due **December 2**. Class on Monday, November 16 starts at **2 p.m. sharp**. Each member must bring a **completed player-guide worksheet** (counts toward the reading-quiz grade): [GTC_Player_Guide.pdf](game-materials/GTC_Player_Guide.pdf). Read the [rulebook](game-materials/GTC_Rulebook.pdf) and watch the [briefing video](game-materials/GTC_ExecutivePlayer_Briefing.mp4) ([transcript](game-materials/briefing-video-transcript.md)) before the meeting.
+Use this agenda to review the brief, agree on the strategy, and complete the executive consensus sentence before Steve submits. Key dates (from the instructor's November 4 and November 11 announcements): brief due **Sunday night, November 15**, emailed by Steve to jcanfil@cmu.edu **with Tiger and Gloria cc'd**; each czar's section is **graded individually**. Simulation **Monday November 16 and Wednesday November 18, 2 p.m. sharp** (counts toward participation). Simulation report due **Friday December 4**. Monday November 30 is debrief and exam review (attendance required); the final exam is **Wednesday December 2, 2 p.m.** Each member must bring a **completed player-guide worksheet** (counts as a reading quiz): [GTC_Player_Guide.pdf](game-materials/GTC_Player_Guide.pdf). Read the [rulebook](game-materials/GTC_Rulebook.pdf) and watch the [briefing video](game-materials/GTC_ExecutivePlayer_Briefing.mp4) ([transcript](game-materials/briefing-video-transcript.md)) before the meeting.
 
 ## Proposed 40 minute agenda
 
@@ -20,7 +20,7 @@ Use this agenda to review the brief, agree on the strategy, and complete the exe
 2. Do we agree to buy no basic research until Round 4 and let rivals' BR (counted at 0.75) carry us toward the M unlock?
 3. Do we agree that education is not worth buying while our talent flow is 0.60? What talent-flow number would change that?
 4. Spy plan: L-level spies on the US and France from Round 2 (never caught), then M/H. Any objection to the exposure risk at M/H?
-5. When do we switch from saving to spending: Round 4 (start of Day 2) by default, earlier if M unlocks early or the game looks short? The simulation runs over three 80-minute classes, so we expect 8-10 rounds.
+5. When do we switch from saving to spending: Round 4 (start of Day 2) by default, earlier if M unlocks early or the game looks short? The simulation runs over two class sessions, so we expect about 6-9 rounds.
 6. Does everyone agree on the decision rule and on each recommendation? Record dissent for the brief.
 
 ## Alternatives already prepared for discussion
@@ -29,12 +29,12 @@ Round 1 options for our 8 dice. All keep borders closed and buy no education or 
 
 | Option | L dice (cost) | BR dice | Saved | Round 2 budget | When it could be preferable |
 | --- | --- | --- | --- | --- | --- |
-| **Save, then strike (in the brief)** | 2 (2) | 0 | 6 | 16 | Default: the game likely lasts 8-10 rounds |
+| **Save, then strike (in the brief)** | 2 (2) | 0 | 6 | 16 | Default: the game likely lasts 6-9 rounds |
 | Balanced | 2 (2) | 2 | 4 | 13 | If we want our own BR progress toward M |
 | Moderate saving | 3 (4) | 0 | 4 | 13 | If we expect a short game |
 | Spend now | 3 (4) | 4 | 0 | 8 | Only if the game is likely to end in 3 rounds |
 
-Our simulation (see the [playbook](03-game-playbook.md)) found that saving through Round 3 scores about 30% more than spending now in an 8-10 round game, and only slightly less if the game ends after about five rounds.
+Our simulation (see the [playbook](03-game-playbook.md)) found that saving through Round 3 scores about 20% more than spending now in a 6-9 round game, and slightly less if the game ends after five or six rounds.
 
 ## Record the actual meeting
 
@@ -74,7 +74,7 @@ All three review the executive recommendation and final report. Equal labor mean
 
 ## Before submission
 
-- [ ] Each czar checks the sources for their own section and revises the paragraphs into their own words and judgment.
+- [ ] Each czar checks the sources for their own section and revises the paragraphs into their own words and judgment. Each section is graded individually.
 - [ ] Keep one combined intelligence/immigration section for Gloria; include both policy areas.
 - [ ] Compile the assessment, three portfolio sections, and executive section into one document (the brief is already compiled).
 - [ ] Keep the assessment itself to one page; portfolio and executive paragraphs follow separately. Check the exported page, not a word-count assumption.
@@ -83,7 +83,7 @@ All three review the executive recommendation and final report. Equal labor mean
 - [ ] Keep the numbered citations and the reference list.
 - [ ] Check game numbers in the brief against the rulebook (starting values p. 5, costs p. 7-8, odds p. 9-10, spies p. 11, saving p. 13, score p. 14).
 - [ ] Read the combined document aloud for consistency and confirm names and country.
-- [ ] Steve emails the compiled brief to jcanfil@cmu.edu by November 15.
+- [ ] Steve emails the compiled brief to jcanfil@cmu.edu by Sunday night, November 15, with Tiger and Gloria cc'd.
 - [ ] Save the submitted version and record when and how it was submitted.
 
 ## Bring to simulation (Monday, 2 p.m. sharp)

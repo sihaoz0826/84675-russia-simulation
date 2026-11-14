@@ -52,14 +52,14 @@ For spying, I recommend no spies in Round 1 and two spies per round after that, 
 
 **Decision rule.** Each czar proposes the plan for their own area, and all three of us vote. Two votes decide. As executive, I break ties and make the final call if the round timer (20 minutes in Round 1, 10 minutes after that) is about to run out. All three of us share note-taking during the game, as the instructor asked.
 
-**Overall strategy.** Our strategy is "save, then strike." Two-thirds of every unspent die becomes wealth at the start of the next round, and each round's budget is twice our wealth [8], so saving about three-quarters of the budget roughly doubles it every round. The game runs over three 80-minute classes with 10-minute rounds, and the game portal shows a 10-round limit, so we expect 8 to 10 rounds, and the rounds in the first class are very unlikely to be the last. In our own simulation of the rules for 8 to 10 rounds, this plan scored about 30% higher on average than spending everything each round. The table below shows the plan round by round.
+**Overall strategy.** Our strategy is "save, then strike." Two-thirds of every unspent die becomes wealth at the start of the next round, and each round's budget is twice our wealth [8], so saving about three-quarters of the budget roughly doubles it every round. The game runs over two class sessions (November 16 and 18) with 10-minute rounds, and the game portal shows a 10-round limit, so we expect about 6 to 9 rounds, and the rounds in the first session are very unlikely to be the last. In our own simulation of the rules for 6 to 9 rounds, this plan scored about 20% higher on average than spending everything each round. The table below shows the plan round by round.
 
 | Round | Budget (dice) | What we buy | What we save | Why |
 | --- | --- | --- | --- | --- |
 | 1 | 8 | 2 low-risk research dice | 6 | Cheapest research; nothing to steal yet |
-| 2 and 3 | 16, then about 32 | 2 low-risk research dice; 2 spies on the US and France at the low-risk level | About three-quarters | Grow the budget while saving is safe |
-| 4 onward (second class) | About 70 | Basic research to open medium (8) and high-risk (20) research; then 3 low-risk, 2 medium, and 1 high-risk die each round; spies at higher levels | Only what we cannot use well | Turn wealth into high-value points |
-| Third class | Varies | Almost everything | Little or nothing | Savings in the final round are lost |
+| 2 and 3 (first session) | 16, then about 32 | 2 low-risk research dice; 2 spies on the US and France at the low-risk level | About three-quarters | Grow the budget while saving is safe |
+| 4 onward (second session) | About 70 | Basic research to open medium (8) and high-risk (20) research; then 3 low-risk, 2 medium, and 1 high-risk die each round; spies at higher levels | Only what we cannot use well | Turn wealth into high-value points |
+| Late in the second session | Varies | Almost everything | Little or nothing | Savings in the final round are lost |
 
 In every round we keep our borders closed and buy no education.
 

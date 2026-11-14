@@ -40,15 +40,14 @@ Our TK counts 10 lower at M and H because K stays below 7 and 12. Once unlocked,
 
 ## How long the game will run
 
-The simulation takes three 80-minute classes. Round 1 gets 20 minutes, later rounds 10 minutes, plus about 3 minutes for the GM to resolve each round (rulebook p. 6), and the portal example shows "Round 1/10".
+The simulation runs over two class sessions, Monday November 16 and Wednesday November 18, both starting at 2 p.m. sharp (Nov 11 announcement). Round 1 gets 20 minutes, later rounds 10 minutes, plus about 3 minutes for the GM to resolve each round (rulebook p. 6), and the portal example shows "Round 1/10".
 
 | Class | Likely rounds | Notes |
 | --- | --- | --- |
-| Day 1 | Rules review, Round 1, then about 2 more (Rounds 1-3) | Almost certainly not the end of the game |
-| Day 2 | About 6 rounds (Rounds 4-9) | Very unlikely to be the end |
-| Day 3 | The remaining round(s), then review | The game most likely ends here |
+| Monday (Day 1) | Rules review, Round 1, then about 2 more (Rounds 1-3) | Almost certainly not the end of the game |
+| Wednesday (Day 2) | About 4-6 rounds (Rounds 4-9) | The game ends here; any late round could be the last |
 
-So we plan for **8-10 rounds**. The old "3-7 rounds" in SIMULATION PREP is outdated. Saving through the whole first class is safe; on Day 3, assume any round could be the last.
+So we plan for about **6-9 rounds**. Saving through the whole first session is safe; late on Wednesday, assume any round could be the last.
 
 ## Round-by-round plan
 
@@ -58,19 +57,19 @@ So we plan for **8-10 rounds**. The old "3-7 rounds" in SIMULATION PREP is outda
 | 2 | 16 | 2 L dice (2), 2 spies at L on US and France (2) | 12 | Spies at L vs open targets are never caught. W 8 -> 16. |
 | 3 | 32 | 2 L dice (2), 2 spies (2) | 28 | Last saving round (end of Day 1). W 16 -> about 34.7. |
 | 4 | about 69 | BR up to effective 20 (H unlock), all affordable AR (M if open), 2 spies | What is left | Budget is now about 9x the start. Start converting wealth into M/H points. |
-| 5+ | about 69+ | 3 L + 2 M + 1 H every round (12 dice), 2 spies at M/H on the open rival with the highest BR, about 4-8 extra BR dice for TK | The rest, but less as Day 3 nears | Max out the high-value levels. More BR beyond 20 adds TK slowly and gives rivals 0.75 of it. |
+| 5+ | about 69+ | 3 L + 2 M + 1 H every round (12 dice), 2 spies at M/H on the open rival with the highest BR, about 4-8 extra BR dice for TK | The rest, but less as Wednesday's class goes on | Max out the high-value levels. More BR beyond 20 adds TK slowly and gives rivals 0.75 of it. |
 
-Adjust: if rivals' BR alone pushes our effective BR past 8 by Round 2 or 3, buy M with the two cheap slots that round. If the instructor signals a short game, start spending a round earlier. On Day 3, save only dice that research and spies cannot use.
+Adjust: if rivals' BR alone pushes our effective BR past 8 by Round 2 or 3, buy M with the two cheap slots that round. If the instructor signals a short game, start spending a round earlier. Late on Wednesday, save only dice that research and spies cannot use.
 
 **Simulation check.** A Monte Carlo model of Russia's play under these rules (rivals reduced to a stream of 2-5 BR successes per round; espionage not modeled) gave these average scores:
 
-| Policy | 5 rounds | 7 rounds | 8 rounds | 10 rounds |
-| --- | --- | --- | --- | --- |
-| Spend everything each round | 93-106 | 171-176 | 193-203 | 241-246 |
-| Save through Round 2, then spend | 97-98 | 184-188 | 217-220 | 311-321 |
-| **Save through Round 3, then spend (our plan)** | 81-97 | 176-193 | 232-244 | 342-354 |
+| Policy | 5 rounds | 6 rounds | 7 rounds | 8 rounds | 9 rounds |
+| --- | --- | --- | --- | --- | --- |
+| Spend everything each round | 89-105 | 125-133 | 156-169 | 187-197 | 223-230 |
+| Save through Round 2, then spend | 96-97 | 135-138 | 174-185 | 222-225 | 264-275 |
+| **Save through Round 3, then spend (our plan)** | 75-98 | 126-145 | 180-190 | 232-242 | 281-286 |
 
-For the likely 8-10 round game, saving through Round 3 scores about 30% more than spending everything and beats stopping after Round 2. It gives up a little only if the game ends after about five rounds.
+For the likely 6-9 round game, saving through Round 3 scores about 20% more on average than spending everything and slightly more than stopping after Round 2. It gives up a little only if the game ends after five or six rounds.
 
 ## Decision sequence each round (10 minutes)
 

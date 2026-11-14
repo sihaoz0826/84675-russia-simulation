@@ -123,3 +123,13 @@ For every later AI-assisted revision, append the actual tool/date, exact prompt,
 > Okay, so I just read through um, the strategy brief. It seems like the wording is pretty technical, and there is a lot of stuff where it's mentioned like in round something, we should do something. Um, So my comment is like, if you're gonna say in round what we're gonna do something, I think it's better if we can just present it as like a table, so it's like clear for people to read, right? Um, And for the wordings, I think it would make sense if you could use plainer words. But let's check for the professor's um, requirement for this strategy brief. Like if he asks for like more serious words, use more serious words. But I think using plainer words can could possibly help revise things.
 
 **What it did:** Checked the syllabus and SIMULATION PREP requirements (one-page assessment; 2-3 paragraphs per czar and for the executive; voting rule and consensus; real-world findings; citations); none requires formal wording or forbids tables. Rewrote the brief in plainer language without changing its facts, citations, or strategy; moved the round-by-round plan into a table in the executive section; updated the PDF builder so tables other than the indicator table get content-based column widths.
+
+## Revision of November 14, 2026 (November 11 announcement)
+
+**Tool:** Anthropic Claude (Claude Code, model Claude Opus 5.5), November 14, 2026.
+
+**Exact prompt:** the user pasted the instructor's November 11 Canvas announcement ("Today's in-class announcements") and wrote:
+
+> Did you see this announcement? Uh, If not, let's document this and see if there are more things that I should do.
+
+**What it did:** Saved the announcement to the repository. Re-ran the strategy simulation for a two-session game (about 6-9 rounds): saving through Round 3 still scored best, about 20% above spending everything. Updated the brief's game-length sentence and round table, and updated the playbook, agenda, research notes, gameplay record, and preparation index with the new dates (brief due Sunday night with teammates cc'd and sections graded individually; simulation Nov 16 and 18; final exam Dec 2; report due Dec 4).

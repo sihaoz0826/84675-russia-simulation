@@ -91,7 +91,7 @@ Do not infer an official score from raw TPs; levels are weighted, multiplied by 
 
 ## Final report outline to complete after play
 
-The syllabus calls for a **2-3 page team report**, with labor divided equally. Due December 2 per the instructor's final syllabus update. The outline below maps directly to syllabus p. 4.
+The syllabus calls for a **2-3 page team report**, with labor divided equally. Due Friday December 4 (instructor's November 11 announcement). The outline below maps directly to syllabus p. 4.
 
 1. **How gameplay unfolded at each stage.** Explain the actual opening and subsequent stages, using the timeline. Record decisive outcomes and distinguish intended effects from luck. Do not retell every dice roll if it did not affect the argument.
 2. **Beliefs about relative progress.** Describe what the team thought about Russia's position at each stage, what information supported that belief, and how confidence changed. Separate what was known then from what became visible at the end.
