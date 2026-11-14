@@ -31,7 +31,7 @@ Russia starts with the joint-smallest budget (W 4, 8 dice), the most know-how (T
 | Syllabus v1.8 | August 31, 2026 | [most-updated syllabus PDF](../most-updated-_Syllabus_%2084-375%20Geopolitics%20of%20Innovation%20(2026)%20(1).pdf) |
 | Schedule announcement | October 23, 2026 | [schedule-update-2026-10-23.txt](../semester-readings/sources/schedule-update-2026-10-23.txt) |
 | Simulation team assignments | November 4, 2026 | [team-assignments-2026-11-04.md](../semester-readings/sources/team-assignments-2026-11-04.md) |
-| Final syllabus update | November 4, 2026 | [schedule-final-update-received-2026-11-04.md](../semester-readings/sources/schedule-final-update-received-2026-11-04.md) |
+| Final syllabus update | November 2, 2026 | [schedule-final-update-received-2026-11-04.md](../semester-readings/sources/schedule-final-update-received-2026-11-04.md) |
 | "Today's in-class announcements" (sim days, brief rules, exam and report dates) | November 11, 2026 | [in-class-announcements-2026-11-11.md](../semester-readings/sources/in-class-announcements-2026-11-11.md) |
 | SIMULATION PREP slides | Before November 10 | [SIMULATION PREP.pdf](SIMULATION%20PREP.pdf) |
 | SIMULATION RULES (two-page, superseded by the rulebook) | Before November 10 | [SIMULATION RULES.pdf](SIMULATION%20RULES.pdf) |

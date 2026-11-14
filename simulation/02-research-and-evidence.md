@@ -6,7 +6,7 @@ Internal research notes supporting the brief; not part of the submission. Number
 
 The syllabus, the original SIMULATION PREP and SIMULATION RULES PDFs, the role-assignment announcement, and the saved schedule announcements were read in full. On November 12 the instructor posted the full game materials (rulebook, player guide, briefing video, portal example; see [game-materials](game-materials/) and the [announcement](../semester-readings/sources/sim-materials-announcement-2026-11-12.md)). The rulebook now controls all game mechanics.
 
-The CIA's original country URLs, including its archive paths, now redirect to its February 4, 2026 [retirement notice](https://www.cia.gov/stories/story/spotlighting-the-world-factbook-as-we-bid-a-fond-farewell/). Country statistics below come from an independent reproduction of Factbook data, not from a functioning official country page. The professor's November 4 update expressly permits reputable sources in place of the Factbook. WIPO's published country profiles supply primary comparative innovation evidence. No unverified 2026 ranking is substituted for the fixed 2025 comparison.
+The CIA's original country URLs, including its archive paths, now redirect to its February 4, 2026 [retirement notice](https://www.cia.gov/stories/story/spotlighting-the-world-factbook-as-we-bid-a-fond-farewell/). Country statistics below come from an independent reproduction of Factbook data, not from a functioning official country page. The professor's November 2 update expressly permits reputable sources in place of the Factbook. WIPO's published country profiles supply primary comparative innovation evidence. No unverified 2026 ranking is substituted for the fixed 2025 comparison.
 
 ## Comparative empirical baseline
 

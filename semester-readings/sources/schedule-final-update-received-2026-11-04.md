@@ -1,6 +1,6 @@
-# Final syllabus update — received November 4, 2026
+# Final syllabus update — posted November 2, 2026
 
-Source: announcement pasted by the user. Its publication timestamp was not supplied. Relative wording such as “today” and “tonight” is preserved from the announcement and should not be interpreted as a new November 4 deadline. This final update supersedes conflicting parts of the October 23 schedule; it does not restate every earlier assignment or exam-scope rule.
+Source: announcement pasted by the user. Canvas shows it was posted November 2, 2026, 6:08 p.m. (The file name says 11-04 because that is when it was first saved here.) Relative wording such as “today” and “tonight” is preserved from the announcement and should not be interpreted as a new November 4 deadline. This final update supersedes conflicting parts of the October 23 schedule; it does not restate every earlier assignment or exam-scope rule.
 
 ## Announcement text
 
