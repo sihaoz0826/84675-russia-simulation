@@ -113,3 +113,13 @@ For every later AI-assisted revision, append the actual tool/date, exact prompt,
 **What it did:** Estimated the game length from three 80-minute classes (Round 1 = 20 minutes, later rounds = 10 minutes plus about 3 minutes to resolve; portal cap of 10 rounds), concluding the game most likely lasts 8-10 rounds. Re-ran the Monte Carlo model for 5-10 round games and revised the brief (technology and executive sections), playbook, meeting agenda, research notes, preparation index, and the completed worksheet so that Russia saves through Round 3 (the first class) and spends from Round 4.
 
 **Factual critique:** The round estimate assumes the professor uses the rulebook's time limits and spends part of Day 1 on rules and part of Day 3 on review; the GM can still end the game earlier. The model's 30% gain over spending everything is for 8-10 round games, uses a simplified rival basic-research stream, and ignores espionage.
+
+## Revision of November 14, 2026 (plain language and round table)
+
+**Tool:** Anthropic Claude (Claude Code, model Claude Opus 5.5), November 14, 2026.
+
+**Exact prompt:**
+
+> Okay, so I just read through um, the strategy brief. It seems like the wording is pretty technical, and there is a lot of stuff where it's mentioned like in round something, we should do something. Um, So my comment is like, if you're gonna say in round what we're gonna do something, I think it's better if we can just present it as like a table, so it's like clear for people to read, right? Um, And for the wordings, I think it would make sense if you could use plainer words. But let's check for the professor's um, requirement for this strategy brief. Like if he asks for like more serious words, use more serious words. But I think using plainer words can could possibly help revise things.
+
+**What it did:** Checked the syllabus and SIMULATION PREP requirements (one-page assessment; 2-3 paragraphs per czar and for the executive; voting rule and consensus; real-world findings; citations); none requires formal wording or forbids tables. Rewrote the brief in plainer language without changing its facts, citations, or strategy; moved the round-by-round plan into a table in the executive section; updated the PDF builder so tables other than the indicator table get content-based column widths.

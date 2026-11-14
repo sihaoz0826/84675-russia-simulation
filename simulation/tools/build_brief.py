@@ -53,7 +53,12 @@ def table(block):
             for line in block.splitlines() if not re.match(r"^\|\s*-", line)]
     data = [[Paragraph(inline(c), CELL_B if r == 0 or i == 0 else CELL) for i, c in enumerate(row)]
             for r, row in enumerate(rows)]
-    widths = [2.55 * inch] + [(7.1 - 2.55) / (len(rows[0]) - 1) * inch] * (len(rows[0]) - 1)
+    ncols = len(rows[0])
+    if rows[0][0] == "Indicator":  # comparison table: wide label column, equal data columns
+        widths = [2.55 * inch] + [(7.1 - 2.55) / (ncols - 1) * inch] * (ncols - 1)
+    else:  # size columns by their longest cell, within limits
+        weights = [min(max(len(r[i]) for r in rows), 70) + 8 for i in range(ncols)]
+        widths = [7.1 * inch * w / sum(weights) for w in weights]
     t = Table(data, colWidths=widths, hAlign="LEFT")
     t.setStyle(TableStyle([
         ("BACKGROUND", (0, 0), (-1, 0), colors.HexColor("#E6EBF0")),
