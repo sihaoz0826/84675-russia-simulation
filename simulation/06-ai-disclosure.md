@@ -133,3 +133,17 @@ For every later AI-assisted revision, append the actual tool/date, exact prompt,
 > Did you see this announcement? Uh, If not, let's document this and see if there are more things that I should do.
 
 **What it did:** Saved the announcement to the repository. Re-ran the strategy simulation for a two-session game (about 6-9 rounds): saving through Round 3 still scored best, about 20% above spending everything. Updated the brief's game-length sentence and round table, and updated the playbook, agenda, research notes, gameplay record, and preparation index with the new dates (brief due Sunday night with teammates cc'd and sections graded individually; simulation Nov 16 and 18; final exam Dec 2; report due Dec 4).
+
+## Revision of November 14, 2026 (Gloria's section)
+
+**Tool:** Anthropic Claude (Claude Code, model Claude Opus 5.5), November 14, 2026.
+
+**Exact prompts:** the user pasted Gloria's own rewrite of her intelligence and immigration section and asked:
+
+> gloria reviewed her seciton and this is what she wanted to have, do u think it's major changes? and for my own player book shoudl i change anything? and does her wanted version make sense?
+
+then, after reviewing a lightly edited version:
+
+> yea sure, and just add references too
+
+**What it did:** Checked every factual claim in Gloria's text against the rulebook and sources (all correct). Kept her wording and three-paragraph structure, fixed grammar and informal words, added citations [1], [5], [6], and [8] and one sentence of real-world evidence (GRU cyber operations; 100,000 IT specialists leaving in 2022), and added one sentence on why the team will not spy on China. Replaced her section in the brief and rebuilt the PDF.
