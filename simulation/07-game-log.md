@@ -58,6 +58,8 @@ The core plan (get rich early, build know-how, free-ride on rivals' basic resear
 | Nov 16, after Round 1 | Our university level did not rise; China opened, France closed; rivals bought little basic research | Stopped education; spy targets became the US and China |
 | Nov 16, Round 2 | Decided to test opening while we had few points | Opened borders |
 | Nov 16, after Round 2 | Rivals' heavy basic research unlocked medium research for us; US and China also saving; US weak at low-level research | Round 3 plan: start medium research, save once more since at least two rounds remain, one spy on China |
+| Nov 18, before Round 3 | Learned about 3 rounds remain (Rounds 3-5); questioned whether to chase talent, how much basic research to buy, and whether to stay open | Cut basic research to 2, added one tertiary education as a talent test, stayed open; plan to spend almost everything in Round 4 and everything in Round 5 |
+| Nov 18, after Round 3 | Talent test failed (flow about 0.68); the US closed and France reopened; high-risk research unlocked by rivals; L points capped at 10; about 3 rounds of input left | Close the borders, stop education, buy heavy basic research to raise know-how before rolling, start high-risk research, spy at the medium level on China and France, save some for Rounds 5-6 |
 
 ## Before the game: how the plan changed
 
@@ -150,25 +152,78 @@ The core plan (get rich early, build know-how, free-ride on rivals' basic resear
 - US talent (32.4) gives it free basic research successes every round, its biggest advantage.
 - Low-level steals on the US are useless while its L points are below ours.
 
-## Round 3 plan (Wednesday, Nov 18)
+## Round 3 (Wednesday, Nov 18)
 
-Planned before the round; check the screen first and adjust if the numbers differ.
+**Starting position:** wealth 10, 20 dice, talent 2.0, know-how 13, open, points 6/0/0, effective basic research 14 (medium research unlocked).
+
+**New information before deciding:** about 3 rounds left including this one (Rounds 3-5), with a small chance of a Round 6.
+
+**What we entered** (changed from the first Round 3 plan: basic research cut from 4 to 2, and one tertiary education added)
 
 | Item | Choice | Cost |
 | --- | --- | --- |
-| Education | None | 0 |
-| Borders | No change (stay open to finish the test) | 0 |
-| Basic research | 4 (know-how, and toward 20 for high-risk research) | 4 |
-| Applied research | 2 medium (M) + 2 L | 1 + 1 + 2 + 2 |
-| Spies | China at L only | 1 |
-| Saved | 9 (wealth 10 to 16, 32 dice in Round 4) | |
+| Tertiary education | 1 (+2 talent while open) | 1 |
+| Basic research | 2 | 2 |
+| Applied research | 2 low-risk (L) + 2 medium (M) | 1 + 1 + 2 + 2 |
+| Borders | No change (open) | 0 |
+| Spies | China at L | 1 |
+| Saved | 10 | |
 
-**Why:** medium research opened for free, so we do not need to pour dice into basic research; at least two rounds remain, so saving still pays. Only one spy, because US L points are below ours, nobody has medium points yet, and France is closed.
+**Reason submitted:** "Rivals' basic research unlocked advanced tech for us, so we free-ride on their public research, start medium research, and keep building our own know-how. We save the rest to grow our budget for the final rounds, buy one university upgrade to test whether open borders let Russia start attracting talent, and spy only on China because the US's low-level points are below ours."
 
-**Reason to submit:** "Rivals' basic research unlocked advanced tech for us, so we free-ride on their public research, start medium research, and keep building our own know-how. We save the rest to grow our budget for the final rounds, and spy only on China because the US's low-level points are below ours."
+**Why these changes:**
+- **Basic research 4 to 2:** rivals added 16 basic research last round (+12 for us), so they will probably push us past 20 anyway. With at least two rounds left, each saved die returns about 2.7 dice, more than 1 basic-research die is worth now.
+- **One tertiary education:** we opened in Round 2, and talent flow changes from the next round, so this is the first round education could stick. It is a 1-die test of the professor's talent-magnet idea.
+- **Stay open:** a steal copies points as of the start of the round, and we had only 6 low-risk points and no medium points, so there was almost nothing to take.
+- **One spy:** US low-risk points are below ours, nobody has medium points yet, and France is closed.
 
-**Test to check after Round 3:** our talent should be about 1.2 if opening did not help (then close in Round 4), or 2.0 or more if talent is flowing in (then stay open and consider education).
+**Test to read after this round:** talent = (2.0 + 2) x new talent flow. About 2.4 means the flow is still 0.60, so close the borders and stop education. About 4 or more means talent is flowing in, so stay open and keep buying education.
 
-## Rounds 3 onward
+**Plan for the last rounds:** Round 4, spend almost everything (2 medium + 1 high-risk if it opens + low-risk research, 2 spies, education only if the test worked, the rest into basic research). Round 5, probably the last, spend everything and save nothing.
+
+**Results**
+
+| | Before | After | Notes |
+| --- | --- | --- | --- |
+| Points (L/M/H) | 6/0/0 | 10/0/0 | Both L dice succeeded (+4); L is now at its cap of 10, so no more L purchases. Both M dice failed (rolls 3, 2) |
+| Know-how | 13 | 18 | +4 from research dice, +1 from one basic research success (rolls 1, 5) |
+| Own basic research | 2 | 3 | |
+| Talent | 2.0 | 2.7 | (2.0 + 2 from tertiary education) x about 0.68. **Talent flow rose only slightly, still below 1: the opening test failed** |
+| Spy on China (L) | | Steal succeeded, but copied 6 L points, equal to ours, so no gain | China now shows 12 L points |
+| Effective basic research | 14.0 | **30.8** | **High-risk research unlocked** (needs 20) |
+| Next round | W 10 | W about 16.7, 33 dice | 10 saved dice became +6.7 wealth |
+
+**Rivals after Round 3**
+
+| | Wealth | Talent | Own basic research | Effective basic research | Borders | L points (seen) |
+| --- | --- | --- | --- | --- | --- | --- |
+| US | 11 | 50.1 | 19 | 34.8 | **Closed** (was open) | 9 |
+| China | 15 | 24.2 | 12 | 33.0 | Open | 12 |
+| France | 6 | 1.7 | 6 | 31.5 | **Open** (was closed) | ? |
+| Russia | 10 (16.7 next round) | 2.7 | 3 | 30.8 | Open | 10 |
+
+**What we learned:**
+- **The professor's scenario happened, but it did not help us.** The US closed its borders (likely over espionage fears), which the rulebook says spreads talent to others. But our talent flow is still below 1 (about 0.68), so Russia could not become a talent magnet in the time left. We decided to close and stop education.
+- **Free-riding paid off again.** Rivals' basic research (US 11 successes, China 7, France 3) unlocked high-risk research for us with only 3 points of our own.
+- **China is saving hard** (wealth 15, above ours) and is strong at low-risk research. The US closed, so it can no longer be robbed; France reopened.
+- **Low-risk spying is finished for us:** our L points are capped at 10, and steals there gain little.
+
+
+## Round 4 plan (Wednesday, Nov 18)
+
+**New information:** about 3 more rounds of input (Rounds 4-6); Round 6 is probably the last.
+
+| Item | Choice | Cost |
+| --- | --- | --- |
+| Education | None (test failed) | 0 |
+| Borders | **Closed** (protect our points; opening never raised our talent flow) | 0 |
+| Basic research | 15 (raises know-how **before** this round's research rolls) | 15 |
+| Applied research | 2 medium (M) + 1 high-risk (H); L is capped | 1 + 1 + 2 |
+| Spies | China at M, France at M | 2 |
+| Saved | 12 (pays back in Rounds 5 and 6) | |
+
+**Why:** basic research resolves before applied research in each round, so this round's basic research raises know-how in time for this round's medium and high-risk rolls. With know-how around 25, our medium big-reward chance reaches the 90% cap and the high-risk jackpot chance rises to about 30%. Rivals have had medium research since Round 3, so their medium points are worth stealing; China and France are the only open countries.
+
+## Rounds 4 onward
 
 Fill in after each round: what we entered, the reason submitted, the results from the logs, rivals' public numbers, and what we learned. The [gameplay record](05-gameplay-record.md) has a blank template and the final-report outline.
