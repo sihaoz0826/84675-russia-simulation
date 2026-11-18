@@ -60,6 +60,7 @@ The core plan (get rich early, build know-how, free-ride on rivals' basic resear
 | Nov 16, after Round 2 | Rivals' heavy basic research unlocked medium research for us; US and China also saving; US weak at low-level research | Round 3 plan: start medium research, save once more since at least two rounds remain, one spy on China |
 | Nov 18, before Round 3 | Learned about 3 rounds remain (Rounds 3-5); questioned whether to chase talent, how much basic research to buy, and whether to stay open | Cut basic research to 2, added one tertiary education as a talent test, stayed open; plan to spend almost everything in Round 4 and everything in Round 5 |
 | Nov 18, after Round 3 | Talent test failed (flow about 0.68); the US closed and France reopened; high-risk research unlocked by rivals; L points capped at 10; about 3 rounds of input left | Close the borders, stop education, buy heavy basic research to raise know-how before rolling, start high-risk research, spy at the medium level on China and France, save some for Rounds 5-6 |
+| Nov 18, after Round 4 | All research dice failed again, but two medium steals worked (+2 from France); China was caught spying on us; US reopened; know-how 29; about 2 rounds left | Spend almost everything in Round 5: basic research to push know-how toward 50 for high-risk odds, 2 medium + 1 high-risk, spies at M on China and the US |
 
 ## Before the game: how the plan changed
 
@@ -209,21 +210,68 @@ The core plan (get rich early, build know-how, free-ride on rivals' basic resear
 - **Low-risk spying is finished for us:** our L points are capped at 10, and steals there gain little.
 
 
-## Round 4 plan (Wednesday, Nov 18)
+## Round 4 (Wednesday, Nov 18)
 
-**New information:** about 3 more rounds of input (Rounds 4-6); Round 6 is probably the last.
+**Starting position:** wealth 16, 32 dice, talent 2.7, know-how 18, open, points 10/0/0, effective basic research 30.8 (medium and high-risk research unlocked). About 3 rounds of input left (Rounds 4-6).
+
+**What we entered**
 
 | Item | Choice | Cost |
 | --- | --- | --- |
-| Education | None (test failed) | 0 |
-| Borders | **Closed** (protect our points; opening never raised our talent flow) | 0 |
-| Basic research | 15 (raises know-how **before** this round's research rolls) | 15 |
-| Applied research | 2 medium (M) + 1 high-risk (H); L is capped | 1 + 1 + 2 |
+| Education | None (talent test failed) | 0 |
+| Borders | **Closed** | 0 |
+| Basic research | 15 | 15 |
+| Applied research | 2 medium (M) + 1 high-risk (H); L capped | 1 + 1 + 2 |
 | Spies | China at M, France at M | 2 |
-| Saved | 12 (pays back in Rounds 5 and 6) | |
+| Saved | 11 | |
 
-**Why:** basic research resolves before applied research in each round, so this round's basic research raises know-how in time for this round's medium and high-risk rolls. With know-how around 25, our medium big-reward chance reaches the 90% cap and the high-risk jackpot chance rises to about 30%. Rivals have had medium research since Round 3, so their medium points are worth stealing; China and France are the only open countries.
+**Reason submitted:** "The US closed its borders, but our talent flow stayed below 1, so we close too to protect our points and stop education. We put heavy spending into basic research to raise our know-how before rolling, start radical research, spy at the medium level on the open China and France, and save some for the final rounds."
 
-## Rounds 4 onward
+**Why:** basic research resolves before applied research, so 15 dice of basic research raise know-how in time for this round's rolls (medium big-reward odds to the 90% cap). Closing protects our points the same round. Rivals had medium research since Round 3, and we had 0 medium points, so any medium steal was a gain. Saved dice pay back in Rounds 5 and 6.
+
+**Results**
+
+| | Before | After | Notes |
+| --- | --- | --- | --- |
+| Points (L/M/H) | 10/0/0 | 10/**2**/0 | Both medium dice and the high-risk die failed. The 2 medium points came from the France steal |
+| Know-how | 18 | **29** | +8 from basic research (15 dice, 9 hits, reduced for our autocratic regime), +3 from research dice |
+| Own basic research | 3 | 11 | |
+| Talent | 2.7 | 2.2 | |
+| Spy on France (M) | | Steal: copied 2 medium points (France's start-of-round total) | First real gain from spying |
+| Spy on China (M) | | Steal succeeded but China had 0 medium points at the start of the round | China now shows 8 |
+| **China spied on us** | | **China's spy on Russia (M) was caught** (public log) | Closing blocked any theft; everyone now knows China spied on us |
+| Next round | W 16 | W about 23-24, about 46-48 dice | 11 saved dice became +7 wealth (+1 more in the fractional remainder) |
+
+**Rivals after Round 4**
+
+| | Wealth | Talent | Own basic research | Borders | Points seen |
+| --- | --- | --- | --- | --- | --- |
+| US | 15 | 58.7 | 33 | **Open again** | L 13 |
+| China | 22 | 43.9 | 30 | Open | L 12, M 8 |
+| France | 8 | 1.8 | 9 | Open | M 8 |
+| Russia | 16 | 2.2 | 11 | Closed | L 10, M 2, H 0 |
+
+**What we learned:**
+- **Our research rolls have been unlucky:** 0 of 4 medium dice and 0 of 1 high-risk die have succeeded so far (each medium die succeeds half the time). Know-how is now high enough that every future medium success pays 6 points about 90% of the time.
+- **Spying worked:** two steals in one round. Because steals copy the target's total at the start of the round, the targets that matter are the ones that already have points (China and France now show 8 medium points each).
+- **Closing was the right call:** China tried to spy on our medium research and was caught; even if it had succeeded, our borders were closed.
+- **China is the wealthiest team now** (22) and the US reopened its borders, so all three rivals can be robbed.
+
+## Round 5 plan (Wednesday, Nov 18)
+
+About 2 rounds left (Rounds 5 and 6). Saving now only pays back in Round 6, and dice in Round 6 can only go to basic research beyond the 3 research dice and 2 spies, so we spend almost everything now.
+
+| Item | Choice | Cost |
+| --- | --- | --- |
+| Education | None | 0 |
+| Borders | No change (closed) | 0 |
+| Basic research | Everything left after research and spies (about 40) | about 40 |
+| Applied research | 2 medium + 1 high-risk | 1 + 1 + 2 |
+| Spies | China at M, US at M | 2 |
+| Saved | About 0 | |
+
+**Why:** about 40 basic-research dice add roughly 18 know-how before this round's rolls, taking know-how to about 47-50. That raises the high-risk jackpot chance from about 36% to about 65-70% (the cap is reached at know-how 50 for us), for both Round 5 and Round 6. Medium is already at its 90% cap. Spies: China has 8 medium points (a steal takes us from 2 to 8), and the US is open again and likely has the most medium points; France is a known 8 as well and is a fallback.
+
+## Rounds 5 onward
 
 Fill in after each round: what we entered, the reason submitted, the results from the logs, rivals' public numbers, and what we learned. The [gameplay record](05-gameplay-record.md) has a blank template and the final-report outline.
