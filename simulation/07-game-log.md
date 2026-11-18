@@ -64,6 +64,7 @@ The core plan (get rich early, build know-how, free-ride on rivals' basic resear
 | Nov 18, Round 5 | Unsure whether 2 or 3 rounds remained; asked why so much basic research and why not more research dice (capped at 2 medium + 1 high-risk) | Put 40 into basic research and saved nothing, the safe choice for both game lengths |
 | Nov 18, after Round 5 | Both medium dice hit (+12); know-how 51 (at cap); our US spy was caught; US and China closed; only France open | Round 6: max research, one spy on France at H, everything else into basic research, save nothing |
 | Nov 18, after Round 6 | **High-risk jackpot: +36 points**; know-how 70; US reopened; two rounds left (7 and 8) | Round 7: max research, spies on the US at L and M, save most for Round 8 and a larger final wealth bonus; Round 8: spend everything |
+| Nov 18, before Round 7 | Confirmed Round 7 is the final round | Dropped the saving: 40 into basic research for the multiplier, spend everything |
 
 ## Before the game: how the plan changed
 
@@ -336,20 +337,20 @@ The core plan (get rich early, build know-how, free-ride on rivals' basic resear
 
 **What we learned:** the "save, then strike" plan paid off. Saving made the large basic-research purchases possible, and know-how at the cap gave our one high-risk die a 70% chance of the jackpot once it succeeded. Our 36 high-risk points now make us a prime target, so staying closed matters more than ever.
 
-## Round 7 plan (Wednesday, Nov 18)
+## Round 7 plan (Wednesday, Nov 18): final round
 
-Two rounds left (Rounds 7 and 8); Round 8 is the last.
+First planned as two rounds left with saving for Round 8; then confirmed that **Round 7 is the last round**, so the saving was dropped (dice saved in the last round are lost).
 
 | Item | Choice | Cost |
 | --- | --- | --- |
 | Education | None | 0 |
 | Borders | No change (closed): protect the 36 high-risk points | 0 |
-| Applied research | 2 medium + 1 high-risk (high-risk is still allowed until it reaches 40) | 1 + 1 + 2 |
-| Spies | US at L (its 13 beats our 10, and a low-level spy on an open country is never caught), US at M (the US may have more than our 14) | 2 |
-| Basic research | 10 | 10 |
-| Saved | 30 (wealth 23 to 43, so 86 dice in Round 8 and a larger final wealth bonus) | |
+| Applied research | 2 medium + 1 high-risk | 1 + 1 + 2 |
+| Spies | US at L (its 13 beats our 10; never caught at L against an open country), US at M (fallback: France at L) | 2 |
+| Basic research | 40 | 40 |
+| Saved | 0 | |
 
-**Why save now:** know-how is far past the level where it improves research odds, so extra basic research only nudges the multiplier. Saving pays back in Round 8 as more basic research and also raises final wealth, which adds 2 x sqrt(W) to the score. In Round 8, spend everything.
+**Why:** know-how 70 is already past the levels where it improves research odds (medium's 90% cap at know-how 25 for us, high-risk's 70% jackpot cap at 50), and know-how never changes whether a die succeeds. Extra know-how now only raises the score multiplier, 1 + 0.2 ln(1 + TK): from 1.853 at 70 to about 1.904 at about 90, roughly +7 points. That is still the best use of the leftover 40 dice, because research and spies are capped, education does nothing, and savings are lost in the final round.
 
 ## Rounds 7 onward
 
