@@ -63,6 +63,7 @@ The core plan (get rich early, build know-how, free-ride on rivals' basic resear
 | Nov 18, after Round 4 | All research dice failed again, but two medium steals worked (+2 from France); China was caught spying on us; US reopened; know-how 29; about 2 rounds left | Spend almost everything in Round 5: basic research to push know-how toward 50 for high-risk odds, 2 medium + 1 high-risk, spies at M on China and the US |
 | Nov 18, Round 5 | Unsure whether 2 or 3 rounds remained; asked why so much basic research and why not more research dice (capped at 2 medium + 1 high-risk) | Put 40 into basic research and saved nothing, the safe choice for both game lengths |
 | Nov 18, after Round 5 | Both medium dice hit (+12); know-how 51 (at cap); our US spy was caught; US and China closed; only France open | Round 6: max research, one spy on France at H, everything else into basic research, save nothing |
+| Nov 18, after Round 6 | **High-risk jackpot: +36 points**; know-how 70; US reopened; two rounds left (7 and 8) | Round 7: max research, spies on the US at L and M, save most for Round 8 and a larger final wealth bonus; Round 8: spend everything |
 
 ## Before the game: how the plan changed
 
@@ -303,19 +304,53 @@ The core plan (get rich early, build know-how, free-ride on rivals' basic resear
 - **Spying turned into a free-for-all:** France and China were also caught spying on the US, and the US and China then closed their borders, the "closing doors over espionage fears" pattern the professor described. Only France is still open.
 - **Our score, roughly:** (10 + 2 x 14) x know-how multiplier 1.79 + wealth bonus about 9.6 = **about 78**, before Round 6.
 
-## Round 6 plan (Wednesday, Nov 18)
+## Round 6 (Wednesday, Nov 18)
 
-This may be the last round (or there may be one more). Know-how 51 is already at the cap for both medium (90%) and high-risk (70% jackpot) odds, so more basic research only nudges the score multiplier.
+**Starting position:** wealth 23, 46 dice, know-how 51 (at the cap for medium and high-risk odds), closed, points 10/14/0. Only France was open.
+
+**What we entered**
 
 | Item | Choice | Cost |
 | --- | --- | --- |
 | Education | None | 0 |
 | Borders | No change (closed) | 0 |
+| Basic research | 41 | 41 |
 | Applied research | 2 medium + 1 high-risk | 1 + 1 + 2 |
-| Spies | France at H (France is the only open country; its medium points equal ours, so a medium steal gains nothing) | 1 |
-| Basic research | Everything left (about 41) | about 41 |
-| Saved | 0 (savings in the last round are lost) | |
+| Spies | France at H | 1 |
+| Saved | 0 | |
 
-## Rounds 6 onward
+**Reason submitted:** "Our know-how is now at its peak, so we buy the maximum medium and radical research and put the rest into basic research to raise our score multiplier. We stay closed, since the US and China closed after the spying, and take one shot at France's radical research, the only country still open."
+
+**Why:** research dice are capped (2 medium + 1 high-risk), know-how was already at the cap for research odds, and we thought this might be the last round, so we saved nothing and put the rest into basic research for a small multiplier gain. France was the only open country; its medium points equaled ours, so we spied at high-risk instead.
+
+**Results**
+
+| | Before | After | Notes |
+| --- | --- | --- | --- |
+| Points (L/M/H) | 10/14/0 | 10/14/**36** | **The high-risk die hit the 36-point jackpot**, worth 108 in the score. Both medium dice failed |
+| Know-how | 51 | **70** | +16 from basic research, +3 from research dice |
+| Spy on France (H) | | Steal succeeded, but France had 0 high-risk points | Confirms France has no high-risk points |
+| Estimated score | about 78 | **about 280** | (10 + 2 x 14 + 3 x 36) x 1.85 + 2 x sqrt(23) |
+
+**Rivals after Round 6:** the US reopened (wealth 27, talent 117.7, L 13); China is closed with the most wealth (38; L 12, M 14); France is open (wealth 12, M 14, H 0). The US was caught spying on China.
+
+**What we learned:** the "save, then strike" plan paid off. Saving made the large basic-research purchases possible, and know-how at the cap gave our one high-risk die a 70% chance of the jackpot once it succeeded. Our 36 high-risk points now make us a prime target, so staying closed matters more than ever.
+
+## Round 7 plan (Wednesday, Nov 18)
+
+Two rounds left (Rounds 7 and 8); Round 8 is the last.
+
+| Item | Choice | Cost |
+| --- | --- | --- |
+| Education | None | 0 |
+| Borders | No change (closed): protect the 36 high-risk points | 0 |
+| Applied research | 2 medium + 1 high-risk (high-risk is still allowed until it reaches 40) | 1 + 1 + 2 |
+| Spies | US at L (its 13 beats our 10, and a low-level spy on an open country is never caught), US at M (the US may have more than our 14) | 2 |
+| Basic research | 10 | 10 |
+| Saved | 30 (wealth 23 to 43, so 86 dice in Round 8 and a larger final wealth bonus) | |
+
+**Why save now:** know-how is far past the level where it improves research odds, so extra basic research only nudges the multiplier. Saving pays back in Round 8 as more basic research and also raises final wealth, which adds 2 x sqrt(W) to the score. In Round 8, spend everything.
+
+## Rounds 7 onward
 
 Fill in after each round: what we entered, the reason submitted, the results from the logs, rivals' public numbers, and what we learned. The [gameplay record](05-gameplay-record.md) has a blank template and the final-report outline.
