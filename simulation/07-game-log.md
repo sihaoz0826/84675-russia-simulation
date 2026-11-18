@@ -4,6 +4,20 @@ A round-by-round record of what we entered, what happened, and why we decided wh
 
 The private and public logs on the game portal are the real results. The "Your Dice Rolls" table is only a preview, and twice it showed different rolls from the logs; this record uses the logs.
 
+## Every version of the plan
+
+Frozen copies are in [plan-history](plan-history/), so later edits can't overwrite them. The commit column points to the full set of files for each version.
+
+| Version | Date | Round 1 plan | Overall idea | Why it was replaced | Where to find it |
+| --- | --- | --- | --- | --- | --- |
+| 1. First draft | Nov 10 | Shares of the budget: 45% low-risk research, 15% basic research, 10% secondary education, 10% tertiary education, 20% saved; no spies; closed | Balanced spending under the two-page SIMULATION RULES, which gave no prices, odds, or score formula | Written before the real rules existed; heavily hedged | [brief-v1-first-draft-2026-11-10.md](plan-history/brief-v1-first-draft-2026-11-10.md), commit `190d894` |
+| 2. "Build, then break out" | Nov 12 | 45% low-risk research, 20% basic research, 15% education, 0% spies, 20% saved; closed | Use Russia's listed "late-game disruptive potential" for a high-risk push by Round 3; spy on the US and France from Round 2-3 | The full rulebook arrived the same day and changed the mechanics (no "disruptive potential", saving becomes wealth) | commit `bdd33bf` |
+| 3. "Save, then strike" | Nov 12 | 2 low-risk research dice, save 6; no education, basic research, or spies; closed | Save about three-quarters in Rounds 1-2, then spend from Round 3; free-ride on rivals' basic research; closed all game; spy on the open US and France from Round 2 | Learned the game would be longer than 3-7 rounds | [playbook-rulebook-version-2026-11-12.md](plan-history/playbook-rulebook-version-2026-11-12.md), commit `527faa4` |
+| 4. Save through Round 3 | Nov 13 | Same as version 3 | Expected 8-10 rounds over three classes, so save through Round 3 and spend from Round 4 | Nov 11 announcement: only two class sessions | commit `9d88f82` |
+| 5. **Submitted brief** | Nov 14 | 2 low-risk research dice, save 6; closed; no education or basic research | Same timing as version 4 for a 6-9 round game; plain language, round table, Gloria's own section | Still the official submitted plan; changed in class (below) | [brief-as-submitted-2026-11-14.md](plan-history/brief-as-submitted-2026-11-14.md) and [.pdf](plan-history/brief-as-submitted-2026-11-14.pdf), commit `c51966a` |
+| 6. Professor's alternative | Nov 16, before Round 1 | 2 low-risk research dice + 1 tertiary education, save 5 | Get rich, build universities, then open at Round 4 if talent would flow in or the US closes | Game turned out to be about 5-6 rounds | This log (below) |
+| 7. Short-game plan (played) | Nov 16, Round 1 | 2 low-risk research dice + 1 tertiary education + 2 basic research, save 3 | Save only in Rounds 1-2, then spend; opened borders in Round 2 as a test | In use | This log (Rounds 1-2 below) |
+
 ## Before the game: how the plan changed
 
 | When | What we learned | What we changed |
