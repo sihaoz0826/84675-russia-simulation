@@ -65,7 +65,7 @@ The core plan (get rich early, build know-how, free-ride on rivals' basic resear
 | Nov 18, after Round 5 | Both medium dice hit (+12); know-how 51 (at cap); our US spy was caught; US and China closed; only France open | Round 6: max research, one spy on France at H, everything else into basic research, save nothing |
 | Nov 18, after Round 6 | **High-risk jackpot: +36 points**; know-how 70; US reopened; two rounds left (7 and 8) | Round 7: max research, spies on the US at L and M, save most for Round 8 and a larger final wealth bonus; Round 8: spend everything |
 | Nov 18, before Round 7 | Confirmed Round 7 is the final round | Dropped the saving: 40 into basic research for the multiplier, spend everything |
-| Nov 18, after Round 7 | Both medium dice paid 6 (+12), US steal gave +3 L, final points 13/26/36, know-how 83 | Game over; final score about 336 by our calculation |
+| Nov 18, after Round 7 | Both medium dice paid 6 (+12), US steal gave +3 L, points 13/26/36, know-how 83 | Score about 336 by our calculation; the professor said there may be one more round next class |
 
 ## Before the game: how the plan changed
 
@@ -369,9 +369,13 @@ First planned as two rounds left with saving for Round 8; then confirmed that **
 
 **Rivals at the end (public table):** US wealth 31, talent 198.1, L 13, open; China wealth 73, talent 113.2, closed (L 12, M 14 last seen); France wealth 14, open (M 14, H 0 last seen). In the last round France was caught spying on China and the US, and the US was caught spying on China.
 
-## Final result
+## Result after Round 7
 
-**Russia's final score (our calculation):**
+**Status:** at the end of Wednesday's class the professor said there **might be one more round next class** (Monday, Nov 30), or the game might end here. China's medium points showed 20 on the final public table.
+
+**If there is a Round 8:** our L (13) and M (26) are at their caps, so the only research left is 1 high-risk die (H is at 36, below its cap of 40), which would cost just 1 die. Know-how 83 is far past the research-odds caps, so the rest should go to basic research for the multiplier (about +8 points). Spies gain little: the US and France are open, but none of their visible points beat ours; a high-risk spy on the US is the only real shot. Save nothing unless a Round 9 is confirmed.
+
+**Russia's score after Round 7 (our calculation):**
 
 | Piece | Value |
 | --- | --- |
