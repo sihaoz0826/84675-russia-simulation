@@ -18,6 +18,47 @@ Frozen copies are in [plan-history](plan-history/), so later edits can't overwri
 | 6. Professor's alternative | Nov 16, before Round 1 | 2 low-risk research dice + 1 tertiary education, save 5 | Get rich, build universities, then open at Round 4 if talent would flow in or the US closes | Game turned out to be about 5-6 rounds | This log (below) |
 | 7. Short-game plan (played) | Nov 16, Round 1 | 2 low-risk research dice + 1 tertiary education + 2 basic research, save 3 | Save only in Rounds 1-2, then spend; opened borders in Round 2 as a test | In use | This log (Rounds 1-2 below) |
 
+## How the professor's email changed our strategy
+
+Before the first session, Professor Canfil emailed us about the brief. Full text: [professor-feedback-before-game-2026-11-16.md](../semester-readings/sources/professor-feedback-before-game-2026-11-16.md).
+
+**What he said:** our education section "risks missing the forest for the trees". We used die-roll math to give up on education because of brain drain, but Russia could do "precisely the opposite": open its borders and invest heavily in tertiary education, possibly reversing the brain drain, "particularly if other major-draw countries begin closing their doors due to fears of espionage." In a follow-up he said he was "not suggesting you need to change your strategy," but wanted us to draw on course concepts and historical examples and develop our own strategic judgment, since the best moves depend on other teams' choices.
+
+**What we realized:**
+- Our brief and simulation treated Russia's talent flow (0.60) as fixed. The rulebook says it depends on wealth times university strength compared with rivals, and on rivals' border choices, so our own saving (which makes Russia rich) could change it.
+- We had overstated the cost of opening. A steal copies our points to the thief; we don't lose any. Opening early, when we have few points, risks very little.
+- Our own spying on the US could push it to close, which the rulebook says spreads its talent to other countries.
+- The idea matches course readings on reversing brain drain (Zweig) and on the US becoming less attractive to talent (Reif).
+
+**What we changed, and what happened:**
+
+| Change | When | Result |
+| --- | --- | --- |
+| Buy 1 tertiary education every round to build university strength | Round 1 | Our university level (TE) stayed at 2, so it did not seem to raise university strength. We stopped after Round 1 |
+| Treat opening the borders as a real option, with a trigger (richest country and university level at least the US's, or the US closes) | Planned for Round 4 | Moved earlier, to Round 2 |
+| Open in Round 2 as a cheap test, while we had only 4 points | Round 2 | Opened. Talent flow changes from the next round, so the test result comes after Round 3 |
+| Explain each round's choice with course concepts in the required reason sentence | Every round | Done; see the reasons submitted below |
+
+The core plan (get rich early, build know-how, free-ride on rivals' basic research) stayed. The email turned "closed all game, no education" into "test whether Russia can become a talent magnet as it gets richer."
+
+## Every change, in order
+
+| Date | What happened | What changed |
+| --- | --- | --- |
+| Nov 10 | First draft of the brief written under the two-page SIMULATION RULES | Plan version 1 (budget percentages) |
+| Nov 12 | Draft reviewed against the sources and rules: missing "late-game disruptive potential", wrong spy targets, voting rule inside the assessment | Plan version 2; statistics re-verified and new sources added |
+| Nov 12 | Full rulebook, worksheet, video, and portal example posted | Plan version 3, "save, then strike"; all game reasoning rewritten for the real rules |
+| Nov 13 | Team (Steve, Gloria, Tiger) met and agreed to the plan | Consensus sentence added to the brief |
+| Nov 13 | We believed the game would run three 80-minute classes (8-10 rounds) | Plan version 4: save through Round 3 |
+| Nov 14 | Brief rewritten in plainer words; round plan moved into a table | Same strategy, clearer brief |
+| Nov 14 | Nov 11 announcement found: game runs two sessions; brief due Sunday night with teammates cc'd; sections graded individually | Game length 6-9 rounds; saving through Round 3 kept (about 20% better in simulation) |
+| Nov 14 | Gloria rewrote her intelligence and immigration section in her own words, adding how the game simplifies real life | Her section replaced, with citations added; plan version 5 submitted |
+| Nov 16, before the game | Professor's email: think beyond the dice math; consider opening and investing in universities | Plan version 6: tertiary education each round, opening as an option |
+| Nov 16, in class | Learned only 2 rounds on Monday and about 3-4 on Wednesday (about 5-6 total) | Plan version 7: save only in Rounds 1-2, then spend; 2 basic research added in Round 1 |
+| Nov 16, after Round 1 | Our university level did not rise; China opened, France closed; rivals bought little basic research | Stopped education; spy targets became the US and China |
+| Nov 16, Round 2 | Decided to test opening while we had few points | Opened borders |
+| Nov 16, after Round 2 | Rivals' heavy basic research unlocked medium research for us; US and China also saving; US weak at low-level research | Round 3 plan: start medium research, save once more since at least two rounds remain, one spy on China |
+
 ## Before the game: how the plan changed
 
 | When | What we learned | What we changed |
