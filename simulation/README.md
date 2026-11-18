@@ -8,6 +8,7 @@ For Steve, Gloria, and Tiger.
 2. Read the [GTC rulebook](game-materials/GTC_Rulebook.pdf), watch the [briefing video](game-materials/GTC_ExecutivePlayer_Briefing.mp4) ([transcript](game-materials/briefing-video-transcript.md)), and complete your section of the [player guide worksheet](game-materials/GTC_Player_Guide.pdf) (graded; bring it Monday). The [portal example](game-materials/portal-example.pdf) shows the game screen.
 3. Use [the meeting agenda](04-team-meeting.md) to review the brief, vote, and fill in the consensus sentence.
 4. Bring [the game playbook](03-game-playbook.md) and [the gameplay record](05-gameplay-record.md) to the simulation.
+   The [game log](07-game-log.md) records every round we played: inputs, results, rivals' numbers, and our reasoning, for the final report.
 5. Consult [research and evidence](02-research-and-evidence.md) to check facts and to separate real-world findings from game rules.
 
 ## Role assignments
