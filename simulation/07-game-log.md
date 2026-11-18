@@ -65,6 +65,7 @@ The core plan (get rich early, build know-how, free-ride on rivals' basic resear
 | Nov 18, after Round 5 | Both medium dice hit (+12); know-how 51 (at cap); our US spy was caught; US and China closed; only France open | Round 6: max research, one spy on France at H, everything else into basic research, save nothing |
 | Nov 18, after Round 6 | **High-risk jackpot: +36 points**; know-how 70; US reopened; two rounds left (7 and 8) | Round 7: max research, spies on the US at L and M, save most for Round 8 and a larger final wealth bonus; Round 8: spend everything |
 | Nov 18, before Round 7 | Confirmed Round 7 is the final round | Dropped the saving: 40 into basic research for the multiplier, spend everything |
+| Nov 18, after Round 7 | Both medium dice paid 6 (+12), US steal gave +3 L, final points 13/26/36, know-how 83 | Game over; final score about 336 by our calculation |
 
 ## Before the game: how the plan changed
 
@@ -337,7 +338,7 @@ The core plan (get rich early, build know-how, free-ride on rivals' basic resear
 
 **What we learned:** the "save, then strike" plan paid off. Saving made the large basic-research purchases possible, and know-how at the cap gave our one high-risk die a 70% chance of the jackpot once it succeeded. Our 36 high-risk points now make us a prime target, so staying closed matters more than ever.
 
-## Round 7 plan (Wednesday, Nov 18): final round
+## Round 7 (Wednesday, Nov 18): final round
 
 First planned as two rounds left with saving for Round 8; then confirmed that **Round 7 is the last round**, so the saving was dropped (dice saved in the last round are lost).
 
@@ -352,6 +353,44 @@ First planned as two rounds left with saving for Round 8; then confirmed that **
 
 **Why:** know-how 70 is already past the levels where it improves research odds (medium's 90% cap at know-how 25 for us, high-risk's 70% jackpot cap at 50), and know-how never changes whether a die succeeds. Extra know-how now only raises the score multiplier, 1 + 0.2 ln(1 + TK): from 1.853 at 70 to about 1.904 at about 90, roughly +7 points. That is still the best use of the leftover 40 dice, because research and spies are capped, education does nothing, and savings are lost in the final round.
 
-## Rounds 7 onward
+**Reason submitted:** "In the final round, we stay closed to protect our radical breakthrough, buy the maximum medium and radical research, spy on the reopened US, and put everything else into basic research to raise our know-how multiplier, since saved dice are lost in the last round."
 
-Fill in after each round: what we entered, the reason submitted, the results from the logs, rivals' public numbers, and what we learned. The [gameplay record](05-gameplay-record.md) has a blank template and the final-report outline.
+(The high-risk die was first left at 0 by mistake and fixed to 1 before submitting.)
+
+**Results**
+
+| | Before | After | Notes |
+| --- | --- | --- | --- |
+| Points (L/M/H) | 10/14/36 | **13/26/36** | Both medium dice paid 6 (+12; "Discovered M tech!", medium reached its cap). The high-risk die failed. The +3 L came from the US steal |
+| Know-how | 70 | **83** | +10 from basic research (40 dice), +3 from research dice |
+| Spy on US (L) | | **Steal: copied 13 L points** (ours were 10) | +3 L points |
+| Spy on US (M) | | Failed | |
+| Wealth | 23 | 23 | Nothing saved in the last round |
+
+**Rivals at the end (public table):** US wealth 31, talent 198.1, L 13, open; China wealth 73, talent 113.2, closed (L 12, M 14 last seen); France wealth 14, open (M 14, H 0 last seen). In the last round France was caught spying on China and the US, and the US was caught spying on China.
+
+## Final result
+
+**Russia's final score (our calculation):**
+
+| Piece | Value |
+| --- | --- |
+| Weighted points: 13 + 2 x 26 + 3 x 36 | 173 |
+| Know-how multiplier: 1 + 0.2 ln(1 + 83) | 1.886 |
+| Points part: 173 x 1.886 | 326.3 |
+| Wealth bonus: 2 x sqrt(23) | 9.6 |
+| **Total** | **about 336** |
+
+The game master announces the official scores; rivals' medium and high-risk points and know-how were never fully visible, so the ranking is not known from our screen. China's wealth (73) gives it the largest wealth bonus (about 17), versus our 9.6.
+
+## Takeaways for the report
+
+1. **How the game unfolded:** we saved heavily in Rounds 1-3 (8, 12, 20, 32 dice), let rivals' public basic research unlock medium and high-risk research for us, then used large basic-research purchases to push know-how to the cap before rolling. Points came late: 10 L by Round 3, 14 M in Round 5, the 36-point high-risk jackpot in Round 6, and 26 M plus a stolen 13 L in Round 7.
+2. **Beliefs about our position:** after Rounds 1-4 we believed we were behind (our medium and high-risk dice kept failing while China and France showed medium points). After the Round 6 jackpot we believed we were competitive, since a jackpot counts three times.
+3. **How the strategy evolved:** the brief planned to stay closed and skip education. After the professor's email we tested his talent-magnet idea (one university purchase, opening in Round 2); the test failed because Russia's talent flow stayed below 1, and we closed again in Round 4. Learning the game was shorter (5-7 rounds) moved our spending earlier; the uncertain end date shaped how much we saved each round.
+4. **What we could have done differently:** saving one more round early might have funded more know-how sooner; we spent spies at the low-risk level in Rounds 2-3 where steals gained nothing; and buying 2 basic research in Round 1 slightly reduced early saving. Luck mattered a lot: our first 4 medium dice all failed.
+5. **Course concepts:** free-riding on public basic research (the public-goods problem); tacit knowledge that cannot be stolen (Gilli & Gilli) as Russia's edge; brain drain and the limits of reversing it (Zweig, Reif); research security versus openness as rivals closed and reopened after spying (NSPM-33, Walker-Munro).
+
+## Next step
+
+The simulation report is due Friday, December 4. The [gameplay record](05-gameplay-record.md) has the report outline; this log supplies the round-by-round evidence.
