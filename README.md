@@ -13,8 +13,8 @@ The brief contains the one-page country assessment, the three czar recommendatio
 
 ## The simulation report (due Friday, December 4)
 
-- [Printable simulation report (PDF)](simulation/Russia-simulation-report.pdf)
-- [Editable simulation report (Markdown)](simulation/08-simulation-report.md); rebuild the PDF with `python simulation	oolsuild_brief.py report`
+- [Simulation report for Google Docs (.docx)](simulation/Russia-simulation-report.docx): upload to Google Drive and open with Google Docs, or open it and paste into the team's Google Doc
+- [Editable source (Markdown)](simulation/08-simulation-report.md); rebuild the Word file with `python simulation	oolsuild_report_docx.py`
 - Evidence: the [round-by-round game log](simulation/07-game-log.md)
 
 ## Game materials (posted November 12)
