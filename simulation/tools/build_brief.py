@@ -1,12 +1,15 @@
-"""Build the printable strategy brief from 01-strategy-brief.md.
+"""Build the printable strategy brief (and the simulation report) from Markdown.
 
 Requires reportlab. Run from any directory with Python 3:
-    python simulation/tools/build_brief.py
+    python simulation/tools/build_brief.py            # strategy brief
+    python simulation/tools/build_brief.py report     # simulation report
 
-The country assessment is kept on page 1; each later section starts a new page.
+The brief keeps the country assessment on page 1 and starts each later section on a
+new page; the report flows continuously.
 """
 from pathlib import Path
 import re
+import sys
 from html import escape
 
 from reportlab.lib import colors
@@ -16,8 +19,12 @@ from reportlab.platypus import (KeepTogether, PageBreak, Paragraph, SimpleDocTem
                                 Spacer, Table, TableStyle)
 
 ROOT = Path(__file__).resolve().parents[1]
-SOURCE = ROOT / "01-strategy-brief.md"
-OUTPUT = ROOT / "Russia-strategy-brief.pdf"
+DOCS = {
+    "brief": (ROOT / "01-strategy-brief.md", ROOT / "Russia-strategy-brief.pdf",
+              "Team 2 | Russia | Strategy brief", "Russia: National Innovation Strategy Brief", True),
+    "report": (ROOT / "08-simulation-report.md", ROOT / "Russia-simulation-report.pdf",
+               "Team 2 | Russia | Simulation report", "Russia: Simulation Report", False),
+}
 
 TITLE = ParagraphStyle("Title", fontName="Helvetica-Bold", fontSize=15, leading=18, spaceAfter=3)
 SUB = ParagraphStyle("Sub", fontName="Helvetica", fontSize=8.5, leading=11, spaceAfter=8,
@@ -59,6 +66,13 @@ def table(block):
     else:  # size columns by their longest cell, within limits
         weights = [min(max(len(r[i]) for r in rows), 70) + 8 for i in range(ncols)]
         widths = [7.1 * inch * w / sum(weights) for w in weights]
+        floor = 0.62 * inch  # keep short columns (e.g. Round, Budget) from wrapping their headers
+        short = [i for i, w in enumerate(widths) if w < floor]
+        if short:
+            extra = sum(floor - widths[i] for i in short)
+            wide = [i for i in range(ncols) if i not in short]
+            total_wide = sum(widths[i] for i in wide)
+            widths = [floor if i in short else widths[i] - extra * widths[i] / total_wide for i in range(ncols)]
     t = Table(data, colWidths=widths, hAlign="LEFT")
     t.setStyle(TableStyle([
         ("BACKGROUND", (0, 0), (-1, 0), colors.HexColor("#E6EBF0")),
@@ -72,8 +86,9 @@ def table(block):
     return [t, Spacer(1, 7)]
 
 
-def build():
-    text = SOURCE.read_text(encoding="utf-8")
+def build(kind="brief"):
+    source, output, footer_text, doc_title, page_breaks = DOCS[kind]
+    text = source.read_text(encoding="utf-8")
     story = []
     first_section = True
     for block in re.split(r"\n\s*\n", text.strip()):
@@ -81,7 +96,7 @@ def build():
         if block.startswith("# "):
             story.append(Paragraph(inline(block[2:]), TITLE))
         elif block.startswith("## "):
-            if not first_section:
+            if not first_section and page_breaks:
                 story.append(PageBreak())
             first_section = False
             story.append(Paragraph(inline(block[3:]), H2))
@@ -99,18 +114,18 @@ def build():
     def footer(canvas, doc):
         canvas.saveState()
         canvas.setFont("Helvetica", 8)
-        canvas.drawString(0.7 * inch, 0.4 * inch, "Team 2 | Russia | Strategy brief")
+        canvas.drawString(0.7 * inch, 0.4 * inch, footer_text)
         canvas.drawRightString(7.8 * inch, 0.4 * inch, str(doc.page))
         canvas.restoreState()
 
-    doc = SimpleDocTemplate(str(OUTPUT), pagesize=(8.5 * inch, 11 * inch),
+    doc = SimpleDocTemplate(str(output), pagesize=(8.5 * inch, 11 * inch),
                             leftMargin=0.7 * inch, rightMargin=0.7 * inch,
                             topMargin=0.55 * inch, bottomMargin=0.65 * inch,
-                            title="Russia: National Innovation Strategy Brief",
+                            title=doc_title,
                             author="Team 2 (Russia)")
     doc.build(story, onFirstPage=footer, onLaterPages=footer)
-    return OUTPUT
+    return output
 
 
 if __name__ == "__main__":
-    print(build())
+    print(build(sys.argv[1] if len(sys.argv) > 1 else "brief"))

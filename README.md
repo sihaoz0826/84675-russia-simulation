@@ -11,6 +11,12 @@ Team roles: Steve handles technology strategy and is the executive, Gloria handl
 
 The brief contains the one-page country assessment, the three czar recommendations, the executive recommendation (including the decision rule and Round 1 allocation), and references. One item must be filled in after the team meeting: the bracketed consensus sentence at the end of the executive section.
 
+## The simulation report (due Friday, December 4)
+
+- [Printable simulation report (PDF)](simulation/Russia-simulation-report.pdf)
+- [Editable simulation report (Markdown)](simulation/08-simulation-report.md); rebuild the PDF with `python simulation	oolsuild_brief.py report`
+- Evidence: the [round-by-round game log](simulation/07-game-log.md)
+
 ## Game materials (posted November 12)
 
 - [GTC rulebook](simulation/game-materials/GTC_Rulebook.pdf) - controls all game mechanics
