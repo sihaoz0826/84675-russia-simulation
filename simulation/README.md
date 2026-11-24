@@ -42,6 +42,7 @@ Russia starts with the joint-smallest budget (W 4, 8 dice), the most know-how (T
 | Executive briefing video and transcript | November 12, 2026 | [game-materials/GTC_ExecutivePlayer_Briefing.mp4](game-materials/GTC_ExecutivePlayer_Briefing.mp4), [transcript](game-materials/briefing-video-transcript.md) |
 | Game portal example (US view) | November 12, 2026 | [game-materials/portal-example.pdf](game-materials/portal-example.pdf) |
 | Professor's feedback email on our strategy | Before the game, November 16, 2026 | [professor-feedback-before-game-2026-11-16.md](../semester-readings/sources/professor-feedback-before-game-2026-11-16.md) |
+| "Reminder about remaining assignment + final" (report due Dec 4, final exam format) | November 24, 2026 | [reminder-remaining-assignments-2026-11-24.md](../semester-readings/sources/reminder-remaining-assignments-2026-11-24.md) |
 | Course readings cited in the research notes | — | [gilli-gilli-2019.txt](../semester-readings/sources/gilli-gilli-2019.txt), [ding-published.txt](../semester-readings/sources/ding-published.txt) |
 
 The team-assignment announcement explains that Intelligence and Immigration are combined ("doubled up") into one role because teams are small; on our team, Gloria covers both.
